@@ -55,12 +55,13 @@ http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf
 #EXTINF:-1 tvg-id="foxmovies" tvg-name="FOX Movies" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/C1JHQ5Rr/1200px-Fox-Movies-Asia-logo-svg.png" group-title="MOVIES",FOX Movies
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 
+
 #EXTINF:-1 tvg-id="foxactionmovieshd.id" tvg-name="Fox Action Movies" tvg-logo="http://tvmalaysia.cc:80/images/5501142a5bf997c0fa17c6b39d848e1b.png" group-title="MOVIES",Fox Action Movies
 http://iptv.tvmalaysia.cc:80/989898/989898/8839
 #EXTINF:-1 tvg-id="cinemax.id" tvg-name="Cinemax FHD" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png" group-title="MOVIES",Cinemax FHD
 http://iptv.tvmalaysia.cc:80/989898/989898/7062
 #EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg" group-title="MOVIES",HBO FHD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="hbohitshd.id" tvg-name="HBO Hits FHD" tvg-logo="http://tvmalaysia.cc:80/images/dde6d5223d908187cdc7941755aeb078.jpg" group-title="MOVIES",HBO Hits FHD
 http://iptv.tvmalaysia.cc:80/989898/989898/7068
 #EXTINF:-1 tvg-id="hbosignaturehd.id" tvg-name="HBO Signature FHD" tvg-logo="http://tvmalaysia.cc:80/images/70c49744e9d20d7018631a3968bed6a2.png" group-title="MOVIES",HBO Signature FHD
@@ -101,8 +102,6 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="MOVIES",Galaxy tv
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
-#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="MOVIES",HBO Malaysia
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="CelestialClassicMovies.hk" tvg-name="Celestial Classic Movies" tvg-country="MY" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL+CLASSIC+MOVIES+logo.png" tvg-url="" group-title="MOVIES",Celestial Classic
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-id="CelestialMoviesMalaysia.hk" tvg-name="Celestial Movies Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/200px-CMC_English_full_color_black_text_2.jpg" tvg-url="" group-title="MOVIES",Celestial Movies
@@ -114,6 +113,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=galaxy
 http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/imc.png" group-title="MOVIES",IMC
 http://topwin-tv.my.id/2/master.m3u8?id=imc
+
 #EXTINF: -1 tvg-logo="https://bit.ly/31FhI20" group-title="SPORTS", Astro Sport 1
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://bit.ly/31FhI20" group-title="SPORTS", Astro Sport 2
