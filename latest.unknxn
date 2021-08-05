@@ -48,10 +48,10 @@ https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="226" tvg-chno="226" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716071259102dr2.png" group-title="MOVIES",SCM Legend HD
-https://www.we-play.tv/watching/tv/star-chinese-movies
+http://1.9.62.158/PLTV/88888888/224/3221227566/3221227566.mpd
 
-#EXTINF:-1 group-title="Movies" tvg-id="401" tvg-chno="401" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY" group-title="MOVIES",FOX Movies HD
-http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/63
+#EXTINF:-1 group-title="Movies" tvg-id="401" tvg-chno="401" tvg-logo="https://i.postimg.cc/C1JHQ5Rr/1200px-Fox-Movies-Asia-logo-svg.png" group-title="MOVIES",FOX Movies HD
+http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
 #EXTINF:-1 tvg-id="foxmovies" tvg-name="FOX Movies" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/C1JHQ5Rr/1200px-Fox-Movies-Asia-logo-svg.png" group-title="MOVIES",FOX Movies
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 
@@ -513,8 +513,6 @@ http://iptv.tvmalaysia.cc:80/movie/989898/989898/7137.mp4
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/7138.mp4
 #EXTINF:-1 tvg-id="" tvg-name="R.I.P.D. (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQ7CI5zmmhZlHuYBFKgK9w4hwlS.jpg" group-title="Action",R.I.P.D. (2013)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/7139.mp4
-#EXTINF:-1 tvg-id="" tvg-name="R. K. Nagar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Y4NqVVNzJBlAFSIZPidqgqa1n0.jpg" group-title="TAMIL | Malay Subtitle",R. K. Nagar (2019)
-http://iptv.tvmalaysia.cc:80/movie/989898/989898/7140.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Upin & Ipin: Keris Siamang Tunggal (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9vEMgw1Y7nG6gO1Zf516eAbVe5.jpg" group-title="Animasi",Upin & Ipin: Keris Siamang Tunggal (2019)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/7141.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Active Shooter (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OifgW2n1cSYHq9W0QNEreRLT1C.jpg" group-title="Drama",Active Shooter (2020)
