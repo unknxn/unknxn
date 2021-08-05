@@ -56,5 +56,36 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-id="CelestialMoviesMalaysia.hk" tvg-name="Celestial Movies Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/200px-CMC_English_full_color_black_text_2.jpg" tvg-url="" group-title=""MOVIES",Celestial Movies 天映频道
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/galax.png" group-title="MOVIES",Galaxy
+http://topwin-tv.my.id/2/master.m3u8?id=galaxy
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/galaxypremium.png" group-title="MOVIES",Galaxy Premium
+http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/imc.png" group-title="MOVIES",IMC
+http://topwin-tv.my.id/2/master.m3u8?id=imc
+#EXTINF: -1 tvg-logo="https://bit.ly/31FhI20" group-title="SPORTS", Astro Sport 1
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://bit.ly/31FhI20" group-title="SPORTS", Astro Sport 2
+http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/champions1.png" group-title="SPORTS",Champions TV 1
+http://topwin-tv.my.id/2/master.m3u8?id=champion1
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/bein1.png" group-title="SPORTS",Bein Sport 2
+http://topwin-tv.my.id/2/master.m3u8?id=bein2
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/foxsport2.png" group-title="SPORTS",fox sport 2
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/foxsport3.png" group-title="SPORTS",fox sport 3
+http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/useesport1.png" group-title="SPORTS",UseeSports 1
+http://topwin-tv.my.id/2/master.m3u8?id=useesport
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/useesport2.png" group-title="SPORTS",UseeSports 2
+http://topwin-tv.my.id/2/master.m3u8?id=useesports2
+#EXTINF:0 tvg-id="Golf.es" group-title="SPORTS",Golf
+http://topwin-tv.my.id/2/master.m3u8?id=golfplus
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="SPORTS",NBA
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/animax.png" group-title="ANIME",Animax
+http://topwin-tv.my.id/2/master.m3u8?id=animax
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/aniplus.png" group-title="ANIME",Aniplus
+http://topwin-tv.my.id/2/master.m3u8?id=aniplus
+#EXTINF:-1 tvg-id="ksa.alqurantv" group-title="Makkah TV" tvg-logo="http://kamiselaluada.com/img/mekkah.png", Al Quran Al Kareem TV 
+http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8 
 © 2021 GitHub, Inc.
 
