@@ -97,7 +97,7 @@ http://iptv.tvmalaysia.cc:80/989898/989898/8998
 http://iptv.tvmalaysia.cc:80/989898/989898/8999
 #EXTINF:-1 tvg-logo=https://www.adgully.com/img/400/201906/3f7ztlui_400x400.jpg group-title="MOVIES",&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id= tvg-logo=https://static.epg.best/in/AndPrive.in.png group-title="MOVIES",and Prive
+#EXTINF:-1 tvg-id= tvg-logo=https://static.epg.best/in/AndPrive.in.png group-title="MOVIES", Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="MOVIES",Galaxy tv
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
@@ -107,6 +107,7 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-id="CelestialMoviesMalaysia.hk" tvg-name="Celestial Movies Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/200px-CMC_English_full_color_black_text_2.jpg" tvg-url="" group-title="MOVIES",Celestial Movies
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/galax.png" group-title="MOVIES",Galaxy
 http://topwin-tv.my.id/2/master.m3u8?id=galaxy
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/galaxypremium.png" group-title="MOVIES",Galaxy Premium
@@ -139,7 +140,9 @@ http://topwin-tv.my.id/2/master.m3u8?id=aniplus
 #EXTINF:-1 tvg-id="ksa.alqurantv" group-title="Makkah TV" tvg-logo="http://kamiselaluada.com/img/mekkah.png", Al Quran Al Kareem TV 
 http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
 
-http://iptv.tvmalaysia.cc:80/989898/989898/7205
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Edward Scissorhands (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RFIbuW9Z3eN9Oxw2KaQG5DfLmD.jpg" group-title="Fantasy",Edward Scissorhands (1990)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/296.mp4
 #EXTINF:-1 tvg-id="" tvg-name="3 Idiots (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1iWMypGjk1b59oCHLtyfd4hw99.jpg" group-title="Bollywood",3 Idiots (2009)
@@ -618,8 +621,6 @@ http://iptv.tvmalaysia.cc:80/movie/989898/989898/7313.mp4
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/7314.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Underwater (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzlbb3yeVISpQ3REd3Ga1scWGTU.jpg" group-title="Action",Underwater (2020)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/7315.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vaastu Shastra (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBAOfYXIXFRfA3buv2r9fXmd8xF.jpg" group-title="TAMIL | Malay Subtitle",Vaastu Shastra (2004)
-http://iptv.tvmalaysia.cc:80/movie/989898/989898/7316.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Veer-Zaara (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j267YqLvKAHeyykTflxzpgVgviQ.jpg" group-title="Bollywood",Veer-Zaara (2004)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/7317.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Venom (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg" group-title="Action",Venom (2018)
