@@ -49,9 +49,10 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="226" tvg-chno="226" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716071259102dr2.png" group-title="MOVIES",SCM Legend HD
 https://www.we-play.tv/watching/tv/star-chinese-movies
+
 #EXTINF:-1 group-title="Movies" tvg-id="401" tvg-chno="401" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY" group-title="MOVIES",FOX Movies HD
 http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/63
-#EXTINF:-1 tvg-id="foxmovies" tvg-name="FOX Movies" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/C1JHQ5Rr/1200px-Fox-Movies-Asia-logo-svg.png" group-title="Movies",FOX Movies
+#EXTINF:-1 tvg-id="foxmovies" tvg-name="FOX Movies" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/C1JHQ5Rr/1200px-Fox-Movies-Asia-logo-svg.png" group-title="MOVIES",FOX Movies
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 
 #EXTINF:-1 tvg-id="foxactionmovieshd.id" tvg-name="Fox Action Movies" tvg-logo="http://tvmalaysia.cc:80/images/5501142a5bf997c0fa17c6b39d848e1b.png" group-title="MOVIES",Fox Action Movies
@@ -59,13 +60,13 @@ http://iptv.tvmalaysia.cc:80/989898/989898/8839
 #EXTINF:-1 tvg-id="cinemax.id" tvg-name="Cinemax FHD" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png" group-title="MOVIES",Cinemax FHD
 http://iptv.tvmalaysia.cc:80/989898/989898/7062
 #EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg" group-title="MOVIES",HBO FHD
-http://iptv.tvmalaysia.cc:80/989898/989898/7067
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8
 #EXTINF:-1 tvg-id="hbohitshd.id" tvg-name="HBO Hits FHD" tvg-logo="http://tvmalaysia.cc:80/images/dde6d5223d908187cdc7941755aeb078.jpg" group-title="MOVIES",HBO Hits FHD
 http://iptv.tvmalaysia.cc:80/989898/989898/7068
 #EXTINF:-1 tvg-id="hbosignaturehd.id" tvg-name="HBO Signature FHD" tvg-logo="http://tvmalaysia.cc:80/images/70c49744e9d20d7018631a3968bed6a2.png" group-title="MOVIES",HBO Signature FHD
-http://iptv.tvmalaysia.cc:80/989898/989898/7069
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 tvg-id="hbofamilyhd.id" tvg-name="HBO Family FHD" tvg-logo="http://tvmalaysia.cc:80/images/edd35b48dea4ae392512307e9adb7fcd.png" group-title="MOVIES",HBO Family FHD
-http://iptv.tvmalaysia.cc:80/989898/989898/7070
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="hitsmovies.id" tvg-name="Hits Movies" tvg-logo="http://tvmalaysia.cc:80/images/b2edde7e3fcfc5cf87738f80ce5e1336.png" group-title="MOVIES",Hits Movies
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 tvg-id="warnertv.id" tvg-name="Warner TV HD" tvg-logo="http://tvmalaysia.cc:80/images/85fd03e3d30040c99bfcec3cbb51cbe1.png" group-title="MOVIES",Warner TV HD
