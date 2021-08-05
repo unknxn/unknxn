@@ -44,7 +44,6 @@ https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-id="MaahTV.my" tvg-name="Maah TV" tvg-country="MY" tvg-language="" tvg-logo="https://i.imgur.com/MRWFcox.jpg" group-title="",Maah TV [Not 24/7]
 http://51.210.199.33/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo=https://www.adgully.com/img/400/201906/3f7ztlui_400x400.jpg group-title=MOVIES, and Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id= tvg-logo=https://static.epg.best/in/AndPrive.in.png group-title=MOVIES,and Prive
@@ -57,7 +56,5 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-id="CelestialMoviesMalaysia.hk" tvg-name="Celestial Movies Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/200px-CMC_English_full_color_black_text_2.jpg" tvg-url="" group-title=""MOVIES",Celestial Movies 天映频道
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-
-
 © 2021 GitHub, Inc.
 
