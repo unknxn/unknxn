@@ -51,10 +51,8 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 https://www.we-play.tv/watching/tv/star-chinese-movies
 #EXTINF:-1 group-title="Movies" tvg-id="401" tvg-chno="401" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY" group-title="MOVIES",FOX Movies HD
 http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/63
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-http://185.238.0.145:1313/c/ku/foxmovies.m3u8
-http://tvku.live:8888/Tamtowi/mY6WYb498C/98
-http://iptvtree.net:8080/13354/27c12697/174690
+#EXTINF:-1 tvg-id="foxmovies" tvg-name="FOX Movies" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/C1JHQ5Rr/1200px-Fox-Movies-Asia-logo-svg.png" group-title="Movies",FOX Movies
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 
 #EXTINF:-1 tvg-id="foxactionmovieshd.id" tvg-name="Fox Action Movies" tvg-logo="http://tvmalaysia.cc:80/images/5501142a5bf997c0fa17c6b39d848e1b.png" group-title="MOVIES",Fox Action Movies
 http://iptv.tvmalaysia.cc:80/989898/989898/8839
