@@ -134,8 +134,23 @@ https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=galaxy
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/galaxypremium.png" group-title="MOVIES",Galaxy Premium
 http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
+
+
 #EXTINF:-1 tvg-id="" tvg-name="MY| CINEMAX HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/cinemaxhd.png" group-title="Test 2",MY| CINEMAX HD
 http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391034
+#EXTINF: -1 group-title="Test 2", ASTRO Ria HD
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190433
+#EXTINF: -1 group-title="Test 2", ASTRO AOD 351 HD
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190452
+#EXTINF: -1 group-title="Test 2", ASTRO AOD 352 HD
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190453
+#EXTINF: -1 group-title="Test 2", ASTRO AOD 353 HD
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190454
+#EXTINF: -1 group-title="Test 2", ASTRO AOD 354 HD
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190455
+#EXTINF: -1 group-title="Test 2", ASTRO AOD 355 HD
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190456
+
 
 
 #EXTINF: -1 tvg-logo="https://bit.ly/31FhI20" group-title="SPORTS", Astro Sport 1
