@@ -49,10 +49,10 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Movies" tvg-id="226" tvg-chno="226" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716071259102dr2.png" group-title="MOVIES",SCM Legend HD
+#EXTINF:-1 tvg-id="226" tvg-chno="226" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716071259102dr2.png" group-title="MOVIES",SCM Legend HD
 https://nonton.site:8443/provision/pp/1859
 
-#EXTINF:-1 group-title="Movies" tvg-id="401" tvg-chno="401" tvg-logo="https://i.postimg.cc/C1JHQ5Rr/1200px-Fox-Movies-Asia-logo-svg.png" group-title="MOVIES",FOX Movies HD
+#EXTINF:-1 tvg-id="401" tvg-chno="401" tvg-logo="https://i.postimg.cc/C1JHQ5Rr/1200px-Fox-Movies-Asia-logo-svg.png" group-title="MOVIES",FOX Movies HD
 https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
 #EXTINF:-1 tvg-id="foxmovies" tvg-name="FOX Movies" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/C1JHQ5Rr/1200px-Fox-Movies-Asia-logo-svg.png" group-title="MOVIES",FOX Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
@@ -108,6 +108,14 @@ https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-id="CelestialMoviesMalaysia.hk" tvg-name="Celestial Movies Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/200px-CMC_English_full_color_black_text_2.jpg" tvg-url="" group-title="MOVIES",Celestial Movies
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 tvg-name="MBC Action" tvg-language="English" tvg-country="SA" tvg-id="MBC Action" tvg-logo="http://www.allied-media.com/ARABTV/images/mbc-max-nlogo.jpg" group-title="MOVIES",MBC Action (Movie Channels) (SA) (English)
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:-1 tvg-name="MBC Action" tvg-language="Arabic" tvg-country="TN" tvg-id="MBC Action" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/082010/MBC_Action.png?itok=_xecjyZ6" group-title="MOVIES",MBC Action (Movie Channels) (TN) (Arabic)
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:0 tvg-name="Sky Movies Action" tvg-language="English" tvg-country="UK" tvg-id="Sky Movies Action" tvg-logo="http://www.skygo.co.nz/_content/channel_logos/logo_032_127x58.png" group-title="MOVIES",Sky Movies Action (Movie Channels) (UK) (English)
+http://iptv-supplier.com:8000/live/mad/mad/300.m3u8
+#EXTINF:-1 tvg-name="Sky Movies Premiere" tvg-language="English" tvg-country="UK" tvg-id="Sky Movies Premiere" tvg-logo="http://img.joinskyhd.co.uk/moviespremiere.gif" group-title="MOVIES",Sky Movies Premiere (Movie Channels) (UK) (English)
+http://iptv-supplier.com:8000/live/mad/mad/293.m3u
 
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/cinemax.jpg",Cinemax HD(EN)
