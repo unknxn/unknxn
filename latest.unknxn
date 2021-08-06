@@ -55,7 +55,7 @@ https://nonton.site:8443/provision/pp/1859
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="foxactionmovieshd.id" tvg-name="Fox Action Movies" tvg-logo="http://tvmalaysia.cc:80/images/5501142a5bf997c0fa17c6b39d848e1b.png" group-title="MOVIES",Fox Action Movies
-http://tvku.live:8888/provision/pp/99
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="cinemax.id" tvg-name="Cinemax FHD" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png" group-title="MOVIES",Cinemax FHD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
@@ -97,7 +97,7 @@ http://iptv.tvmalaysia.cc:80/989898/989898/8998
 http://iptv.tvmalaysia.cc:80/989898/989898/8999
 #EXTINF:-1 tvg-logo=https://www.adgully.com/img/400/201906/3f7ztlui_400x400.jpg group-title="MOVIES",&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id= tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_&_Privé_HD.jpg" group-title="MOVIES", Prive HD
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428154_ico.png" group-title="MOVIES",&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="MOVIES",Galaxy tv
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
@@ -120,10 +120,13 @@ https://dl.dropbox.com/s/7739twoy1i3u55r/cinemaworld.m3u8?dl=0
 
 
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="WAR.Asia" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="MOVIES",Warner TV 
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png",Cinemax SD(EN)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg" group-title="MOVIES",HBO (EN)
+#EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg" group-title="MOVIES",HBO SD(EN)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-id="hbosignaturehd.id" tvg-name="HBO Signature FHD" tvg-logo="http://tvmalaysia.cc:80/images/70c49744e9d20d7018631a3968bed6a2.png" group-title="MOVIES",HBO Signature SD(EN)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
@@ -167,7 +170,7 @@ http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
 
 
 
-#EXTINF:-1 group-title="LUTFI | VOD 1" tvg-logo="https://bit.ly/2Tnl5GH",The Monkey King 3
+#EXTINF:-1 group-title="Action" tvg-logo="https://bit.ly/2Tnl5GH",The Monkey King 3
 https://www.dropbox.com/s/tb5pkl8i6dwply6/[FILMAPIK.CA] - The Monkey King 3 (2018)_2.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="Edward Scissorhands (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RFIbuW9Z3eN9Oxw2KaQG5DfLmD.jpg" group-title="Fantasy",Edward Scissorhands (1990)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/296.mp4
