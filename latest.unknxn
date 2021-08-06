@@ -53,7 +53,7 @@ https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189168
 
 
 #EXTINF:-1 tvg-id="226" tvg-chno="226" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716071259102dr2.png" group-title="MOVIES",SCM Legend HD
-https://nonton.site:8443/provision/pp/1859
+https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM.m3u8
 
 #EXTINF:-1 tvg-id="401" tvg-chno="401" tvg-logo="https://i.postimg.cc/C1JHQ5Rr/1200px-Fox-Movies-Asia-logo-svg.png" group-title="MOVIES",FOX Movies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
