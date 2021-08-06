@@ -46,7 +46,9 @@ http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroXiaoTaiYang.my" tvg-name="Astro Xiao Tai Yang" tvg-country="MY" tvg-language="" tvg-logo="http://astrokentico.s3.amazonaws.com/xuan/channels/325.png" group-title="MALAYSIA ALL",Astro(Astro Xiao Tai Yang) [Not 24/7]
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 #EXTINF:-1 tvg-id="TVIKIM.my" tvg-name="TVIKIM" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MALAYSIA ALL",TVIKIM (720p) [Not 24/7]
-http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188693
+#EXTINF: -1 group-title="MALAYSIA ALL", TVIKIM
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189168
 
 
 
@@ -163,41 +165,32 @@ https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190484
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190485
 #EXTINF: -1 group-title="Test 2", FX Cinema HD
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190490
-#EXTINF: -1 group-title="freeee", Warner TV
+#EXTINF: -1 group-title="Test 2", Warner TV
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190507
-#EXTINF: -1 group-title="freeee", TV SARAWAK
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190509
-#EXTINF: -1 group-title="freeee", tvN Movies
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190510
-#EXTINF: -1 group-title="freeee", tvN HD
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190511
-#EXTINF: -1 group-title="freeee", Fox Movies Premium
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190547
-#EXTINF: -1 group-title="freeee", Fox Action Movies
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190548
-#EXTINF: -1 group-title="freeee", Cinemax FHD
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190549
-#EXTINF: -1 group-title="freeee", HBO FHD
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190550
-#EXTINF: -1 group-title="freeee", HBO Hits FHD
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190551
-#EXTINF: -1 group-title="freeee", HBO Signature FHD
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190552
-#EXTINF: -1 group-title="freeee", HBO Family FHD
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190553
-#EXTINF: -1 group-title="freeee", Hits Movies
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190554
-#EXTINF: -1 group-title="freeee", Red By HBO HD
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190555
-#EXTINF: -1 group-title="freeee", Warner TV HD
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190556
-#EXTINF: -1 group-title="freeee", tVN movies HD
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190557
 
-
-
-
-
+#EXTINF: -1 group-title="freeee", Cinemax
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/3.m3u8?token=Zalogi
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShzUhRbHUaC2OqWpN6Knjh37im8g0-Bejk6Q&usqp=CAU" group-title="freeee", Celestial Movies
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188053
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" group-title="freeee", FOX ACTION MOVIES
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188040
+#EXTINF: -1 tvg-logo="https://thumbs2.imgbox.com/c5/29/pZSnfNbm_t.jpg" group-title="freeee", FOX Action Movies HD
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188363
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ6Xvyvy/images-27.jpg" group-title="freeee", Fox Movies Premium
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190170
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C13tZyVj/fox-action-movies-logo.png" group-title="freeee", Fox Action Movies
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190171
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="freeee", CelestialMovie
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188378
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="freeee", Cinemax
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188404
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="freeee", CINEMAX
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188412
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="freeee", CINEWORLD
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ6Xvyvy/images-27.jpg" group-title="freeee", Fox Movies Premium
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331191137
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C13tZyVj/fox-action-movies-logo.png" group-title="freeee", Fox Action Movies
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331191138
 
 
 
@@ -250,6 +243,306 @@ https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm
 
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradioperakfm.jpg" group-title="Radio", Perak FM 
 https://perakfmmobile.secureswiftcontent.com/rtm-ch038/rtm-ch038/chunklist.m3u8
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [001] Surah Alfatihah (Pembukaan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190281
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [002] Surah Al-Baqarah (Lembu Betina)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190282
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [003] Surah Ali 'Imran (Keluarga Imran)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190283
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [004] Surah An-Nisaa' (Wanita)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190284
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [005] Surah Al-Maa'idah (Hidangan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190285
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [006] Surah Al-An'aam (Binatang Ternakan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190286
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [007] Surah Al-A'raaf (Tempat Tertinggi)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190287
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [008] Surah Al-Anfaal (Rampasan Perang)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190288
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [009] Surah At-Taubah (Pengampunan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190289
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [010] Surah Yunus (Nabi Yunus a.s.)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190290
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [011] Surah Hud (Nabi Hud a.s.)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190291
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [012] Surah Yusuf (Nabi Yusuf a.s.)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190292
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [013] Surah Ar-Ra'd (Guruh)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190293
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [014] Surah Ibrahim (Nabi Ibrahim a.s.)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190294
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [015] Surah Al-Hijr (Kawasan Berbatu)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190295
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [016] Surah An-Nahl (Lebah)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190296
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [017] Surah Al-Israa' (Perjalanan Malam)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190297
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [018] Surah Al-Kahfi (Gua)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190298
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [019] Surah Maryam (Siti Maryam)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190299
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [020] Surah Taahaa
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190300
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [021] Surah Al-Anbiyaa' (Para Nabi)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190301
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [022] Surah Al-Hajj (Haji)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190302
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [025] Surah Al-Furqaan (Pembeza Kebenaran dan Kebatilan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190303
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [027] Surah An-Naml (Semut)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190304
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [028] Surah Al-Qasas (Cerita-cerita)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190305
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [029] Surah Al-'Ankabut (Labah-labah)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190306
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [030] Surah Ar-Rum (Bangsa Rom)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190307
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [031] Surah Luqman (Luqman)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190308
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [032] Surah As-Sajdah (Sujud)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190309
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [033] Surah Al-Ahzab (Golongan yang Bersekutu)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190310
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [034] Surah Saba' (Kaum Saba')
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190311
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [035] Surah Faatir (Pencipta)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190312
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [036] Surah Yaasin
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190313
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [038] Surah Saad
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190314
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [039] Surah Az-Zumar (Rombongan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190315
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [041] Surah Fussilat (Dijelaskan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190316
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [042] Surah Asy-Syuraa (Permesyuaratan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190317
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [043] Surah Az-Zukhruf (Perhiasan Emas)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190318
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [045] Surah Al-Jatsiyah (Yang Berlutut)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190319
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [046] Surah Al-Ahqaaf (Bukit-bukit Pasir)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190320
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [047] Surah Muhammad (Nabi Muhammad SAW)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190321
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [048] Surah Al-Fath (Kemenangan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190322
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [049] Surah Al-Hujurat (Bilik-bilik)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190323
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [050] Surah Qaaf
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190324
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [051] Surah Adz-Dzariyaat (Angin yang Menerbangkan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190325
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [052] Surah At-Tur (Bukit)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190326
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [053] Surah An-Najm (Bintang)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190327
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [054] Surah Al-Qamar (Bulan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190328
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [055] Surah Ar-Rahman (Yang Maha Pemurah)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190329
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [058] Surah Al-Mujadilah (Perempuan yang Merayu)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190330
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [059] Surah Al-Hasyr (Pengusiran)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190331
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [060] Surah Al-Mumtahanah (Perempuan yang Diuji)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190332
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [061] Surah As-Saf (Barisan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190333
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [062] Surah Al-Jumu'ah (Hari Jumaat)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190334
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [063] Surah Al-Munafiquun (Golongan Munafik)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190335
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [064] Surah At-Taghabun (Dinampakkan Kesalahan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190336
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [065] Surah At-Talaq (Cerai / Talak)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190337
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [066] Surah At-Tahrim (Mengharamkan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190338
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [067] Surah Al-Mulk (Kerajaan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190339
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [068] Surah Al-Qalam (Pena / Kalam)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190340
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [069] Surah Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190341
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [071] Surah Nuh (Nabi Nuh a.s.)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190342
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [073] Surah Al-Muzammil (Yang Berselimut)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190343
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [074] Surah Al-Muddathir (Yang Berselubung)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190344
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [075] Surah Al-Qiyaamah (Hari Kebangkitan / Kiamat)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190345
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [077] Surah Al-Mursalat (Malaikat Yang Diutus)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190346
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [078] Surah An-Naba' (Berita Besar)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190347
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [079] Surah An-Naazi'aat (Malaikat Yang Mencabut)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190348
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [080] Surah 'Abasa (Dia Bermasam Muka)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190349
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [081] Surah At-Takwiir (Menggulung)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190350
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [083] Surah Al-Mutaffifiin (Golongan yang Curang)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190351
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [084] Surah Al-Insyiqaaq (Terbelah)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190352
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [085] Surah Al-Buruj (Gugusan Bintang)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190353
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [086] Surah At-Taariq (Pengunjung Malam)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190354
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [088] Surah Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190355
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [089] Surah Al-Fajr (Fajar / Sinar Mentari)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190356
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [090] Surah Al-Balad (Negeri)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190357
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [091] Surah Asy-Syams (Matahari)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190358
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [092] Surah Al-Lail (Malam)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190359
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [093] Surah Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190360
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [094] Surah Al-Insyirah/An-Nasyrah (Melapangkan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190361
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [095] Surah At-Tin (Buah Tin / Buah Ara)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190362
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [096] Surah Al-'Alaq (Segumpal Darah)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190363
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [097] Surah Al-Qadr (Kemuliaan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190364
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [098] Surah Al-Baiyinah (Bukti yang Nyata)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190365
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [099] Surah Al-Zalzalah (Kegoncangan)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190366
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [100] Surah Al-'Aadiyaat (Yang Berlari Kencang)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190367
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [101] Surah Al-Qari'ah (Hari Yang Hingar Bingar/kiamat)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190368
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [102] Surah At-Takathur (Bermegah-Megah)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190369
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [103] Surah Al-'Asr (Masa)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190370
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [104] Surah Al-Humazah (Pengumpat)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190371
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [106] Surah Quraisy (Kaum Quraisy)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190372
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [111] Surah Al-Masad / Al-Lahab (Nyalaan Api)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190373
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [112] Surah Al-Ikhlas (Tulus Ikhlas / Memurnikan Keesaan Allah)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190374
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [113] Surah Al-Falaq (Waktu Subuh / Dinihari)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190375
+#EXTINF: -1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/gambar-alquran-png-5.png" group-title="TV ALQUR'AN", [114] Surah An-Naas (Manusia)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190376
+
+
+
+
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7cqjh1g.jpg" group-title="TV VOD TV SERIES", >>>>> Servant Season 1 <<<<<
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189900
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7cqjh1g.jpg" group-title="TV VOD TV SERIES", Servant S01E01
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189901
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7cqjh1g.jpg" group-title="TV VOD TV SERIES", Servant S01E02
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189902
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7cqjh1g.jpg" group-title="TV VOD TV SERIES", Servant S01E03
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189903
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7cqjh1g.jpg" group-title="TV VOD TV SERIES", Servant S01E04
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189904
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7cqjh1g.jpg" group-title="TV VOD TV SERIES", Servant S01E05
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189905
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7cqjh1g.jpg" group-title="TV VOD TV SERIES", Servant S01E06
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189906
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7cqjh1g.jpg" group-title="TV VOD TV SERIES", Servant S01E07
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189907
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7cqjh1g.jpg" group-title="TV VOD TV SERIES", Servant S01E08
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189908
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7cqjh1g.jpg" group-title="TV VOD TV SERIES", Servant S01E10
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189909
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/1aKOMmR.jpg" group-title="TV VOD TV SERIES", >>>>> See Season 1 <<<<<
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189910
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/1aKOMmR.jpg" group-title="TV VOD TV SERIES", See S01E01
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189911
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/1aKOMmR.jpg" group-title="TV VOD TV SERIES", See S01E02
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189912
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/1aKOMmR.jpg" group-title="TV VOD TV SERIES", See S01E03
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189913
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/1aKOMmR.jpg" group-title="TV VOD TV SERIES", See S01E04
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189914
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/1aKOMmR.jpg" group-title="TV VOD TV SERIES", See S01E05
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189915
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/1aKOMmR.jpg" group-title="TV VOD TV SERIES", See S01E06
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189916
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/1aKOMmR.jpg" group-title="TV VOD TV SERIES", See S01E07
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189917
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/1aKOMmR.jpg" group-title="TV VOD TV SERIES", See S01E08
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189918
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/QzZN3YN.jpg" group-title="TV VOD TV SERIES", >>>>> Locke & Key Season 1 <<<<<
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189919
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/QzZN3YN.jpg" group-title="TV VOD TV SERIES", Locke & Key S01E01
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189920
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/QzZN3YN.jpg" group-title="TV VOD TV SERIES", Locke & Key S01E02
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189921
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/QzZN3YN.jpg" group-title="TV VOD TV SERIES", Locke & Key S01E03
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189922
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/QzZN3YN.jpg" group-title="TV VOD TV SERIES", Locke & Key S01E04
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189923
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/QzZN3YN.jpg" group-title="TV VOD TV SERIES", Locke & Key S01E05
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189924
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/QzZN3YN.jpg" group-title="TV VOD TV SERIES", Locke & Key S01E06
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189925
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/QzZN3YN.jpg" group-title="TV VOD TV SERIES", Locke & Key S01E07
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189926
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/QzZN3YN.jpg" group-title="TV VOD TV SERIES", Locke & Key S01E08
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189927
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/QzZN3YN.jpg" group-title="TV VOD TV SERIES", Locke & Key S01E09
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189928
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/QzZN3YN.jpg" group-title="TV VOD TV SERIES", Locke & Key S01E10
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189929
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/EAMGVY9.jpg" group-title="TV VOD TV SERIES", >>>>> Elite Season 1 <<<<<
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189930
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/EAMGVY9.jpg" group-title="TV VOD TV SERIES", Elite S01E01
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189931
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/EAMGVY9.jpg" group-title="TV VOD TV SERIES", Elite S01E02
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189932
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/EAMGVY9.jpg" group-title="TV VOD TV SERIES", Elite S01E03
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189933
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/EAMGVY9.jpg" group-title="TV VOD TV SERIES", Elite S01E04
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189934
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/EAMGVY9.jpg" group-title="TV VOD TV SERIES", Elite S01E05
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189935
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/EAMGVY9.jpg" group-title="TV VOD TV SERIES", Elite S01E06
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189936
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/EAMGVY9.jpg" group-title="TV VOD TV SERIES", Elite S01E07
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189937
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/EAMGVY9.jpg" group-title="TV VOD TV SERIES", Elite S01E08
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189938
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/EAMGVY9.jpg" group-title="TV VOD TV SERIES", >>>>> Elite Season 2 <<<<<
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189939
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/EAMGVY9.jpg" group-title="TV VOD TV SERIES", Elite S02E01
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189940
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/EAMGVY9.jpg" group-title="TV VOD TV SERIES", Elite S02E02
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189941
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/EAMGVY9.jpg" group-title="TV VOD TV SERIES", Elite S02E03
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189942
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/EAMGVY9.jpg" group-title="TV VOD TV SERIES", Elite S02E04
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189943
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/EAMGVY9.jpg" group-title="TV VOD TV SERIES", Elite S02E05
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189944
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/EAMGVY9.jpg" group-title="TV VOD TV SERIES", Elite S02E06
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189945
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/EAMGVY9.jpg" group-title="TV VOD TV SERIES", Elite S02E07
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189946
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/EAMGVY9.jpg" group-title="TV VOD TV SERIES", Elite S02E08
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189947
+
 
 
 
