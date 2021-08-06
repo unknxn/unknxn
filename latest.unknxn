@@ -81,7 +81,7 @@ http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
 #EXTINF:-1 tvg-id="thrill.id" tvg-name="Thrill" tvg-logo="http://tvmalaysia.cc:80/images/963c196b98b7111073c3ae49f91f3d3f.jpg" group-title="MOVIES",Thrill
 http://iptv.tvmalaysia.cc:80/989898/989898/7220
 #EXTINF:-1 tvg-id="axnhd.id" tvg-name="AXN" tvg-logo="http://tvmalaysia.cc:80/images/7890c2461a7545adcc4b2050f334a152.jpg" group-title="MOVIES",AXN
-ttp://178.21.120.198:1935/live3/_definst_/mp4:axnscifi/playlist.m3u8
+http://178.21.120.198:1935/live3/_definst_/mp4:axnscifi/playlist.m3u8
 #EXTINF:-1 tvg-id="foxcrime.id" tvg-name="Fox Crime" tvg-logo="http://tvmalaysia.cc:80/images/956e6c6e1bf91476f99d573849bbe706.jpg" group-title="MOVIES",Fox Crime
 http://iptv.tvmalaysia.cc:80/989898/989898/7225
 #EXTINF:-1 tvg-id="foxhd.id" tvg-name="FOX" tvg-logo="http://tvmalaysia.cc:80/images/fb4a91d4d15cd876e63f4b83a35b2ce4.png" group-title="MOVIES",FOX
