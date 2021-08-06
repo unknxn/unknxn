@@ -55,8 +55,6 @@ https://nonton.site:8443/provision/pp/1859
 
 #EXTINF:-1 tvg-id="401" tvg-chno="401" tvg-logo="https://i.postimg.cc/C1JHQ5Rr/1200px-Fox-Movies-Asia-logo-svg.png" group-title="MOVIES",FOX Movies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 group-title="MOVIES", Fox Movies Premium
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190547
 
 #EXTINF:-1 tvg-id="foxactionmovieshd.id" tvg-name="Fox Action Movies" tvg-logo="http://tvmalaysia.cc:80/images/5501142a5bf997c0fa17c6b39d848e1b.png" group-title="MOVIES",Fox Action Movies
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190548
@@ -64,12 +62,12 @@ https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190548
 
 #EXTINF:-1 tvg-id="cinemax.id" tvg-name="Cinemax FHD" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png" group-title="MOVIES",Cinemax FHD
 https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png",Cinemax SD(EN)
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png",Cinemax SD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg" group-title="MOVIES",HBO FHD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg" group-title="MOVIES",HBO SD(EN)
+#EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg" group-title="MOVIES",HBO SD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="hbohitshd.id" tvg-name="HBO Hits FHD" tvg-logo="http://tvmalaysia.cc:80/images/dde6d5223d908187cdc7941755aeb078.jpg" group-title="MOVIES",HBO Hits FHD
@@ -80,9 +78,9 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="hitsmovies.id" tvg-name="Hits Movies" tvg-logo="http://tvmalaysia.cc:80/images/b2edde7e3fcfc5cf87738f80ce5e1336.png" group-title="MOVIES",Hits Movies
 https://www.dropbox.com/s/dl/i6sz78ezl98lrrc/carawaktv-hbohits.m3u8
-#EXTINF:-1 tvg-id="warnertv.id" tvg-name="Warner TV HD" tvg-logo="http://tvmalaysia.cc:80/images/85fd03e3d30040c99bfcec3cbb51cbe1.png" group-title="MOVIES",Warner TV HD
+#EXTINF:-1 tvg-id="warnertv.id" tvg-name="Warner TV HD" tvg-logo="http://tvmalaysia.cc:80/images/85fd03e3d30040c99bfcec3cbb51cbe1.png" group-title="MOVIES",Warner TV HD viet sub
 http://203.154.243.89:11205/
-#EXTINF:-1 tvg-id="warnertv.id" tvg-name="Warner TV HD" tvg-logo="http://tvmalaysia.cc:80/images/85fd03e3d30040c99bfcec3cbb51cbe1.png" group-title="MOVIES",Warner TV HD
+#EXTINF:-1 tvg-id="warnertv.id" tvg-name="Warner TV HD" tvg-logo="http://tvmalaysia.cc:80/images/85fd03e3d30040c99bfcec3cbb51cbe1.png" group-title="MOVIES",Warner TV HD 
 http://iptv.tvmalaysia.cc:80/989898/989898/7072
 #EXTINF:-1 tvg-id="celestialmovies.id" tvg-name="Celestial Movies" tvg-logo="http://tvmalaysia.cc:80/images/00a16262a08aa5b141f58e660f016339.jpg" group-title"MOVIES",Celestial Movies
 http://iptv.tvmalaysia.cc:80/989898/989898/7235
@@ -91,7 +89,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync
 #EXTINF:-1 tvg-id="thrill.id" tvg-name="Thrill" tvg-logo="http://tvmalaysia.cc:80/images/963c196b98b7111073c3ae49f91f3d3f.jpg" group-title="MOVIES",Thrill
 http://iptv.tvmalaysia.cc:80/989898/989898/7220
 #EXTINF:-1 tvg-id="axnhd.id" tvg-name="AXN" tvg-logo="http://tvmalaysia.cc:80/images/7890c2461a7545adcc4b2050f334a152.jpg" group-title="MOVIES",AXN
-http://94.23.35.42/cCloudTv/parser.php?surl=http://stream.anluong.info/xemlivetv/axn_nexttv.php
+http://iptv.tvmalaysia.cc:80/989898/989898/7223
 #EXTINF:-1 tvg-id="foxcrime.id" tvg-name="Fox Crime" tvg-logo="http://tvmalaysia.cc:80/images/956e6c6e1bf91476f99d573849bbe706.jpg" group-title="MOVIES",Fox Crime
 http://iptv.tvmalaysia.cc:80/989898/989898/7225
 #EXTINF:-1 tvg-id="foxhd.id" tvg-name="FOX" tvg-logo="http://tvmalaysia.cc:80/images/fb4a91d4d15cd876e63f4b83a35b2ce4.png" group-title="MOVIES",FOX
@@ -128,7 +126,6 @@ https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC Action" tvg-language="Arabic" tvg-country="TN" tvg-id="MBC Action" tvg-logo="https://stream4television.files.wordpress.com/2013/07/fe21f-mbc_action_hd.png" group-title="MOVIES",MBC Action (Movie Channels) (TN) (Arabic)
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="MOVIES",CinemaWorld
 https://dl.dropbox.com/s/7739twoy1i3u55r/cinemaworld.m3u8?dl=0
 
