@@ -47,6 +47,11 @@ https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 #EXTINF:-1 tvg-id="TVIKIM.my" tvg-name="TVIKIM" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MALAYSIA ALL",TVIKIM (720p) [Not 24/7]
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2I3YzU3OWQtY2Y1MS0zYTMyLTgyMzMtZGZiNGEzZDFhNmRi
+#EXTINF:-1 group-title="Movies" tvg-id="226" tvg-chno="226" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716071259102dr2.png",SCM Legend HD
+http://1.9.62.158/PLTV/88888888/224/3221227566/3221227566.mpd
 #EXTINF:-1 group-title="Movies" tvg-id="226" tvg-chno="226" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716071259102dr2.png" group-title="MOVIES",SCM Legend HD
 https://nonton.site:8443/provision/pp/1859
 
