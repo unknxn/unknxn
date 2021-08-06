@@ -52,8 +52,7 @@ https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189168
 
 
 
-#EXTINF:-1 tvg-id="226" tvg-chno="226" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716071259102dr2.png" group-title="MOVIES",SCM Legend HD
-https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM.m3u8
+
 
 #EXTINF:-1 tvg-id="401" tvg-chno="401" tvg-logo="https://i.postimg.cc/C1JHQ5Rr/1200px-Fox-Movies-Asia-logo-svg.png" group-title="MOVIES",FOX Movies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
@@ -111,6 +110,9 @@ http://iptv.tvmalaysia.cc:80/989898/989898/8999
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428154_ico.png" group-title="MOVIES",&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="58e55b14ad8e9c364d55f717" tvg-chno="112" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" group-title="MOVIES",Flicks of Fury
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 #EXTINF:-1 tvg-id="ccm.id" tvg-name="Celestial Classic Movies." tvg-logo="http://tvmalaysia.cc:80/images/895f475aeff0da729ad1e5f21a450875.jpg" group-title="MOVIES",Celestial Classic Movies.
 http://iptv.tvmalaysia.cc:80/989898/989898/7222
@@ -122,14 +124,15 @@ http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png",Paramount Network
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
+
+#EXTINF:-1 tvg-id="226" tvg-chno="226" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716071259102dr2.png" group-title="MOVIES",SCM Legend HD
+https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES", K-Movies (720p)
 https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FMgtqM8.jpg" tvg-url="" group-title="MOVIES",Hallmark Movies & More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC Action" tvg-language="Arabic" tvg-country="TN" tvg-id="MBC Action" tvg-logo="https://stream4television.files.wordpress.com/2013/07/fe21f-mbc_action_hd.png" group-title="MOVIES",MBC Action (Movie Channels) (TN) (Arabic)
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="MOVIES",Galaxy tv
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/galax.png" group-title="MOVIES",Galaxy
@@ -139,8 +142,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
 
 
 
-#EXTINF: -1 group-title="freeee", Cinemax
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/3.m3u8?token=Zalogi
+
 #EXTINF: -1 group-title="Test 2", TV 3 HD
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190540
 #EXTINF: -1 group-title="Test 2", ASTRO Ria HD
@@ -159,16 +161,8 @@ https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190455
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190456
 #EXTINF: -1 group-title="Test 2", Warner TV
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190507
-
-
-
-
-
-
-
-
-
-
+#EXTINF: -1 group-title="Test 2", Cinemax
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/3.m3u8?token=Zalogi
 
 
 
