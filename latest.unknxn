@@ -55,7 +55,7 @@ https://nonton.site:8443/provision/pp/1859
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="foxactionmovieshd.id" tvg-name="Fox Action Movies" tvg-logo="http://tvmalaysia.cc:80/images/5501142a5bf997c0fa17c6b39d848e1b.png" group-title="MOVIES",Fox Action Movies
-#http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cinemax.id" tvg-name="Cinemax FHD" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png" group-title="MOVIES",Cinemax FHD
 https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
@@ -92,7 +92,7 @@ http://iptv.tvmalaysia.cc:80/989898/989898/7229
 #EXTINF:-1 tvg-id="ccm.id" tvg-name="Celestial Classic Movies." tvg-logo="http://tvmalaysia.cc:80/images/895f475aeff0da729ad1e5f21a450875.jpg" group-title="MOVIES",Celestial Classic Movies.
 http://iptv.tvmalaysia.cc:80/989898/989898/7222
 #EXTINF:-1 tvg-id="" tvg-name="Star Movies HD" tvg-logo="http://tvmalaysia.cc:80/images/ac70f22a3e263c94424e4f488136489e.png" group-title="MOVIES",Star Movies HD
-http://iptv.tvmalaysia.cc:80/989898/989898/8997
+http://sansat.net:25461/12Xaman07124/FBrssgdJD3/53664
 #EXTINF:-1 tvg-id="" tvg-name="MNX" tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="MOVIES",MNX
 http://iptv.tvmalaysia.cc:80/989898/989898/8998
 #EXTINF:-1 tvg-id="" tvg-name="Movies Now" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="MOVIES",Movies Now
