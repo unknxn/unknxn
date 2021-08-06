@@ -126,8 +126,7 @@ https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC Action" tvg-language="Arabic" tvg-country="TN" tvg-id="MBC Action" tvg-logo="https://stream4television.files.wordpress.com/2013/07/fe21f-mbc_action_hd.png" group-title="MOVIES",MBC Action (Movie Channels) (TN) (Arabic)
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="MOVIES",CinemaWorld
-https://dl.dropbox.com/s/7739twoy1i3u55r/cinemaworld.m3u8?dl=0
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="MOVIES",Galaxy tv
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
@@ -137,6 +136,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=galaxy
 http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
 #EXTINF:-1 tvg-id="" tvg-name="MY| CINEMAX HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/cinemaxhd.png" group-title="Test 2",MY| CINEMAX HD
 http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391034
+
 
 #EXTINF: -1 tvg-logo="https://bit.ly/31FhI20" group-title="SPORTS", Astro Sport 1
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
