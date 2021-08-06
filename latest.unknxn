@@ -141,8 +141,12 @@ http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190478
 #EXTINF:-1 tvg-id="" tvg-name="MY| CINEMAX HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/cinemaxhd.png" group-title="Test 2",MY| CINEMAX HD
 http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391034
+#EXTINF: -1 group-title="Test 2", TV 3 HD
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190540
 #EXTINF: -1 group-title="Test 2", ASTRO Ria HD
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190433
+#EXTINF: -1 group-title="Test 2", TV-AlHijrah
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190517
 #EXTINF: -1 group-title="Test 2", ASTRO AOD 351 HD
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190452
 #EXTINF: -1 group-title="Test 2", ASTRO AOD 352 HD
@@ -153,10 +157,55 @@ https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190454
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190455
 #EXTINF: -1 group-title="Test 2", ASTRO AOD 355 HD
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190456
-#EXTINF: -1 group-title="freeee", Cinemax HD
+#EXTINF: -1 group-title="Test 2", Cinemax HD
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190484
-#EXTINF: -1 group-title="freeee", Celestial Movies HD
+#EXTINF: -1 group-title="Test 2", Celestial Movies HD
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190485
+#EXTINF: -1 group-title="Test 2", FX Cinema HD
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190490
+#EXTINF: -1 group-title="freeee", Warner TV
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190507
+#EXTINF: -1 group-title="freeee", TV SARAWAK
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190509
+#EXTINF: -1 group-title="freeee", tvN Movies
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190510
+#EXTINF: -1 group-title="freeee", tvN HD
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190511
+#EXTINF: -1 group-title="freeee", Fox Movies Premium
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190547
+#EXTINF: -1 group-title="freeee", Fox Action Movies
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190548
+#EXTINF: -1 group-title="freeee", Cinemax FHD
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190549
+#EXTINF: -1 group-title="freeee", HBO FHD
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190550
+#EXTINF: -1 group-title="freeee", HBO Hits FHD
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190551
+#EXTINF: -1 group-title="freeee", HBO Signature FHD
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190552
+#EXTINF: -1 group-title="freeee", HBO Family FHD
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190553
+#EXTINF: -1 group-title="freeee", Hits Movies
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190554
+#EXTINF: -1 group-title="freeee", Red By HBO HD
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190555
+#EXTINF: -1 group-title="freeee", Warner TV HD
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190556
+#EXTINF: -1 group-title="freeee", tVN movies HD
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190557
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF: -1 tvg-logo="https://bit.ly/31FhI20" group-title="SPORTS", Astro Sport 1
