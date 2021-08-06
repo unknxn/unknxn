@@ -94,13 +94,13 @@ http://iptv.tvmalaysia.cc:80/989898/989898/7229
 http://iptv.tvmalaysia.cc:80/989898/989898/7222
 #EXTINF:-1 tvg-id="" tvg-name="Star Movies HD" tvg-logo="http://tvmalaysia.cc:80/images/ac70f22a3e263c94424e4f488136489e.png" group-title="MOVIES",Star Movies HD
 http://iptv.tvmalaysia.cc:80/989898/989898/8997
-#EXTINF:-1 tvg-id="" tvg-name="MNX" tvg-logo="" group-title="MOVIES",MNX
+#EXTINF:-1 tvg-id="" tvg-name="MNX" tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="MOVIES",MNX
 http://iptv.tvmalaysia.cc:80/989898/989898/8998
-#EXTINF:-1 tvg-id="" tvg-name="Movies Now" tvg-logo="" group-title="MOVIES",Movies Now
+#EXTINF:-1 tvg-id="" tvg-name="Movies Now" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="MOVIES",Movies Now
 http://iptv.tvmalaysia.cc:80/989898/989898/8999
 #EXTINF:-1 tvg-logo=https://www.adgully.com/img/400/201906/3f7ztlui_400x400.jpg group-title="MOVIES",&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/gJ5CN6nD/prive-hd.png" group-title="MOVIES", Prive HD
+#EXTINF:-1 tvg-id= tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_&_Privé_HD.jpg" group-title="MOVIES", Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="MOVIES",Galaxy tv
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
@@ -125,7 +125,7 @@ http://210.210.155.35/uq2663/h/h04/01.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-name="MBC Action" tvg-language="English" tvg-country="SA" tvg-id="MBC Action" tvg-logo="http://www.allied-media.com/ARABTV/images/mbc-max-nlogo.jpg" group-title="MOVIES",MBC Action (Movie Channels) (SA) (English)
 http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1 tvg-name="MBC Action" tvg-language="Arabic" tvg-country="TN" tvg-id="MBC Action" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/082010/MBC_Action.png?itok=_xecjyZ6" group-title="MOVIES",MBC Action (Movie Channels) (TN) (Arabic)
-http://63.237.48.23/ios/MBC2/MBC2.m3u8
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-name="Sky Movies Premiere" tvg-language="English" tvg-country="UK" tvg-id="Sky Movies Premiere" tvg-logo="http://img.joinskyhd.co.uk/moviespremiere.gif" group-title="MOVIES",Sky Movies Premiere (Movie Channels) (UK) (English)
 http://iptv-supplier.com:8000/live/mad/mad/300.m3u8
 
