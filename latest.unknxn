@@ -153,10 +153,8 @@ http://iptv.tvmalaysia.cc:80/989898/989898/7178
 http://iptv.tvmalaysia.cc:80/989898/989898/8750
 #EXTINF: -1 group-title="TV Backup", TV 3 HD
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190540
-#EXTINF: -1 group-title="TV Backup", ASTRO Ria HD
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/28LWLFCD/Ria.png" group-title="TV Backup",ASTRO Ria HD
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190433
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/28LWLFCD/Ria.png" group-title="TV Backup",Astro Ria HD
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 #EXTINF: -1 group-title="TV Backup", TV-AlHijrah
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190517
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/bvpS57ky/Prima.png" group-title="TV Backup",Astro Prima HD
@@ -164,7 +162,7 @@ http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pLNFfhdn/Oasis.png" group-title="TV Backup",Astro Oasis HD
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/4xTYKD86/Warna.png" group-title="TV Backup",Astro Warna HD
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/fbfmTzDS/Citra.png" group-title="TV Backup",Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/FK404d5Q/Naura.png" group-title="TV Backup",Naura HD
