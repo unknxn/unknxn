@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/101.png",TV1
-https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",TV2
 https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
