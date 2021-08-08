@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/u9uPPgo.jpg" group-title="MALAYSIA ALL",TV1 (720p)
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="MALAYSIA ALL",TV2 (720p)
@@ -41,10 +41,12 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 tvg-id="Boo.my" tvg-name="Boo" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="MALAYSIA ALL",Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="Astro Shuang Xing" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/76/Astro%E9%9B%99%E6%98%9F.png/200px-Astro%E9%9B%99%E6%98%9F.png" group-title="MALAYSIA ALL",Astro Shuang Xing
+#EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="Astro Shuang Xing" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png" group-title="MALAYSIA ALL",Astro Shuang Xing
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroXiaoTaiYang.my" tvg-name="Astro Xiao Tai Yang" tvg-country="MY" tvg-language="" tvg-logo="http://astrokentico.s3.amazonaws.com/xuan/channels/325.png" group-title="MALAYSIA ALL",Astro(Astro Xiao Tai Yang) [Not 24/7]
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroQuanJiaHD.my" tvg-name="Astro Quan Jia HD" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png" tvg-url="" group-title="MALAYSIA ALL",Astro Quan Jia HD
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 #EXTINF:-1 tvg-id="TVIKIM.my" tvg-name="TVIKIM" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MALAYSIA ALL",TVIKIM (720p) [Not 24/7]
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188693
 #EXTINF: -1 group-title="MALAYSIA ALL", TVIKIM
@@ -167,8 +169,8 @@ http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/FK404d5Q/Naura.png" group-title="TV Backup",Naura HD
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-#EXTINF: -1 group-title="TV Backup", ASTRO AOD 351 HD
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190452
+#EXTINF:-1 group-title="TV Backup", tvg-id="AstroAOD311.my" tvg-name="Astro AOD 311" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" tvg-url="" group-title="Malaysia",Astro AOD 311
+http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 #EXTINF: -1 group-title="TV Backup", ASTRO AOD 352 HD
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190453
 #EXTINF: -1 group-title="TV Backup", ASTRO AOD 353 HD
@@ -779,7 +781,7 @@ https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331189743
 
 
 
-#EXTINF:-1 group-title="Fantasy" tvg-logo="https://bit.ly/2Tnl5GH",The Monkey King 3
+#EXTINF:-1 group-title="Fantasy" tvg-logo="",The Monkey King 3
 https://www.dropbox.com/s/tb5pkl8i6dwply6/[FILMAPIK.CA] - The Monkey King 3 (2018)_2.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="Edward Scissorhands (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RFIbuW9Z3eN9Oxw2KaQG5DfLmD.jpg" group-title="Fantasy",Edward Scissorhands (1990)
 http://iptv.tvmalaysia.cc:80/movie/989898/989898/296.mp4
