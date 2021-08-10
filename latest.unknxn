@@ -44,6 +44,12 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 tvg-id="Boo.my" tvg-name="Boo" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="MALAYSIA ALL",Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/animax.png" group-title="MALAYSIA ALL",Animax
+http://topwin-tv.my.id/2/master.m3u8?id=animax
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/aniplus.png" group-title="MALAYSIA ALL",Aniplus
+http://topwin-tv.my.id/2/master.m3u8?id=aniplus
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyCgc3HH/alkareem.png" group-title="MALAYSIA ALL" tvg-logo="http://kamiselaluada.com/img/mekkah.png", Al Quran Al Kareem TV 
+http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
 #EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="Astro Shuang Xing" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png" group-title="MALAYSIA ALL",Astro Shuang Xing
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroXiaoTaiYang.my" tvg-name="Astro Xiao Tai Yang" tvg-country="MY" tvg-language="" tvg-logo="http://astrokentico.s3.amazonaws.com/xuan/channels/325.png" group-title="MALAYSIA ALL",Astro(Astro Xiao Tai Yang) [Not 24/7]
@@ -65,18 +71,14 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 http://iptv.tvmalaysia.cc:80/989898/989898/8838
 #EXTINF:-1 tvg-id="foxactionmovieshd.id" tvg-name="Fox Action Movies" tvg-logo="http://tvmalaysia.cc:80/images/5501142a5bf997c0fa17c6b39d848e1b.png" group-title="MOVIES",Fox Action Movies
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190548
-
-
 #EXTINF:-1 tvg-id="cinemax.id" tvg-name="Cinemax FHD" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png" group-title="MOVIES",Cinemax FHD
 https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png",Cinemax SD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-
 #EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg" group-title="MOVIES",HBO FHD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg" group-title="MOVIES",HBO SD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-
 #EXTINF:-1 tvg-id="hbohitshd.id" tvg-name="HBO Hits FHD" tvg-logo="http://tvmalaysia.cc:80/images/dde6d5223d908187cdc7941755aeb078.jpg" group-title="MOVIES",HBO Hits FHD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-id="hbosignaturehd.id" tvg-name="HBO Signature FHD" tvg-logo="http://tvmalaysia.cc:80/images/70c49744e9d20d7018631a3968bed6a2.png" group-title="MOVIES",HBO Signature FHD
@@ -103,20 +105,22 @@ hthttps://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190574
 http://iptv.tvmalaysia.cc:80/989898/989898/7228
 #EXTINF:-1 tvg-id="kix.id" tvg-name="KiX" tvg-logo="http://tvmalaysia.cc:80/images/c9d2b55dea34704104efde328f0436a3.png" group-title="MOVIES",KiX
 http://iptv.tvmalaysia.cc:80/989898/989898/7229
-
 #EXTINF:-1 tvg-id="" tvg-name="Star Movies HD" tvg-logo="http://tvmalaysia.cc:80/images/ac70f22a3e263c94424e4f488136489e.png" group-title="MOVIES",Star Movies HD
-http://sansat.net:25461/12Xaman07124/FBrssgdJD3/53664
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885255
 #EXTINF:-1 tvg-id="" tvg-name="MNX" tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="MOVIES",MNX
 http://iptv.tvmalaysia.cc:80/989898/989898/8998
 #EXTINF:-1 tvg-id="" tvg-name="Movies Now" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="MOVIES",Movies Now
 http://iptv.tvmalaysia.cc:80/989898/989898/8999
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png",Paramount Network
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FMgtqM8.jpg" tvg-url="" group-title="MOVIES",Hallmark Movies & More
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo=https://www.adgully.com/img/400/201906/3f7ztlui_400x400.jpg group-title="MOVIES",&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428154_ico.png" group-title="MOVIES",&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="58e55b14ad8e9c364d55f717" tvg-chno="112" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" group-title="MOVIES",Flicks of Fury
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 group-title="MOVIES",Celestial Classic
 http://iptv.tvmalaysia.cc:80/989898/989898/7222
 #EXTINF:-1 tvg-id="celestialmovies.id" tvg-name="Celestial Movies" tvg-logo="http://tvmalaysia.cc:80/images/00a16262a08aa5b141f58e660f016339.jpg" group-title"MOVIES",Celestial Movies
@@ -129,14 +133,8 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-id="celestialmovies" tvg-logo="https://i.postimg.cc/xCB2jRkp/celestial.png" group-title="MOVIES",Celestial Movie
 http://iptv.tvmalaysia.cc:80/989898/989898/7235
-
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png",Paramount Network
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES", K-Movies (720p)
 https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FMgtqM8.jpg" tvg-url="" group-title="MOVIES",Hallmark Movies & More
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC Action" tvg-language="Arabic" tvg-country="TN" tvg-id="MBC Action" tvg-logo="https://stream4television.files.wordpress.com/2013/07/fe21f-mbc_action_hd.png" group-title="MOVIES",MBC Action (Movie Channels) (TN) (Arabic)
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="MOVIES",Galaxy tv
@@ -145,6 +143,8 @@ https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=galaxy
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/galaxypremium.png" group-title="MOVIES",Galaxy Premium
 http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
+
+
 
 
 
@@ -187,7 +187,162 @@ https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190507
 #EXTINF: -1 group-title="TV Backup", Cinemax
 https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 
-
+#EXTINF: -1 group-title="MOVIES2", STAR MOVIES
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885255
+#EXTINF: -1 group-title="MOVIES2", Movies Now
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885256
+#EXTINF: -1 group-title="MOVIES2", TESTNEW
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885257
+#EXTINF: -1 group-title="MOVIES2", FLIX
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885258
+#EXTINF: -1 group-title="MOVIES2", Marvels Action Movies
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885259
+#EXTINF: -1 group-title="MOVIE2S", Action Movies
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885260
+#EXTINF: -1 group-title="MOVIES2", English Movies
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885261
+#EXTINF: -1 group-title="MOVIES2", Galaxy HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088677
+#EXTINF: -1 group-title="MOVIE2S", Galaxy FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088678
+#EXTINF: -1 group-title="MOVIES2", Galaxy Premium HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088679
+#EXTINF: -1 group-title="MOVIES2", Galaxy Premium FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088680
+#EXTINF: -1 group-title="MOVIES2", FOX FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088681
+#EXTINF: -1 group-title="MOVIES2", Fox HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088682
+#EXTINF: -1 group-title="MOVIES2", FOX Movies Premium FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088683
+#EXTINF: -1 group-title="MOVIES2", Fox Movies HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088684
+#EXTINF: -1 group-title="MOVIES2", FOX Action Movies FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088685
+#EXTINF: -1 group-title="MOVIES2", Fox Action HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088686
+#EXTINF: -1 group-title="MOVIES2", FOX Crime FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088687
+#EXTINF: -1 group-title="MOVIES2", Fox Crime HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088688
+#EXTINF: -1 group-title="MOVIES2", FOX Life FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088689
+#EXTINF: -1 group-title="MOVIES2", Fox Life HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088690
+#EXTINF: -1 group-title="MOVIES2", FOX Family Movies (IDN) FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088691
+#EXTINF: -1 group-title="MOVIES2", FOX Family Movies (Eng) FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088692
+#EXTINF: -1 group-title="MOVIES2", HBO FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088693
+#EXTINF: -1 group-title="MOVIES2", HBO HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088694
+#EXTINF: -1 group-title="MOVIES2", MY: HBO HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088695
+#EXTINF: -1 group-title="MOVIES2", HBO Signature FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088696
+#EXTINF: -1 group-title="MOVIES2", HBO Signature HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088697
+#EXTINF: -1 group-title="MOVIES2", HBO Hits FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088698
+#EXTINF: -1 group-title="MOVIES2", HBO Hits HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088699
+#EXTINF: -1 group-title="MOVIES2", HBO Family FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088700
+#EXTINF: -1 group-title="MOVIES2", HBO Family HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088701
+#EXTINF: -1 group-title="MOVIES2", Cinemax by HBO FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088702
+#EXTINF: -1 group-title="MOVIES2", Cinemax by HBO HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088703
+#EXTINF: -1 group-title="MOVIES2", RED by HBO FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088704
+#EXTINF: -1 group-title="MOVIES2", RED by HBO HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088705
+#EXTINF: -1 group-title="MOVIES2", Citra Drama
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088706
+#EXTINF: -1 group-title="MOVIES2", Zee Bioskop
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088707
+#EXTINF: -1 group-title="MOVIES2", Flik HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088708
+#EXTINF: -1 group-title="MOVIES2", Flik FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088709
+#EXTINF: -1 group-title="MOVIES2", Bioskop Indonesia HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088710
+#EXTINF: -1 group-title="MOVIES2", Cinema World HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088711
+#EXTINF: -1 group-title="MOVIES2", CinemaWorld FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088712
+#EXTINF: -1 group-title="MOVIES2", Celestial Movies HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088713
+#EXTINF: -1 group-title="MOVIES2", Thrill
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088714
+#EXTINF: -1 group-title="MOVIES2", Warner Tv HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088715
+#EXTINF: -1 group-title="MOVIES2", Warner TV FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088716
+#EXTINF: -1 group-title="MOVIES2", Chinese Drama
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088717
+#EXTINF: -1 group-title="MOVIES2", Celestial Classic Movies B
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088718
+#EXTINF: -1 group-title="MOVIES2", SCM Legend SD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088719
+#EXTINF: -1 group-title="MOVIES2", Star Chinese Movies FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088720
+#EXTINF: -1 group-title="MOVIES2", HITS
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088721
+#EXTINF: -1 group-title="MOVIES2", HITS Movies
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088722
+#EXTINF: -1 group-title="MOVIES2", ATV Movies
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088723
+#EXTINF: -1 group-title="MOVIES2", &Flix Movie (eng)
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088724
+#EXTINF: -1 group-title="MOVIES2", Drakor Tv
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088725
+#EXTINF: -1 group-title="MOVIES2", TVN HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088726
+#EXTINF: -1 group-title="MOVIES2", tvN FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088727
+#EXTINF: -1 group-title="MOVIES2", Tvn Movies HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088728
+#EXTINF: -1 group-title="MOVIES2", tvN Movies FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088729
+#EXTINF: -1 group-title="MOVIES2", AXN HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088730
+#EXTINF: -1 group-title="MOVIES2", AXN FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088731
+#EXTINF: -1 group-title="MOVIES2", IMC HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088732
+#EXTINF: -1 group-title="MOVIES2", IMC FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088733
+#EXTINF: -1 group-title="MOVIES2", BlueAnt HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088734
+#EXTINF: -1 group-title="MOVIES2", BlueAnt FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088735
+#EXTINF: -1 group-title="MOVIES2", BlueAnt Extreme HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088736
+#EXTINF: -1 group-title="MOVIES2", Blue Ant Extreame FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088737
+#EXTINF: -1 group-title="MOVIES2", Arirang HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088738
+#EXTINF: -1 group-title="MOVIES2", K Plus HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088739
+#EXTINF: -1 group-title="MOVIES2", K PLUS FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088740
+#EXTINF: -1 group-title="MOVIES2", WakuWaku FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088741
+#EXTINF: -1 group-title="MOVIES2", SGEM HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088742
+#EXTINF: -1 group-title="MOVIES2", Sony GEM FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088743
+#EXTINF: -1 group-title="MOVIES2", KIX HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088744
+#EXTINF: -1 group-title="MOVIES2", KIX FHD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088745
+#EXTINF: -1 group-title="MOVIES2", SOne HD
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088746
+#EXTINF: -1 group-title="MOVIES2", Dunia Lain
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/349088747
 
 
 
@@ -211,12 +366,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 http://topwin-tv.my.id/2/master.m3u8?id=golfplus
 
 
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/animax.png" group-title="ANIME",Animax
-http://topwin-tv.my.id/2/master.m3u8?id=animax
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/aniplus.png" group-title="ANIME",Aniplus
-http://topwin-tv.my.id/2/master.m3u8?id=aniplus
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyCgc3HH/alkareem.png" group-title="Makkah TV" tvg-logo="http://kamiselaluada.com/img/mekkah.png", Al Quran Al Kareem TV 
-http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" group-title="Radio", THR Gegar 
