@@ -12,6 +12,8 @@ http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro" tvg-country="MY" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="MALAYSIA ALL",Astro Prima HD
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF: -1 tvg-id="Astro Warna" tvg-name="Astro Warna" tvg-logo="https://cdn.macan.tv/img/astro_warna.png" group-title="MALAYSIA ALL", Astro Warna
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884927
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wAK7b0M.png" group-title="MALAYSIA ALL", MY: ASTRO iQIYI HD
 https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884931
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA ALL",Astro Ceria
