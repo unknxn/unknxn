@@ -605,7 +605,8 @@ https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190376
 
 
 
-
+#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://image.tmdb.org/t/p/w300/9eAu16fyNslL93edVinbFNU9HjY.jpg", Dekatnya Cinta
+https://bit.ly/3fSfnbD
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="http://tny.im/oQo", Roh
 https://misty-dust.evanwinters.workers.dev/0:/public/Roh.2019.1080p.MUBI.WEB-DL.AAC.2.0.x264-PYPER.mkv
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="http://tny.im/oQn", Senario Lang Buana
@@ -630,8 +631,6 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Rock%20Bro%202
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Rock%20Oo%202013.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7013.jpg", Sepahtu Kepok Bonda
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Sepahtu%20Kepok%20Bonda%202014%20HDTV%20720p%20x264%20AAC%20G3M.mp4
-#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7173.jpg", Pondok Buruk 1
-
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7043.jpg", Wan Peah Balik Beraya
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/5/Wan%20Peah%20Balik%20Beraya%20[2018]%20HDTV-VOD@KT.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.cinema.com.my/images/movies/2018/7syirik00_450.jpg", Syirik
