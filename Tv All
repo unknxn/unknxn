@@ -11,7 +11,7 @@ http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" tvg-url="" group-title="MALAYSIA ALL",Astro Ria
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/28LWLFCD/Ria.png" group-title="TV Backup",ASTRO Ria HD
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/28LWLFCD/Ria.png" group-title="MALAYSIA ALL",ASTRO Ria HD
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190433
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro" tvg-country="MY" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="MALAYSIA ALL",Astro Prima HD
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
@@ -70,85 +70,66 @@ https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188693
 
 
 
-
+///// MOVIES /////
 
 #EXTINF:-1 tvg-id="401" tvg-chno="401" tvg-logo="https://i.postimg.cc/C1JHQ5Rr/1200px-Fox-Movies-Asia-logo-svg.png" group-title="MOVIES",FOX Movies 50FPS
 http://iptv.tvmalaysia.cc:80/989898/989898/8838
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZTFmZDQ4MDQtY2VjZS0zM2MxLWJlNDQtMGFjNDFkNDc1ODEy
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Fox_movies_arabia_(bein).png", FOX MOVIES
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Fox_movies_arabia_(bein).png", FOX MOVIES
 https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZTFmZDQ4MDQtY2VjZS0zM2MxLWJlNDQtMGFjNDFkNDc1ODEy
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png", FOXCRIME
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png", FOXCRIME
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZTFmZDQ4MDQtY2VjZS0zM2MxLWJlNDQtMGFjNDFkNDc1ODEy
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.dropbox.com/s/djxb8zwv43efqm2/fox action 3.png?dl=1", FOX ACTION MOVIES
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.dropbox.com/s/djxb8zwv43efqm2/fox action 3.png?dl=1", FOX ACTION MOVIES
 https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZTFmZDQ4MDQtY2VjZS0zM2MxLWJlNDQtMGFjNDFkNDc1ODEy
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.dropbox.com/s/vtqb8qtmfkwh1gr/FOX_Family_Movies.png?dl=1", FOX FAMILY MOVIES
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.dropbox.com/s/vtqb8qtmfkwh1gr/FOX_Family_Movies.png?dl=1", FOX FAMILY MOVIES
 https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZTFmZDQ4MDQtY2VjZS0zM2MxLWJlNDQtMGFjNDFkNDc1ODEy
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://www.dropbox.com/s/2nco42w6houz4an/fox tv.png?dl=1", FOX
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.dropbox.com/s/2nco42w6houz4an/fox tv.png?dl=1", FOX
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZTFmZDQ4MDQtY2VjZS0zM2MxLWJlNDQtMGFjNDFkNDc1ODEy
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png", FOXlife
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png", FOXlife
 https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZTFmZDQ4MDQtY2VjZS0zM2MxLWJlNDQtMGFjNDFkNDc1ODEy
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo = "https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo 1.jpg?dl=1", HBO
+#EXTINF:-1 group-title="MOVIES" tvg-logo = "https://www.dropbox.com/s/q3n1brg0lw9mbn7/hbo 1.jpg?dl=1", HBO
 https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZTFmZDQ4MDQtY2VjZS0zM2MxLWJlNDQtMGFjNDFkNDc1ODEy
-#EXTINF:-1 group-title="FOX & HBO"tvg-logo = "https://www.dropbox.com/s/nbh20sfv6tv8lkq/hbo_family.png?dl=1", HBO FAMILY
+#EXTINF:-1 group-title="MOVIES"tvg-logo = "https://www.dropbox.com/s/nbh20sfv6tv8lkq/hbo_family.png?dl=1", HBO FAMILY
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZTFmZDQ4MDQtY2VjZS0zM2MxLWJlNDQtMGFjNDFkNDc1ODEy
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo = "https://www.dropbox.com/s/i33ddi4r4r2axn1/HBOHits-ASIA.png?dl=1", HBO HITS
+#EXTINF:-1 group-title="MOVIES" tvg-logo = "https://www.dropbox.com/s/i33ddi4r4r2axn1/HBOHits-ASIA.png?dl=1", HBO HITS
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZTFmZDQ4MDQtY2VjZS0zM2MxLWJlNDQtMGFjNDFkNDc1ODEy
-#EXTINF:-1 group-title="FOX & HBO"tvg-logo = "https://www.dropbox.com/s/d7c5glg1xb2cfj5/hbo signature.png?dl=1", HBO SIGNATURE
+#EXTINF:-1 group-title="MOVIES"tvg-logo = "https://www.dropbox.com/s/d7c5glg1xb2cfj5/hbo signature.png?dl=1", HBO SIGNATURE
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZTFmZDQ4MDQtY2VjZS0zM2MxLWJlNDQtMGFjNDFkNDc1ODEy
-#EXTINF:-1 group-title="FOX & HBO" tvg-logo = "https://www.dropbox.com/s/cak4q2o1fzsevp7/cinemax.png?dl=1", Cinemax
+#EXTINF:-1 group-title="MOVIES" tvg-logo = "https://www.dropbox.com/s/cak4q2o1fzsevp7/cinemax.png?dl=1", Cinemax
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
-
-
-
-///// MOVIES /////
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZTFmZDQ4MDQtY2VjZS0zM2MxLWJlNDQtMGFjNDFkNDc1ODEy
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.dropbox.com/s/pv8jri42pg1bva2/zing.jpg?dl=1", ZING
-https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZTFmZDQ4MDQtY2VjZS0zM2MxLWJlNDQtMGFjNDFkNDc1ODEy
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.dropbox.com/s/yytg8b4mthr02s2/Zee_TV-2018.png?dl=1", ZEE TV
-https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZTFmZDQ4MDQtY2VjZS0zM2MxLWJlNDQtMGFjNDFkNDc1ODEy
-#EXTINF:-1 group-title="MOVIES"tvg-logo="https://www.dropbox.com/s/lr10gtavfvkkujx/Zee_Cinema_New_Logo.png?dl=1", ZEE CINEMA
-https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZTFmZDQ4MDQtY2VjZS0zM2MxLWJlNDQtMGFjNDFkNDc1ODEy
@@ -230,6 +211,23 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/axn.png", AXN
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZTFmZDQ4MDQtY2VjZS0zM2MxLWJlNDQtMGFjNDFkNDc1ODEy
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.dropbox.com/s/pv8jri42pg1bva2/zing.jpg?dl=1", ZING
+https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZTFmZDQ4MDQtY2VjZS0zM2MxLWJlNDQtMGFjNDFkNDc1ODEy
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.dropbox.com/s/yytg8b4mthr02s2/Zee_TV-2018.png?dl=1", ZEE TV
+https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZTFmZDQ4MDQtY2VjZS0zM2MxLWJlNDQtMGFjNDFkNDc1ODEy
+#EXTINF:-1 group-title="MOVIES"tvg-logo="https://www.dropbox.com/s/lr10gtavfvkkujx/Zee_Cinema_New_Logo.png?dl=1", ZEE CINEMA
+https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
+
+
+
 #EXTINF:-1 tvg-id="58e55b14ad8e9c364d55f717" tvg-chno="112" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" group-title="MOVIES",Flicks of Fury
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png",Paramount Network
@@ -258,6 +256,8 @@ http://iptv.tvmalaysia.cc:80/989898/989898/7235
 https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC Action" tvg-language="Arabic" tvg-country="TN" tvg-id="MBC Action" tvg-logo="https://stream4television.files.wordpress.com/2013/07/fe21f-mbc_action_hd.png" group-title="MOVIES",MBC Action (Movie Channels) (TN) (Arabic)
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
+
+
 
 
 
