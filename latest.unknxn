@@ -795,6 +795,15 @@ http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7026.mp4
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/avengers_age_of_ultron_(2015).jpg" group-title="ENGLISH MOVIE VIDEO", Avengers Age of Ultron (2015)
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/373.mp4
+#EXTINF:-1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/avengers_endgame_(2019).jpg" group-title="ENGLISH MOVIE VIDEO", Avengers Endgame (2019)
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/374.mp4
+#EXTINF:-1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/avengers_infinity_war_(2018).jpg" group-title="ENGLISH MOVIE VIDEO", Avengers Infinity War (2018)
+http://188.40.76.108:25461/movie/mytv01/uSIRzmks51/375.mp4
 #EXTINF: -1 tvg-logo="https://i.imgur.com/M8YV19x.jpg" group-title="TV VOD 2020 - 2021", Vanquish (2021)
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188509
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PwHC0Ta.jpg" group-title="TV VOD 2020 - 2021", Mortal Kombat (2021)
