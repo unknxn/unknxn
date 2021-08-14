@@ -461,6 +461,8 @@ https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190376
 
 
 
+
+
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://image.tmdb.org/t/p/w300/9eAu16fyNslL93edVinbFNU9HjY.jpg", Dekatnya Cinta
 https://drive.google.com/u/0/uc?export=download&confirm=Giqi&id=1C0-hseXhhqJC6UXyLbiV6H0Jo9K0p_Sd
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="http://tny.im/oQo", Roh
@@ -489,7 +491,6 @@ https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Rock%20Oo%2020
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Sepahtu%20Kepok%20Bonda%202014%20HDTV%20720p%20x264%20AAC%20G3M.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7043.jpg", Wan Peah Balik Beraya
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/5/Wan%20Peah%20Balik%20Beraya%20[2018]%20HDTV-VOD@KT.mp4
-#EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.cinema.com.my/images/movies/2018/7syirik00_450.jpg", Syirik
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/4112.jpg", Kampung Zombie
 https://api2.ohflix.workers.dev/0:/ohflix342/three/NewVersion/44/Kampung%20zombie%20(2015)-indoDub.mp4
 #EXTINF:-1 group-title="MalayMovies" tvg-logo="https://www.ohflix.com/uploads/video_thumb/7015.jpg", Siapa Dapat Lisa
@@ -794,6 +795,10 @@ http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7026.mp4
 
 
 
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4m2V5gDv7A7hFo9F1diuAUB6RZnHc0QrW5JsmitjnOY8-zIPZ" group-title="TV VOD 2020 - 2021", INSIDIOUS: THE LAST KEY (2019) {Sub Indo}
+https://www.googleapis.com/drive/v3/files/1px8eLVDzVtnDz5C3ptZcaPt2AfBRw7lp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdt4H1K5i-0IdpRzGMA3_poCAvV2y4bRdDfNqRYD6ZJLG8-4oJ" group-title="TV VOD 2020 - 2021",AVENGERS: ENDGAMES HD (2019) {Sub Indo}
+https://www.googleapis.com/drive/v3/files/18_FetnajYa5qNM2eRkqlVFGbZRtEjBfb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/M8YV19x.jpg" group-title="TV VOD 2020 - 2021", Vanquish (2021)
