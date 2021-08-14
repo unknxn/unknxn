@@ -31,7 +31,7 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MALAYSIA ALL",Astro Awani [Not 24/7]
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wAK7b0M.png" group-title="MALAYSIA ALL", MY: ASTRO iQIYI HD
-https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884931
+http://139.99.71.104:8888/live/6795721093/k6rzZ3plFH/37349.ts
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA ALL",Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/imc.png" group-title="MALAYSIA ALL",IMC
@@ -795,12 +795,8 @@ http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7026.mp4
 
 
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4m2V5gDv7A7hFo9F1diuAUB6RZnHc0QrW5JsmitjnOY8-zIPZ" group-title="TV VOD 2020 - 2021", INSIDIOUS: THE LAST KEY (2019) {Sub Indo}
-https://www.googleapis.com/drive/v3/files/1px8eLVDzVtnDz5C3ptZcaPt2AfBRw7lp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdt4H1K5i-0IdpRzGMA3_poCAvV2y4bRdDfNqRYD6ZJLG8-4oJ" group-title="TV VOD 2020 - 2021",AVENGERS: ENDGAMES HD (2019) {Sub Indo}
 https://www.googleapis.com/drive/v3/files/18_FetnajYa5qNM2eRkqlVFGbZRtEjBfb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/M8YV19x.jpg" group-title="TV VOD 2020 - 2021", Vanquish (2021)
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188509
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PwHC0Ta.jpg" group-title="TV VOD 2020 - 2021", Mortal Kombat (2021)
@@ -2002,22 +1998,8 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959686
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959687
 #EXTINF:-1 group-title="VOD MOVIES",Harry Potter And The Deathly Hallows Part 2 (2011)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959688
-#EXTINF:-1 group-title="VOD MOVIES",IQ Jongkok (1981)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959691
 #EXTINF:-1 group-title="VOD MOVIES",Chips (1982)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959692
-#EXTINF:-1 group-title="VOD MOVIES",Sama Juga Bohong (1986)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959696
-#EXTINF:-1 group-title="VOD MOVIES",Depan Bisa Belakang Bisa (1987)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959697
-#EXTINF:-1 group-title="VOD MOVIES",Bisa Naik Bisa Turun (1991)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959698
-#EXTINF:-1 group-title="VOD MOVIES",Bebas Aturan Main (1993)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959699
-#EXTINF:-1 group-title="VOD MOVIES",Salah Masuk (1993)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959700
-#EXTINF:-1 group-title="VOD MOVIES",Pencet Sana Pencet Sini (1994)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959701
 #EXTINF:-1 group-title="VOD MOVIES",Ip Man (2008)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959706
 #EXTINF:-1 group-title="VOD MOVIES",Ip Man 2 (2010)
