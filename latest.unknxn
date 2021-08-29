@@ -1,25 +1,33 @@
-#EXTM3U x-tvg-url="https://unifiplaytv.samsam123.tk/epg" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://unifiplaytv.samsam123.tk/epg" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" url-tvg="https://bit.ly/astroandunifiepg" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/u9uPPgo.jpg" group-title="MALAYSIA ALL",TV1 (720p)
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/u9uPPgo.jpg" group-title="MALAYSIA ALL",TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="MALAYSIA ALL",TV2 (720p)
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="MALAYSIA ALL",TV2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA ALL",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" tvg-url="" group-title="MALAYSIA ALL",Astro Ria
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA ALL",TV3 (Backup)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190540
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/28LWLFCD/Ria.png" group-title="MALAYSIA ALL",ASTRO Ria HD
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro" tvg-country="MY" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="MALAYSIA ALL",Astro Prima HD
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/28LWLFCD/Ria.png" group-title="MALAYSIA ALL",ASTRO Ria HD (Backup)
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190433
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/bvpS57ky/Prima.png" group-title="MALAYSIA ALL",Astro Prima HD
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-#EXTINF: -1 tvg-id="Astro Warna" tvg-name="Astro Warna" tvg-logo="https://cdn.macan.tv/img/astro_warna.png" group-title="MALAYSIA ALL", Astro Warna
-https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884927
-#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/12wR714/hfgd.png" group-title="MALAYSIA ALL",Astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/b2JQ7g9/oas.png" group-title="MALAYSIA ALL",Astro Oasis
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/pLNFfhdn/Oasis.png" group-title="MALAYSIA ALL",Astro Oasis HD
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-country="MY" tvg-language="" tvg-logo="https://merchant.tvalhijrah.com/application/storage/system/logo.png" group-title="MALAYSIA ALL",TV Alhijrah
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/4xTYKD86/Warna.png" group-title="MALAYSIA ALL",Astro Warna HD
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/4xTYKD86/Warna.png" group-title="MALAYSIA ALL",Astro Warna HD (Backup)
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884927
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/fbfmTzDS/Citra.png" group-title="MALAYSIA ALL",Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/vwZ3sjD/jjy.png" group-title="MALAYSIA ALL" TV-AlHijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HP4hpMS.jpg" group-title="MALAYSIA ALL" , Al Quran Al Kareem TV 
 http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/FK404d5Q/Naura.png" group-title="MALAYSIA ALL",Naura HD
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV 7" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="MALAYSIA ALL",NTV 7
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 #EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="MALAYSIA ALL",8TV
@@ -30,18 +38,8 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MALAYSIA ALL",Astro Awani [Not 24/7]
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wAK7b0M.png" group-title="MALAYSIA ALL", MY: ASTRO iQIYI HD
-http://139.99.71.104:8888/live/6795721093/k6rzZ3plFH/37349.ts
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA ALL",Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/imc.png" group-title="MALAYSIA ALL",IMC
-http://topwin-tv.my.id/2/master.m3u8?id=imc
-#EXTINF:-1 tvg-id="Naura.my" tvg-name="Naura" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/f4W4Nt4/liy.png" group-title="MALAYSIA ALL",Naura (576p) [Not 24/7]
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-#EXTINF:-1 tvg-id="astroaura.my" tvg-name="ASTRO Aura HD" tvg-logo="http://tvmalaysia.cc:80/images/5e587cd56b42bd16285dfddb2c63c5e7.png" group-title="MALAYSIA ALL" | ASTRO",ASTRO Aura HD
-http://iptv.tvmalaysia.cc:80/989898/989898/6713
-#EXTINF:-1 tvg-id="astrorania.my" tvg-name="ASTRO Rania HD" tvg-logo="http://tvmalaysia.cc:80/images/04b0e81075a4d2dc4d9dba2411a42b77.png" group-title="MALAYSIA ALL" | ASTRO",ASTRO Rania HD
-http://iptv.tvmalaysia.cc:80/989898/989898/6729
 #EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/W5jwb9K/FCSC.png" group-title="MALAYSIA ALL",TVS (576p)
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 tvg-id="Hello.my" tvg-name="Hello" tvg-country="MY" tvg-language="English" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="MALAYSIA ALL",Hello
@@ -50,6 +48,12 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 tvg-id="Boo.my" tvg-name="Boo" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="MALAYSIA ALL",Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/imc.png" group-title="MALAYSIA ALL",IMC
+http://topwin-tv.my.id/2/master.m3u8?id=imc
+#EXTINF:-1 tvg-id="astroaura.my" tvg-name="ASTRO Aura HD" tvg-logo="http://tvmalaysia.cc:80/images/5e587cd56b42bd16285dfddb2c63c5e7.png" group-title="MALAYSIA ALL" | ASTRO",ASTRO Aura HD
+http://iptv.tvmalaysia.cc:80/989898/989898/6713
+#EXTINF:-1 tvg-id="astrorania.my" tvg-name="ASTRO Rania HD" tvg-logo="http://tvmalaysia.cc:80/images/04b0e81075a4d2dc4d9dba2411a42b77.png" group-title="MALAYSIA ALL" | ASTRO",ASTRO Rania HD
+http://iptv.tvmalaysia.cc:80/989898/989898/6729
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/animax.png" group-title="MALAYSIA ALL",Animax
 http://topwin-tv.my.id/2/master.m3u8?id=animax
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/aniplus.png" group-title="MALAYSIA ALL",Aniplus
@@ -125,16 +129,21 @@ http://topwin-tv.my.id/2/master.m3u8?id=galaxy
 http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
 #EXTINF:-1 tvg-id="" tvg-name="MNX" tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="MOVIES",MNX
 http://iptv.tvmalaysia.cc:80/989898/989898/8998
-#EXTINF:-1 tvg-id="" tvg-name="Movies Now" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="MOVIES",Movies Now
-http://iptv.tvmalaysia.cc:80/989898/989898/8999
 #EXTINF:-1 tvg-logo=https://www.adgully.com/img/400/201906/3f7ztlui_400x400.jpg group-title="MOVIES",&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428154_ico.png" group-title="MOVIES",&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="58e55b14ad8e9c364d55f717" tvg-chno="112" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" group-title="MOVIES",Flicks of Fury
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF: -1 tvg-id="SCMLegend.MACAN" tvg-name="SCM Legend" tvg-logo="https://i.ibb.co/bbcBvxY/zcv.png" group-title="MOVIES", SCM Legend
-https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885209
+#EXTINF: -1 group-title="MOVIES", Movies Now
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885256
+#EXTINF: -1 group-title="MOVIES", FLIX
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885258
+#EXTINF: -1 group-title="MOVIES", Marvels Action Movies
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885259
+#EXTINF: -1 group-title="MOVIES", Action Movies
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885260
+#EXTINF: -1 group-title="MOVIES", English Movies
 #EXTINF:-1 group-title="MOVIES",Celestial Classic
 http://iptv.tvmalaysia.cc:80/989898/989898/7222
 #EXTINF:-1 tvg-id="celestialmovies.id" tvg-name="Celestial Movies" tvg-logo="http://tvmalaysia.cc:80/images/00a16262a08aa5b141f58e660f016339.jpg" group-title"MOVIES",Celestial Movies
@@ -166,24 +175,10 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/989898/989898/7178
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2mJkCQm/tv3my.png" group-title="TV Backup",Tv3
 http://iptv.tvmalaysia.cc:80/989898/989898/8750
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="TV Backup", TV3
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190540
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="TV Backup", TV 3 HD
 http://iptv.tvmalaysia.cc:80/139664/139664/8750
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/28LWLFCD/Ria.png" group-title="TV Backup",ASTRO Ria HD
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190433
 #EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/vwZ3sjD/jjy.png" group-title="TV Backup" TV-AlHijrah
 http://iptv.tvmalaysia.cc/139664/139664/6834
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/bvpS57ky/Prima.png" group-title="TV Backup",Astro Prima HD
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/pLNFfhdn/Oasis.png" group-title="TV Backup",Astro Oasis HD
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/4xTYKD86/Warna.png" group-title="TV Backup",Astro Warna HD
-http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/fbfmTzDS/Citra.png" group-title="TV Backup",Astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/FK404d5Q/Naura.png" group-title="TV Backup",Naura HD
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF:-1 group-title="TV Backup", tvg-id="AstroAOD311.my" tvg-name="Astro AOD 311" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" tvg-url="" group-title="TV Backup",Astro AOD 311
 http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 #EXTINF: -1 group-title="TV Backup", ASTRO AOD 352 HD
@@ -195,23 +190,6 @@ https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190455
 #EXTINF: -1 group-title="TV Backup", ASTRO AOD 355 HD
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190456
 
-
-
-
-
-
-
-
-
-#EXTINF: -1 group-title="MOVIES2", Movies Now
-https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885256
-#EXTINF: -1 group-title="MOVIES2", FLIX
-https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885258
-#EXTINF: -1 group-title="MOVIES2", Marvels Action Movies
-https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885259
-#EXTINF: -1 group-title="MOVIES2", Action Movies
-https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885260
-#EXTINF: -1 group-title="MOVIES2", English Movies
 
 
 
