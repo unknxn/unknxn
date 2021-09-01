@@ -22,6 +22,11 @@ http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884927
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/fbfmTzDS/Citra.png" group-title="MALAYSIA ALL",Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTM3U
+#EXT-X-VERSION:3
+#EXTINF:-1 tvg-id="123" group-title="MALAYSIA ALL" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",123 Awesome TV
+https://m3u-editor.com/serve/5a9d6b60-0270-11ec-8530-cbb324853ece/361125831
+# http://196.19.125.208/manal/manal/400200777?token=aXVmMkFVMVRJcm1WVEFP
 #EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/vwZ3sjD/jjy.png" group-title="MALAYSIA ALL" TV-AlHijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HP4hpMS.jpg" group-title="MALAYSIA ALL" , Al Quran Al Kareem TV 
@@ -58,6 +63,11 @@ http://iptv.tvmalaysia.cc:80/989898/989898/6729
 http://topwin-tv.my.id/2/master.m3u8?id=animax
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/aniplus.png" group-title="MALAYSIA ALL",Aniplus
 http://topwin-tv.my.id/2/master.m3u8?id=aniplus
+#EXTINF:-1 tvg-id="396" group-title="MALAYSIA ALL" tvg-logo="https://user-images.githubusercontent.com/85995579/128629428-91d4dbdd-9b18-498c-a5d7-df251c90a1aa.png",KPlus HD
+# http://iptv.tvmalaysia.cc:80/624850/624850/6805
+# http://210.210.155.35/uq2663/h/h08/01.m3u8
+# https://link.zozotv.xyz:443/Freemium5/unlimited99/80
+http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
 #EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="Astro Shuang Xing" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png" group-title="MALAYSIA ALL",Astro Shuang Xing
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroXiaoTaiYang.my" tvg-name="Astro Xiao Tai Yang" tvg-country="MY" tvg-language="" tvg-logo="http://astrokentico.s3.amazonaws.com/xuan/channels/325.png" group-title="MALAYSIA ALL",Astro(Astro Xiao Tai Yang) [Not 24/7]
