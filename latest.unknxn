@@ -17,7 +17,7 @@ http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pLNFfhdn/Oasis.png" group-title="MALAYSIA ALL",Astro Oasis HD
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/4xTYKD86/Warna.png" group-title="MALAYSIA ALL",Astro Warna HD
-http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+http://iptv.tvmalaysia.cc:80/737373/737373/6740
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/4xTYKD86/Warna.png" group-title="MALAYSIA ALL",Astro Warna HD (Backup)
 https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884927
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/fbfmTzDS/Citra.png" group-title="MALAYSIA ALL",Astro Citra
@@ -33,6 +33,12 @@ http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/FK404d5Q/Naura.png" group-title="MALAYSIA ALL",Naura HD
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 tvg-id="118_1" group-title="MALAYSIA ALL" tvg-logo="https://user-images.githubusercontent.com/85995579/128457984-94be67a9-e944-4fcd-a083-7c01d5a922b7.png", Go Shop RUUMA
+https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
+#EXTINF:-1 tvg-id="120" group-title="MALAYSIA ALL" tvg-logo="https://user-images.githubusercontent.com/85995579/128458098-5b4bb7bc-5cab-423f-b4d7-ae4376f43590.png", Go Shop GAAYA 
+https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8
+#EXTINF:-1 tvg-id="120" group-title="MALAYSIA ALL" tvg-logo="https://i.kampung.xyz/c/20d0f2053da42ed2.png",Go Shop  
+https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
 #EXTINF:-1 tvg-id="TV6" group-title="MALAYSIA ALL" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV 7" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="MALAYSIA ALL",NTV 7
@@ -66,10 +72,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=animax
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/aniplus.png" group-title="MALAYSIA ALL",Aniplus
 http://topwin-tv.my.id/2/master.m3u8?id=aniplus
 #EXTINF:-1 tvg-id="396" group-title="MALAYSIA ALL" tvg-logo="https://user-images.githubusercontent.com/85995579/128629428-91d4dbdd-9b18-498c-a5d7-df251c90a1aa.png",KPlus HD
-# http://iptv.tvmalaysia.cc:80/624850/624850/6805
-# http://210.210.155.35/uq2663/h/h08/01.m3u8
-# https://link.zozotv.xyz:443/Freemium5/unlimited99/80
-http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
+http://iptv.tvmalaysia.cc:80/624850/624850/6805
 #EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="Astro Shuang Xing" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png" group-title="MALAYSIA ALL",Astro Shuang Xing
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroXiaoTaiYang.my" tvg-name="Astro Xiao Tai Yang" tvg-country="MY" tvg-language="" tvg-logo="http://astrokentico.s3.amazonaws.com/xuan/channels/325.png" group-title="MALAYSIA ALL",Astro(Astro Xiao Tai Yang) [Not 24/7]
@@ -77,7 +80,7 @@ http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroQuanJiaHD.my" tvg-name="Astro Quan Jia HD" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png" tvg-url="" group-title="MALAYSIA ALL",Astro Quan Jia HD
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 #EXTINF:-1 tvg-id="TVIKIM.my" tvg-name="TVIKIM" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MALAYSIA ALL",TVIKIM (720p) [Not 24/7]
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188693
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 
 
@@ -176,6 +179,15 @@ https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d05
 
 
 
+#EXTINF:-1 tvg-id="CHN" group-title="Knowledge&Travel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg/revision/latest/scale-to-width-down/250?cb=20170428060035",Outdoor Channel
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CHN" group-title="Knowledge&Travel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/200?cb=20201126072306",GEM
+# http://210.210.155.35/uq2663/h/h19/index.m3u8
+# http://210.210.155.35/uq2663/h/h19/01.m3u8
+# http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8864
+# http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
+# http://playlist.urfan.web.id/session/b51c3dc0-042f-11ec-903b-a14ab49f7056/uq2663/h/h19/01.m3u8
+https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/770
 
 
 
@@ -190,6 +202,12 @@ http://iptv.tvmalaysia.cc:80/989898/989898/8750
 http://iptv.tvmalaysia.cc:80/139664/139664/8750
 #EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/vwZ3sjD/jjy.png" group-title="TV Backup" TV-AlHijrah
 http://iptv.tvmalaysia.cc/139664/139664/6834
+#EXTINF:-1 tvg-id="202" group-title="TV Backup" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",Astro Vinmeen HD
+http://iptv.tvmalaysia.cc:80/624850/624850/6739
+#EXTINF:-1 tvg-id="306" group-title="TV Backup" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png", Astro AEC
+http://iptv.tvmalaysia.cc:80/624850/624850/6701
+#EXTINF:-1 tvg-id="319" group-title="TV Backup" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",TVB Xing He
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 group-title="TV Backup", tvg-id="AstroAOD311.my" tvg-name="Astro AOD 311" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" tvg-url="" group-title="TV Backup",Astro AOD 311
 http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 #EXTINF: -1 group-title="TV Backup", ASTRO AOD 352 HD
@@ -200,19 +218,24 @@ https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190454
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190455
 #EXTINF: -1 group-title="TV Backup", ASTRO AOD 355 HD
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190456
+#EXTINF:-1 tvg-id="303" group-title="TV Backup" tvg-logo="https://i.kampung.xyz/c/3c09cfb4117ed995.png", Go Shop 2
+https://agsplayback01.astro.com.my/CH2/master_GOSHOP2_04.m3u8
 
 
 
 
 
 
-
+#EXTINF:-1 tvg-id="821" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png",821 WWE Network HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6849
 #EXTINF: -1 tvg-logo="https://bit.ly/31FhI20" group-title="SPORTS", Astro Sport 1
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://bit.ly/31FhI20" group-title="SPORTS", Astro Sport 2
 http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/champions1.png" group-title="SPORTS",Champions TV 1
 http://topwin-tv.my.id/2/master.m3u8?id=champion1
+#EXTINF:-1 tvg-id="819" group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest?cb=20190319023656",819 BeIN Sports MAX HD
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6748
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/bein1.png" group-title="SPORTS",Bein Sport 2
 http://topwin-tv.my.id/2/master.m3u8?id=bein2
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/foxsport2.png" group-title="SPORTS",fox sport 2
@@ -225,6 +248,8 @@ http://topwin-tv.my.id/2/master.m3u8?id=useesport
 http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 #EXTINF:0 tvg-id="Golf.es" group-title="SPORTS",Golf
 http://topwin-tv.my.id/2/master.m3u8?id=golfplus
+#EXTINF:-1 tvg-id="820" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",Eurosport HD
+https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/37434
 
 
 
