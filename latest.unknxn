@@ -33,6 +33,8 @@ http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/FK404d5Q/Naura.png" group-title="MALAYSIA ALL",Naura HD
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 tvg-id="TV6" group-title="MALAYSIA ALL" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
+https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV 7" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="MALAYSIA ALL",NTV 7
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 #EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="MALAYSIA ALL",8TV
@@ -153,7 +155,6 @@ https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885258
 https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885259
 #EXTINF: -1 group-title="MOVIES", Action Movies
 https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885260
-#EXTINF: -1 group-title="MOVIES", English Movies
 #EXTINF:-1 group-title="MOVIES",Celestial Classic
 http://iptv.tvmalaysia.cc:80/989898/989898/7222
 #EXTINF:-1 tvg-id="celestialmovies.id" tvg-name="Celestial Movies" tvg-logo="http://tvmalaysia.cc:80/images/00a16262a08aa5b141f58e660f016339.jpg" group-title"MOVIES",Celestial Movies
