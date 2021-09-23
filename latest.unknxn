@@ -248,7 +248,7 @@ https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190456
 https://agsplayback01.astro.com.my/CH2/master_GOSHOP2_04.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/animax.png" group-title="KIDSL",Animax
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/animax.png" group-title="KIDS",Animax
 http://topwin-tv.my.id/2/master.m3u8?id=animax
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/aniplus.png" group-title="KIDS",Aniplus
 http://topwin-tv.my.id/2/master.m3u8?id=aniplus
