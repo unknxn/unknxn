@@ -287,7 +287,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
 http://topwin-tv.my.id/2/master.m3u8?id=useesport
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/useesport2.png" group-title="SPORTS",UseeSports 2
 http://topwin-tv.my.id/2/master.m3u8?id=useesports2
-#EXTINF:0 tvg-id="Golf.es" group-title="SPORTS",Golf
+#EXTINF:-1 tvg-id="Golf.es" group-title="SPORTS",Golf
 http://topwin-tv.my.id/2/master.m3u8?id=golfplus
 #EXTINF:-1 group-title="SPORTS", SS PREMIER LEAGUE
 http://ux38.gcdn.co/SSPremierLeague/tracks-v1a1/mono.m3u8
