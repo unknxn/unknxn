@@ -263,7 +263,7 @@ https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
 
 #EXTINF:-1 tvg-id="821" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png",821 WWE Network HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6849
-#EXTINF:-1, WWE CHANEL
+#EXTINF:-1 group-title="SPORTS", WWE CHANEL
 http://sptkid.gcdn.co/wwe/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://bit.ly/31FhI20" group-title="SPORTS", Astro Sport 1
 http://iptv.tvmalaysia.cc:80/penang200/penang200/6710
