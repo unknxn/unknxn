@@ -289,37 +289,37 @@ http://topwin-tv.my.id/2/master.m3u8?id=useesport
 http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 #EXTINF:0 tvg-id="Golf.es" group-title="SPORTS",Golf
 http://topwin-tv.my.id/2/master.m3u8?id=golfplus
-#EXTINF:-1, SS PREMIER LEAGUE
+#EXTINF:-1 group-title="SPORTS", SS PREMIER LEAGUE
 http://ux38.gcdn.co/SSPremierLeague/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SS LA LIGA
+#EXTINF:-1 group-title="SPORTS", SS LA LIGA
 http://ux38.gcdn.co/SSLaLiga/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SS V1
+#EXTINF:-1 group-title="SPORTS", SS V1
 http://ux38.gcdn.co/SSVariety1/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SS V2
+#EXTINF:-1 group-title="SPORTS", SS V2
 http://ux38.gcdn.co/SSVariety2/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SS V3
+#EXTINF:-1 group-title="SPORTS", SS V3
 http://ux38.gcdn.co/SSVariety3/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SS V4
+#EXTINF:-1 group-title="SPORTS", SS V4
 http://ux38.gcdn.co/SSVariety4/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SS PSL
+#EXTINF:-1 group-title="SPORTS", SS PSL
 http://ux38.gcdn.co/SSPSL/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SS BLITZ
+#EXTINF:-1 group-title="SPORTS", SS BLITZ
 http://ux38.gcdn.co/SSBlitz/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SS TENNIS
+#EXTINF:-1 group-title="SPORTS", SS TENNIS
 http://ux38.gcdn.co/SSTennis/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SS GRANDSTAR
+#EXTINF:-1 group-title="SPORTS", SS GRANDSTAR
 http://ux38.gcdn.co/SSGrandstand/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SS GOLF
+#EXTINF:-1 group-title="SPORTS", SS GOLF
 http://ux38.gcdn.co/SSGolf/tracks-v1a1/mono.m3u8
-#EXTINF:-1, ESPN
+#EXTINF:-1 group-title="SPORTS", ESPN
 http://sptkid.gcdn.co/espn/tracks-v1a1/mono.m3u8
-#EXTINF:-1, ESPN 2
+#EXTINF:-1 group-title="SPORTS", ESPN 2
 http://sptkid.gcdn.co/espn2/tracks-v1a1/mono.m3u8
-#EXTINF:-1, FOX SPORT HIN 1
+#EXTINF:-1 group-title="SPORTS", FOX SPORT HIN 1
 http://sptkid.gcdn.co/foxsports1/tracks-v1a1/mono.m3u8
-#EXTINF:-1, FOX SPORT HIN 2
+#EXTINF:-1 group-title="SPORTS", FOX SPORT HIN 2
 http://sptkid.gcdn.co/foxsports2/tracks-v1a1/mono.m3u8
-#EXTINF:-1, NBA TV
+#EXTINF:-1 group-title="SPORTS", NBA TV
 http://sptkid.gcdn.co/nbatv/tracks-v1a1/mono.m3u8
 
 
