@@ -270,7 +270,7 @@ http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6849
 http://sptkid.gcdn.co/wwe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS", SKY ARENA
 http://31.220.41.88:8081/live/skysports-arena.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://bit.ly/31FhI20" group-title="SPORTS", Astro Sport 1
+#EXTINF: -1 tvg-logo="https://bit.ly/31FhI20" group-title="SPORTS", Astro Sport 2
 http://iptv.tvmalaysia.cc:80/penang200/penang200/6710
 #EXTINF: -1 tvg-logo="https://bit.ly/31FhI20" group-title="SPORTS", Astro Sport 2
 http://iptv.tvmalaysia.cc:80/989898/989898/6710
