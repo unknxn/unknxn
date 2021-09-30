@@ -31,7 +31,7 @@ https://m3u-editor.com/serve/5a9d6b60-0270-11ec-8530-cbb324853ece/361125831
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HP4hpMS.jpg" group-title="MALAYSIA ALL" , Al Quran Al Kareem TV 
 http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/FK404d5Q/Naura.png" group-title="MALAYSIA ALL",Naura HD
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/FK404d5Q/Naura.png" group-title="MALAYSIA ALL", Naura HD
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF:-1 tvg-id="118_1" group-title="MALAYSIA ALL" tvg-logo="https://user-images.githubusercontent.com/85995579/128457984-94be67a9-e944-4fcd-a083-7c01d5a922b7.png", Go Shop RUUMA
 https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
