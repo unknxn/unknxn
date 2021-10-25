@@ -269,87 +269,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c5485300079
 https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
 #EXTINF:-1 group-title="SPORTS", Ring of Honor (FREE) 
 https://www.fite.tv/embed/play/2p4sa.m3u8?ts=1575020678&ref=other
-#EXTINF:-1 group-title="SPORTS", SKY ARENA
-http://31.220.41.88:8081/live/skysports-arena.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://bit.ly/31FhI20" group-title="SPORTS", Astro Sport 2
-http://iptv.tvmalaysia.cc:80/penang200/penang200/6710
-#EXTINF: -1 tvg-logo="https://bit.ly/31FhI20" group-title="SPORTS", Astro Sport 2
-http://iptv.tvmalaysia.cc:80/989898/989898/6710
-#EXTINF: -1 tvg-logo="https://logos.fandom.com/wiki/File:Astro_ASSP3_HD.png" group-title="SPORTS", Astro Sport 3
-http://iptv.tvmalaysia.cc:80/989898/989898/6711
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Astro_ASSP4_HD.png/revision/latest/scale-to-width-down/200?cb=20200929174045" group-title="SPORTS", Astro Sport 4
-http://iptv.tvmalaysia.cc:80/penang200/penang200/6712
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/824.png/revision/latest/scale-to-width-down/300?cb=20200527073450" group-title="SPORTS", ASTRO CRICKET
-http://50.7.161.82:8278/streams/d/astrocricket_pye/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="819" group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest?cb=20190319023656",819 BeIN Sports MAX HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6748
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest/scale-to-width-down/300?cb=20200906164016" group-title="SPORTS" BEIN SPORT 1
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/155
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/800px-Logo_bein_sports_2.png" group-title="SPORTS",BEIN SPORT 2
-http://topwin-tv.my.id/2/master.m3u8?id=bein2
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/156
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/BeIN_Xtra.PNG/revision/latest/scale-to-width-down/300?cb=20201108180437" group-title="SPORTS", BEIN XTRA
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/foxsport2.png" group-title="SPORTS",fox sport 2
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/foxsport3.png" group-title="SPORTS",fox sport 3
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/useesport1.png" group-title="SPORTS",UseeSports 1
-http://topwin-tv.my.id/2/master.m3u8?id=useesport
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/useesport2.png" group-title="SPORTS",UseeSports 2
-http://topwin-tv.my.id/2/master.m3u8?id=useesports2
-#EXTINF:-1 tvg-id="Golf.es" group-title="SPORTS",Golf
-http://topwin-tv.my.id/2/master.m3u8?id=golfplus
-#EXTINF:-1 group-title="SPORTS", SS PREMIER LEAGUE
-http://ux38.gcdn.co/SSPremierLeague/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS", SS LA LIGA
-http://ux38.gcdn.co/SSLaLiga/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS", SS V1
-http://ux38.gcdn.co/SSVariety1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS", SS V2
-http://ux38.gcdn.co/SSVariety2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS", SS V3
-http://ux38.gcdn.co/SSVariety3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS", SS V4
-http://ux38.gcdn.co/SSVariety4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS", SS PSL
-http://ux38.gcdn.co/SSPSL/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS", SS BLITZ
-http://ux38.gcdn.co/SSBlitz/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS", SS TENNIS
-http://ux38.gcdn.co/SSTennis/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS", SS GRANDSTAR
-http://ux38.gcdn.co/SSGrandstand/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS", SS GOLF
-http://ux38.gcdn.co/SSGolf/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS", ESPN
-http://sptkid.gcdn.co/espn/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS", ESPN 2
-http://sptkid.gcdn.co/espn2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS", FOX SPORT HIN 1
-http://sptkid.gcdn.co/foxsports1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS", FOX SPORT HIN 2
-http://sptkid.gcdn.co/foxsports2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS", NBA TV
-http://sptkid.gcdn.co/nbatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS", BT SPORT 1
-http://sptkid.gcdn.co/btsport1_b/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS", BT SPORT 2
-http://ux38.gcdn.co/UKS78/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS", BT SPORT 3
-http://ux38.gcdn.co/UKS79/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/fvWbDnq/ES.png",[$]ESPN HD
-http://31.220.41.88:8081/live/nl-foxsports1.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/ZGT75fw/ES2.png",[$]ESPN 2HD
-http://31.220.41.88:8081/live/nl-foxsports2.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/brmf68X/ES3.png",[$]ESPN 3HD
-http://31.220.41.88:8081/live/nl-foxsports3.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/mJXZZ0f/ES4.png",[$]ESPN 4HD
-http://31.220.41.88:8081/live/nl-foxsports4.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/5W7tZ4S/ES5.png",[$]ESPN 5HD
-http://31.220.41.88:8081/live/nl-foxsports5.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/jkZRnzr/ES6.png",[$]ESPN 6HD
-http://31.220.41.88:8081/live/nl-foxsports6.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="", SKY PREMIER LEAGUE
 http://31.220.41.90:8081/live/skysports-premier-league.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="", SKY MAIN EVEN
