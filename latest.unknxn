@@ -97,16 +97,11 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="hitsmovies.id" tvg-name="Hits Movies" tvg-logo="http://tvmalaysia.cc:80/images/b2edde7e3fcfc5cf87738f80ce5e1336.png" group-title="MOVIES",Hits Movies
 https://www.dropbox.com/s/dl/i6sz78ezl98lrrc/carawaktv-hbohits.m3u8
-#EXTINF:-1 tvg-id="58e55b14ad8e9c364d55f717" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" group-title="MOVIES",Flicks of Fury
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5f4d86f519358a00072b978e" tvg-name="Pluto TV 90s Throwback" tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png" group-title="MOVIES",Pluto TV 90s Throwback
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=561d7d484dc7c8770484914a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=54&terminate=false&userId=
+
 #EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FMgtqM8.jpg" tvg-url="" group-title="MOVIES",Hallmark Movies & More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="MOVIES",Galaxy tv
-https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/galax.png" group-title="MOVIES",Galaxy
-http://topwin-tv.my.id/2/master.m3u8?id=galaxy
+
+
 #EXTINF:-1 tvg-id="" tvg-name="MNX" tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="MOVIES",MNX
 http://iptv.tvmalaysia.cc:80/989898/989898/8998
 #EXTINF:-1 tvg-logo=https://www.adgully.com/img/400/201906/3f7ztlui_400x400.jpg group-title="MOVIES",&Flix HD
