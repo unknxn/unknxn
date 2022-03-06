@@ -28,7 +28,8 @@ http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-name="Makkah TV" tvg-logo="https://www.makkahtv.com/wp-content/uploads/2019/08/MakkahTV.png" group-title="MALAYSIA ALL",Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
-https://youtu.be/aQWBPYyJ2Sk
+#EXTINF:-1 tvg-name="Madinah TV" tvg-logo="https://www.makkahtv.com/wp-content/uploads/2019/08/MakkahTV.png" group-title="MALAYSIA ALL",Madinah TV
+https://github.com/AqFad2811/randomlivefromyt2/raw/main/Live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HP4hpMS.jpg" group-title="MALAYSIA ALL" , Al Quran Al Kareem TV 
 http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/FK404d5Q/Naura.png" group-title="MALAYSIA ALL", Naura HD
