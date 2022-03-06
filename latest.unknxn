@@ -1,11 +1,13 @@
 #EXTM3U x-tvg-url="https://unifiplaytv.samsam123.tk/epg" x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz" url-tvg="https://bit.ly/astroandunifiepg" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/u9uPPgo.jpg" group-title="MALAYSIA ALL",TV1
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="MALAYSIA ALL",TV2
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA ALL",TV3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+#EXTINF:-1 tvg-id="004" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://television-live.com/uploads/posts/46chgferwhehergf.png" tvg-url="" group-title="MALAYSIA ALL",Drama Sangat
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA ALL",TV3 (Backup)
 https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190540
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/28LWLFCD/Ria.png" group-title="MALAYSIA ALL",ASTRO Ria HD
@@ -26,6 +28,7 @@ http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-name="Makkah TV" tvg-logo="https://www.makkahtv.com/wp-content/uploads/2019/08/MakkahTV.png" group-title="MALAYSIA ALL",Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+https://youtu.be/aQWBPYyJ2Sk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HP4hpMS.jpg" group-title="MALAYSIA ALL" , Al Quran Al Kareem TV 
 http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/FK404d5Q/Naura.png" group-title="MALAYSIA ALL", Naura HD
@@ -58,8 +61,7 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 tvg-id="Boo.my" tvg-name="Boo" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="MALAYSIA ALL",Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/imc.png" group-title="MALAYSIA ALL",IMC
-http://topwin-tv.my.id/2/master.m3u8?id=imc
+
 #EXTINF:-1 tvg-id="astroaura.my" tvg-name="ASTRO Aura HD" tvg-logo="http://tvmalaysia.cc:80/images/5e587cd56b42bd16285dfddb2c63c5e7.png" group-title="MALAYSIA ALL" | ASTRO",ASTRO Aura HD
 http://iptv.tvmalaysia.cc:80/989898/989898/6713
 #EXTINF:-1 tvg-id="astrorania.my" tvg-name="ASTRO Rania HD" tvg-logo="http://tvmalaysia.cc:80/images/04b0e81075a4d2dc4d9dba2411a42b77.png" group-title="MALAYSIA ALL" | ASTRO",ASTRO Rania HD
