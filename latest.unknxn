@@ -5,11 +5,11 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="MALAYSIA ALL",TV2
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA ALL",TV3
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+http://vo01.mohdtv.com:8880/yxl/12345678/1732
 #EXTINF:-1 tvg-id="004" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://television-live.com/uploads/posts/46chgferwhehergf.png" tvg-url="" group-title="MALAYSIA ALL",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA ALL",TV3 (Backup)
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190540
+https://live.astradamy.com/tv3/index.m3u8
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/28LWLFCD/Ria.png" group-title="MALAYSIA ALL",ASTRO Ria HD
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/28LWLFCD/Ria.png" group-title="MALAYSIA ALL",ASTRO Ria HD (Backup)
@@ -211,9 +211,9 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/4xzhBfK2/tv2my.png" group-title="TV Backup",TV2
 http://iptv.tvmalaysia.cc:80/989898/989898/7178
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2mJkCQm/tv3my.png" group-title="TV Backup",Tv3
-http://iptv.tvmalaysia.cc:80/989898/989898/8750
+http://iptv12k.com:35461/8022022301/468985/740
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="TV Backup", TV 3 HD
-http://iptv.tvmalaysia.cc:80/139664/139664/8750
+http://axcestv.vip:8080/freeview/axcestv/624
 #EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/vwZ3sjD/jjy.png" group-title="TV Backup" TV-AlHijrah
 http://iptv.tvmalaysia.cc/139664/139664/6834
 #EXTINF:-1 tvg-id="202" group-title="TV Backup" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",Astro Vinmeen HD
