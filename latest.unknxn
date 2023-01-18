@@ -101,7 +101,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 tvg-id="hbofamilyhd.id" tvg-name="HBO Family FHD" tvg-logo="http://tvmalaysia.cc:80/images/edd35b48dea4ae392512307e9adb7fcd.png" group-title="MOVIES",HBO Family FHD
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497683
 #EXTINF:-1 tvg-id="hitsmovies.id" tvg-name="Hits Movies" tvg-logo="http://tvmalaysia.cc:80/images/b2edde7e3fcfc5cf87738f80ce5e1336.png" group-title="MOVIES",Hits Movies
-https://www.dropbox.com/s/dl/i6sz78ezl98lrrc/carawaktv-hbohits.m3u8
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497688
 
 #EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FMgtqM8.jpg" tvg-url="" group-title="MOVIES",Hallmark Movies & More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
@@ -273,7 +273,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 group-title="SPORTS",ASTRO ARENA 
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Dimas kay https://imgur.com/gallery/ceU4rq0",FOX SPORTS 1 FULLHD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31155?checkedby:iptvcat.com
+http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497613
 #EXTINF:-1 group-title="SPORTS",FootballHub
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png",Fox Sport 1
