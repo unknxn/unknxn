@@ -59,7 +59,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MALAYSIA ALL",Astro Awani (1080p)
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497597
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MALAYSIA ALL",Astro Awani [Not 24/7]
-http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA ALL",Astro Ceria
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497604
 #EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/W5jwb9K/FCSC.png" group-title="MALAYSIA ALL",TVS (576p)
