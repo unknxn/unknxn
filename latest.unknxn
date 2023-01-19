@@ -68,12 +68,6 @@ http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497645
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497634
 #EXTINF:-1 tvg-id="astrorania.my" tvg-name="ASTRO Rania HD" tvg-logo="http://tvmalaysia.cc:80/images/04b0e81075a4d2dc4d9dba2411a42b77.png" group-title="MALAYSIA ALL" | ASTRO",ASTRO Rania HD
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497609
-#EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="Astro Shuang Xing" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png" group-title="MALAYSIA ALL",Astro Shuang Xing
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroXiaoTaiYang.my" tvg-name="Astro Xiao Tai Yang" tvg-country="MY" tvg-language="" tvg-logo="http://astrokentico.s3.amazonaws.com/xuan/channels/325.png" group-title="MALAYSIA ALL",Astro(Astro Xiao Tai Yang) [Not 24/7]
-http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497637
-#EXTINF:-1 tvg-id="AstroQuanJiaHD.my" tvg-name="Astro Quan Jia HD" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png" tvg-url="" group-title="MALAYSIA ALL",Astro Quan Jia HD
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 #EXTINF:-1 tvg-id="IQIYI" tvg-name="" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/IQIYI_%282011%2C_short%29.svg/revision/latest/scale-to-width-down/150?cb=20220607180821" group-title="MALAYSIA ALL",IQIYI
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497690
 
@@ -93,10 +87,6 @@ http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497684
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497683
 #EXTINF:-1 tvg-id="hitsmovies.id" tvg-name="Hits Movies" tvg-logo="http://tvmalaysia.cc:80/images/b2edde7e3fcfc5cf87738f80ce5e1336.png" group-title="MOVIES",Hits Movies
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497688
-#EXTINF:-1 tvg-name="Celestial Movies" tvg-logo="http://tvmalaysia.cc:80/images/00a16262a08aa5b141f58e660f016339.jpg" group-title="MOVIES",Celestial Movies
-https://liveaneviadev.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
-#EXTINF:-1 tvg-name="" tvg-logo="https://logopond.com/logos/98c5138295891c84a5306b4375f5abb6.png" group-title="MOVIES",Cinema World
-https://liveaneviadev.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #EXTINF:-1 tvg-name="Movie Sphere" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/download.png" group-title="MOVIES",Movie Sphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 
