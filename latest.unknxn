@@ -25,7 +25,6 @@ http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497741
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497739
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/fbfmTzDS/Citra.png" group-title="MALAYSIA ALL",Astro Citra
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497605
-
 #EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/vwZ3sjD/jjy.png" group-title="MALAYSIA ALL" TV-AlHijrah
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497739
 #EXTINF:-1 tvg-name="Makkah TV" tvg-logo="https://www.makkahtv.com/wp-content/uploads/2019/08/MakkahTV.png" group-title="MALAYSIA ALL",Makkah TV
@@ -52,7 +51,6 @@ http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497707
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497579
 #EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MALAYSIA ALL",TV9
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497728
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Saluran_Berita_RTM.png/revision/latest/scale-to-width-down/250?cb=20200914155210" tvg-url="" group-title="MALAYSIA ALL",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
@@ -70,8 +68,6 @@ http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497645
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497634
 #EXTINF:-1 tvg-id="astrorania.my" tvg-name="ASTRO Rania HD" tvg-logo="http://tvmalaysia.cc:80/images/04b0e81075a4d2dc4d9dba2411a42b77.png" group-title="MALAYSIA ALL" | ASTRO",ASTRO Rania HD
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497609
-#EXTINF:-1 tvg-id="396" group-title="MALAYSIA ALL" tvg-logo="https://user-images.githubusercontent.com/85995579/128629428-91d4dbdd-9b18-498c-a5d7-df251c90a1aa.png",KPlus HD
-http://iptv.tvmalaysia.cc:80/624850/624850/6805
 #EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="Astro Shuang Xing" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png" group-title="MALAYSIA ALL",Astro Shuang Xing
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroXiaoTaiYang.my" tvg-name="Astro Xiao Tai Yang" tvg-country="MY" tvg-language="" tvg-logo="http://astrokentico.s3.amazonaws.com/xuan/channels/325.png" group-title="MALAYSIA ALL",Astro(Astro Xiao Tai Yang) [Not 24/7]
