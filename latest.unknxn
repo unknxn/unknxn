@@ -74,9 +74,6 @@ http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497690
 
 
 
-
-
-
 #EXTINF:-1 tvg-id="cinemax.id" tvg-name="Cinemax FHD" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png" group-title="MOVIES",Cinemax FHD
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497656
 #EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg" group-title="MOVIES",HBO FHD
@@ -145,34 +142,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f0cb39b4ae1f80007bad5
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5317bfebff98025b3200ff99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-
-
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/hjX6R5Rw/tv1my.png" group-title="TV Backup",TV1
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/4xzhBfK2/tv2my.png" group-title="TV Backup",TV2
-http://iptv.tvmalaysia.cc:80/989898/989898/7178
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2mJkCQm/tv3my.png" group-title="TV Backup",Tv3
-http://iptv12k.com:35461/8022022301/468985/740
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="TV Backup", TV 3 HD
-http://axcestv.vip:8080/freeview/axcestv/624
-#EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/vwZ3sjD/jjy.png" group-title="TV Backup" TV-AlHijrah
-http://iptv.tvmalaysia.cc/139664/139664/6834
-#EXTINF:-1 tvg-id="202" group-title="TV Backup" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",Astro Vinmeen HD
-http://iptv.tvmalaysia.cc:80/624850/624850/6739
-#EXTINF:-1 tvg-id="306" group-title="TV Backup" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png", Astro AEC
-http://iptv.tvmalaysia.cc:80/624850/624850/6701
-#EXTINF:-1 tvg-id="319" group-title="TV Backup" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",TVB Xing He
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-#EXTINF:-1 group-title="TV Backup", tvg-id="AstroAOD311.my" tvg-name="Astro AOD 311" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" tvg-url="" group-title="TV Backup",Astro AOD 311
-http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
-#EXTINF: -1 group-title="TV Backup", ASTRO AOD 352 HD
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190453
-#EXTINF: -1 group-title="TV Backup", ASTRO AOD 353 HD
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190454
-#EXTINF: -1 group-title="TV Backup", ASTRO AOD 354 HD
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190455
-#EXTINF: -1 group-title="TV Backup", ASTRO AOD 355 HD
-https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190456
 #EXTINF:-1 tvg-id="303" group-title="TV Backup" tvg-logo="https://i.kampung.xyz/c/3c09cfb4117ed995.png", Go Shop 2
 https://agsplayback01.astro.com.my/CH2/master_GOSHOP2_04.m3u8
 
@@ -209,10 +178,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c5485300079
 #EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/154876f2-ed78-4a1e-959d-96aab12af9cd-small3x1_STIRR_Logo_0720_ROHBestofthePlanet_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="SPORTS", Ring of Honor (STIRR) (720p)
 https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
 
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/iFNScQ6.png",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 group-title="SPORTS",ASTRO ARENA 
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Dimas kay https://imgur.com/gallery/ceU4rq0",FOX SPORTS 1 FULLHD
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497613
 #EXTINF:-1 group-title="SPORTS",FootballHub
@@ -221,7 +189,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="819" group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest?cb=20190319023656",819 BeIN Sports MAX HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6748
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png",UFC FIGHT 2
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://bit.ly/2Tnl5GH",UFC 2
