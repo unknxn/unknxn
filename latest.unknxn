@@ -44,15 +44,10 @@ https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8
 #EXTINF:-1 tvg-id="120" group-title="MALAYSIA ALL" tvg-logo="https://i.kampung.xyz/c/20d0f2053da42ed2.png",Go Shop  
 https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
 #EXTINF:-1 group-title="MALAYSIA ALL" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8|Referer=https://rtmklik.rtm.gov.my
-
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #EXTINF:-1 tvg-logo="https://iili.io/1NqAMl.png" group-title="MALAYSIA ALL", Awesome TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/211/
-https://malay.bystreamtv.workers.dev/dash-wv/linear/211/default_primary.mpd
 #http://w.nasvpn.xyz:8080/live/aaaa/aaaa/7856.m3u8
-
-EXTINF:-1 tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="MALAYSIA ALL", OKeY
+#EXTINF:-1 tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="MALAYSIA ALL", OKeY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 #EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV 7" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="MALAYSIA ALL",NTV 7
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497707
@@ -60,6 +55,10 @@ http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497707
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497579
 #EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MALAYSIA ALL",TV9
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497728
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Saluran_Berita_RTM.png/revision/latest/scale-to-width-down/250?cb=20200914155210" tvg-url="" group-title="MALAYSIA ALL",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+#https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MALAYSIA ALL",Astro Awani (1080p)
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497597
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MALAYSIA ALL",Astro Awani [Not 24/7]
@@ -98,63 +97,24 @@ http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497690
 
 #EXTINF:-1 tvg-id="cinemax.id" tvg-name="Cinemax FHD" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png" group-title="MOVIES",Cinemax FHD
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497656
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png",Cinemax SD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg" group-title="MOVIES",HBO FHD
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497682
-#EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg" group-title="MOVIES",HBO SD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-id="hbohitshd.id" tvg-name="HBO Hits FHD" tvg-logo="http://tvmalaysia.cc:80/images/dde6d5223d908187cdc7941755aeb078.jpg" group-title="MOVIES",HBO Hits FHD
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497684
-#EXTINF:-1 tvg-id="hbosignaturehd.id" tvg-name="HBO Signature FHD" tvg-logo="http://tvmalaysia.cc:80/images/70c49744e9d20d7018631a3968bed6a2.png" group-title="MOVIES",HBO Signature FHD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 tvg-id="hbofamilyhd.id" tvg-name="HBO Family FHD" tvg-logo="http://tvmalaysia.cc:80/images/edd35b48dea4ae392512307e9adb7fcd.png" group-title="MOVIES",HBO Family FHD
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497683
 #EXTINF:-1 tvg-id="hitsmovies.id" tvg-name="Hits Movies" tvg-logo="http://tvmalaysia.cc:80/images/b2edde7e3fcfc5cf87738f80ce5e1336.png" group-title="MOVIES",Hits Movies
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497688
-
-#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FMgtqM8.jpg" tvg-url="" group-title="MOVIES",Hallmark Movies & More
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MNX" tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="MOVIES",MNX
-http://iptv.tvmalaysia.cc:80/989898/989898/8998
-#EXTINF:-1 tvg-logo=https://www.adgully.com/img/400/201906/3f7ztlui_400x400.jpg group-title="MOVIES",&Flix HD
-http://103.153.39.36:8000/play/a00p
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428154_ico.png" group-title="MOVIES",&Prive HD
-http://103.153.39.36:8000/play/a01d
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98922019894147.562e20b62bcaf.jpg" group-title="MOVIES",STAR MOVIES
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest/scale-to-width-down/300?cb=20190810162735g" group-title="MOVIES", STAR MOV SELCT
-http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
 #EXTINF: -1 group-title="MOVIES", FLIX
 https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885258
 #EXTINF: -1 group-title="MOVIES", Marvels Action Movies
 https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348885259
 
-#EXTINF:-1 tvg-id="celestialmovies.id" tvg-name="Celestial Movies" tvg-logo="http://tvmalaysia.cc:80/images/00a16262a08aa5b141f58e660f016339.jpg" group-title"MOVIES",Celestial Movies
-http://iptv.tvmalaysia.cc:80/989898/989898/7235
-#EXTINF:-1 tvg-id="CelestialMoviesMalaysia.hk" tvg-name="Celestial Movies Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/200px-CMC_English_full_color_black_text_2.jpg" tvg-url="" group-title="MOVIES",Celestial Movies
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES", K-Movies (720p)
-https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-name="Sony Pix HD" tvg-ID="SonyPix.in" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/Sony_Pix_HD.jpg" group-title="MOVIES",Sony Pix HD
-https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
-#EXTINF:0 tvg-name="Movies NOW" tvg-ID="MoviesNow.in" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/movies-now.jpg" group-title="MOVIES",Movies NOW
-http://103.153.39.34:8000/play/a050/index.m3u8
-#EXTINF:0 tvg-name="Tring Action Movie 1" tvg-ID="TringAction.al" tvg-logo="https://tvshqipon.com/wp-content/uploads/2019/12/Tring-Action-Live.png" group-title="MOVIES",Tring Action Movie 1
-http://93.157.62.180/TringAction/index.m3u8
-#EXTINF:0 tvg-name="NETFLIX MOVIES" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/newnetflixlogo.jpg" group-title="MOVIES",NETFLIX MOVIES
-http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
-#EXTINF:0 tvg-name="MIX HOLLYWOOD" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/movie_logo_design_text_reel_filmstrip_icons_decoration_6829232.jpg" group-title="MOVIES",MIX HOLLYWOOD
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:0 tvg-name="MY Cinema" tvg-logo="https://logopond.com/logos/98c5138295891c84a5306b4375f5abb6.png" group-title=MOVIES",MY Cinema
-http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
-#EXTINF:0 tvg-name="24hr Movies" tvg-logo="https://a.jsrdn.com/hls/22907/24-hour-free-movies/thumbv_20200922_191828.jpg" group-title="MOVIES",24hr Movies
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:0 tvg-name="Cinema Movies" tvg-logo="https://previews.123rf.com/images/pazhyna/pazhyna1709/pazhyna170900030/85934183-cinema-movie-time-banner-.jpg" group-title="MOVIES",Cinema Movies
-http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
-#EXTINF:0 tvg-name="Movie Sphere" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/download.png" group-title="MOVIES",Movie Sphere
+#EXTINF:-1 tvg-id=" tvg-name="Celestial Movies" tvg-logo="http://tvmalaysia.cc:80/images/00a16262a08aa5b141f58e660f016339.jpg" group-title"MOVIES",Celestial Movies
+https://liveaneviadev.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+#EXTINF:-1 tvg-name="MY Cinema" tvg-logo="https://logopond.com/logos/98c5138295891c84a5306b4375f5abb6.png" group-title=MOVIES",Cinema World
+https://liveaneviadev.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+#EXTINF:-1 tvg-name="Movie Sphere" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/download.png" group-title="MOVIES",Movie Sphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 
 
