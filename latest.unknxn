@@ -95,7 +95,7 @@ http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497683
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497688
 #EXTINF:-1 tvg-name="Celestial Movies" tvg-logo="http://tvmalaysia.cc:80/images/00a16262a08aa5b141f58e660f016339.jpg" group-title="MOVIES",Celestial Movies
 https://liveaneviadev.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
-#EXTINF:-1 tvg-name="" tvg-logo="https://logopond.com/logos/98c5138295891c84a5306b4375f5abb6.png" group-title=MOVIES",Cinema World
+#EXTINF:-1 tvg-name="" tvg-logo="https://logopond.com/logos/98c5138295891c84a5306b4375f5abb6.png" group-title="MOVIES",Cinema World
 https://liveaneviadev.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #EXTINF:-1 tvg-name="Movie Sphere" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/download.png" group-title="MOVIES",Movie Sphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
