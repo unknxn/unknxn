@@ -55,6 +55,16 @@ http://w.nasvpn.xyz:8080/live/aaaa/aaaa/7856.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 #EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV 7" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="MALAYSIA ALL",NTV 7
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497707
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/ 
+#EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png" group-title="MALAYSIA ALL",DidikTV KPM 
+https://aqfadtv.xyz/live/didiktvkpm/index.mpd 
+EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png" group-title="MALAYSIA ALL",DidikTV KPM 
+http://51.79.82.208:16004 
+
+
 #EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="MALAYSIA ALL",8TV
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497579
 #EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MALAYSIA ALL",TV9
@@ -78,6 +88,8 @@ http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497634
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497609
 #EXTINF:-1 tvg-id="IQIYI" tvg-name="" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/IQIYI_%282011%2C_short%29.svg/revision/latest/scale-to-width-down/150?cb=20220607180821" group-title="MALAYSIA ALL",IQIYI
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497690
+
+
 
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1160148.png" group-title="MOVIES",EN Movie
