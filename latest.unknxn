@@ -85,8 +85,14 @@ https://aqfadtv.xyz/live/unifitv/salam/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
 https://aqfadtv.xyz/live/citra/index.mpd
+
 #EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/vwZ3sjD/jjy.png" group-title="MALAYSIA ALL" TV-AlHijrah
-http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497739
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="MALAYSIA ALL",Al-Hijrah
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="MALAYSIA ALL",Al-Hijrah
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
 
 #EXTINF:-1 tvg-name="Makkah TV" tvg-logo="https://www.makkahtv.com/wp-content/uploads/2019/08/MakkahTV.png" group-title="MALAYSIA ALL",Makkah TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
@@ -167,14 +173,8 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/published/tvn-movies-horizontal-logo.jpg?1501942269" group-title="MOVIES",TVN Movie
 https://epg.pw/stream/06cf8bf42c5c6a2ba183f14a76f62a9cf3189f3dad95b3415bbbf7d5737cbd9b.m3u8
-#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586679050-.png" group-title="MOVIES", Galaxy Premium
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/506
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="MOVIES",Celestial Movies HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+
+
 #EXTINF:-1 tvg-id="cinemax.id" tvg-name="Cinemax FHD" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png" group-title="MOVIES",Cinemax FHD
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497656
 #EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg" group-title="MOVIES",HBO FHD
@@ -266,14 +266,6 @@ https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png", ASTRO SUPERSPORT 3
-https://aqfadtv.xyz/live/supersport3/index.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png", ASTRO SUPERSPORT 3  
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo5LD_3-2Oq3KhOzvu6aOKzqWO9MBvR5KTcgK8wJPYgQoyR67EoYuw02c4OxlFPzFq1g&usqp=CAU",BeIN Sports English 1
 http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=1673204766768
