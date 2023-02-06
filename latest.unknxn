@@ -178,9 +178,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 #EXTINF:-1 tvg-id="cinemax.id" tvg-name="Cinemax FHD" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png" group-title="MOVIES",Cinemax FHD
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497656
 #EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg" group-title="MOVIES",HBO FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
-https://aqfadtv.xyz/live/hbo/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://av-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 #EXTINF:-1 tvg-id="hbohitshd.id" tvg-name="HBO Hits FHD" tvg-logo="http://tvmalaysia.cc:80/images/dde6d5223d908187cdc7941755aeb078.jpg" group-title="MOVIES",HBO Hits FHD
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497684
 #EXTINF:-1 tvg-id="hbofamilyhd.id" tvg-name="HBO Family FHD" tvg-logo="http://tvmalaysia.cc:80/images/edd35b48dea4ae392512307e9adb7fcd.png" group-title="MOVIES",HBO Family FHD
