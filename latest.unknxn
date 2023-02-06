@@ -61,6 +61,17 @@ https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="MALAYSIA ALL",Dunia Sinema HD
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
+#EXTINF:-1 group-title="MALAYSIA ALL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Degup.png/revision/latest?cb=20220924000615",Degup
+https://aqfadtv.xyz/live/unifitv/degup/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
+#EXTINF:-1 group-title="MALAYSIA ALL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Hypp_Inspirasi_HD.png/revision/latest?cb=20210712091503",Inspirasi
+https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
+
+
 #EXTINF:-1 tvg-logo="https://vectorise.net/logo/wp-content/uploads/2011/01/TV-Alhijrah-Emboss.png" group-title="MALAYSIA ALL",Al Hijrah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113
@@ -237,9 +248,13 @@ https://agsplayback01.astro.com.my/CH2/master_GOSHOP2_04.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/animax.png" group-title="KIDS",Animax
-http://topwin-tv.my.id/2/master.m3u8?id=animax
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/aniplus.png" group-title="KIDS",Aniplus
-http://topwin-tv.my.id/2/master.m3u8?id=aniplus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5013
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/509
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/YA86w8Q.png",Cartoon Network HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default.mpd
 #EXTINF:-1 group-title="KIDS", DISNEY CHANEL
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 #EXTINF:-1 group-title="KIDS", MARVEL HQ
