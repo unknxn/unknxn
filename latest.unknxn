@@ -80,8 +80,12 @@ http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497609
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497690
 
 
-
-
+#EXTINF:-1 tvg-name="" tvg-logo="https://logodix.com/logo/1160148.png" group-title="MOVIES",EN Movie
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlQYDMFMQOUfgVswEQSzMuESNA2EwcwGyvlA&usqp=CAU" group-title="MOVIES",HK Movie
+http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="http://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/published/tvn-movies-horizontal-logo.jpg?1501942269" group-title="MOVIES",TVN Movie
+https://epg.pw/stream/06cf8bf42c5c6a2ba183f14a76f62a9cf3189f3dad95b3415bbbf7d5737cbd9b.m3u8
 #EXTINF:-1 tvg-id="cinemax.id" tvg-name="Cinemax FHD" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png" group-title="MOVIES",Cinemax FHD
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497656
 #EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg" group-title="MOVIES",HBO FHD
