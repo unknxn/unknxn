@@ -48,8 +48,14 @@ https://aqfadtv.xyz/live/oasis/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402/
 https://aqfadtv.xyz/live/warna/index.mpd
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/4xTYKD86/Warna.png" group-title="MALAYSIA ALL",Astro Warna HD backup
 https://stream.zeehanzgadget.com/warna
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sensasi2022.png/revision/latest?cb=20220902052331" group-title="MALAYSIA ALL",HyppSensasi HD
+https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="MALAYSIA ALL",Dunia Sinema HD
@@ -59,9 +65,15 @@ https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/salam/
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Salam_HD.png"group-title="MALAYSIA ALL",Salam HD
+https://aqfadtv.xyz/live/unifitv/salam/index.mpd
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/fbfmTzDS/Citra.png" group-title="MALAYSIA ALL",Astro Citra
-http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497605
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
+https://aqfadtv.xyz/live/citra/index.mpd
 #EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/vwZ3sjD/jjy.png" group-title="MALAYSIA ALL" TV-AlHijrah
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497739
 
@@ -115,8 +127,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497597
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MALAYSIA ALL",Astro Awani [Not 24/7]
 http://w.nasvpn.xyz:8080/live/aaaa/aaaa/4715.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA ALL",Astro Ceria
-http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497604
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
 #EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/W5jwb9K/FCSC.png" group-title="MALAYSIA ALL",TVS (576p)
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 tvg-id="BernamaTV.my" tvg-name="Bernama TV" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="MALAYSIA ALL",Bernama TV
@@ -126,7 +141,9 @@ http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497634
 #EXTINF:-1 tvg-id="astrorania.my" tvg-name="ASTRO Rania HD" tvg-logo="http://tvmalaysia.cc:80/images/04b0e81075a4d2dc4d9dba2411a42b77.png" group-title="MALAYSIA ALL" | ASTRO",ASTRO Rania HD
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497609
 #EXTINF:-1 tvg-id="IQIYI" tvg-name="" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/IQIYI_%282011%2C_short%29.svg/revision/latest/scale-to-width-down/150?cb=20220607180821" group-title="MALAYSIA ALL",IQIYI
-http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497690
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd?10
 
 
 
@@ -137,6 +154,10 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/published/tvn-movies-horizontal-logo.jpg?1501942269" group-title="MOVIES",TVN Movie
 https://epg.pw/stream/06cf8bf42c5c6a2ba183f14a76f62a9cf3189f3dad95b3415bbbf7d5737cbd9b.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/506
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="MOVIES",Celestial Movies HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 #EXTINF:-1 tvg-id="cinemax.id" tvg-name="Cinemax FHD" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png" group-title="MOVIES",Cinemax FHD
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497656
 #EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg" group-title="MOVIES",HBO FHD
