@@ -1,19 +1,4 @@
-#EXTM3U x-tvg-url="https://unifiplaytv.samsam123.tk/epg" x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz" x-tvg-url="https://bit.ly/astroandunifiepg" refresh="1440" max-conn="1" refresh="24"
-
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml" 
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/unifitv.xml" 
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" 
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/rtmklik.xml" 
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
-#EXTM3U x-tvg-url="https://github.com/azimabid00/epg/blob/main/unifi_epg.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
-
-#EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
-
-
+#EXTM3U x-tvg-url="https://unifiplaytv.samsam123.tk/epg" x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz" x-tvg-url="https://aqfadtv.xyz/epg" x-tvg-url="https://bit.ly/astroandunifiepg" refresh="1440" max-conn="1" refresh="24"
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjX6R5Rw/tv1my.png" group-title="MALAYSIA ALL", TV1
@@ -32,6 +17,7 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_primary.mpd
+
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/28LWLFCD/Ria.png" group-title="MALAYSIA ALL",ASTRO Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
@@ -50,6 +36,10 @@ https://aqfadtv.xyz/live/oasis/index.mpd
 https://aqfadtv.xyz/live/warna/index.mpd
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/4xTYKD86/Warna.png" group-title="MALAYSIA ALL",Astro Warna HD backup
 https://stream.zeehanzgadget.com/warna
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/fbfmTzDS/Citra.png" group-title="MALAYSIA ALL",Astro Citra
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
+https://aqfadtv.xyz/live/citra/index.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -81,18 +71,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Salam_HD.png" group-title="MALAYSIA ALL",Salam HD
 https://aqfadtv.xyz/live/unifitv/salam/index.mpd
 
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/fbfmTzDS/Citra.png" group-title="MALAYSIA ALL",Astro Citra
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
-https://aqfadtv.xyz/live/citra/index.mpd
 
-#EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/vwZ3sjD/jjy.png" group-title="MALAYSIA ALL" TV-AlHijrah
+#EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-country="MY" tvg-language="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="MALAYSIA ALL" TV-AlHijrah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="MALAYSIA ALL",Al-Hijrah
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="MALAYSIA ALL",Al-Hijrah
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
+
 
 #EXTINF:-1 tvg-name="Makkah TV" tvg-logo="https://www.makkahtv.com/wp-content/uploads/2019/08/MakkahTV.png" group-title="MALAYSIA ALL",Makkah TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
