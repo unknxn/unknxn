@@ -251,7 +251,7 @@ https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS", ASTRO SUPERSPORT 2
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS", ASTRO SUPERSPORT 2
 https://aqfadtv.xyz/live/supersport2/index.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo5LD_3-2Oq3KhOzvu6aOKzqWO9MBvR5KTcgK8wJPYgQoyR67EoYuw02c4OxlFPzFq1g&usqp=CAU",BeIN Sports English 1
 http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=1673204766768
