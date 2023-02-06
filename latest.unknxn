@@ -184,7 +184,7 @@ http://62.182.82.104/BEINSPORT_2_HD/index.m3u8?token=test&v=1673204766768
 http://62.182.82.104/BEIN_SPORT_3_HD/index.m3u8?token=test&v=1673204766768
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png",BeIN Sports 4
 http://62.182.82.104/BEIN_SPORT_4_HD/index.m3u8?token=test&v=1673204766768
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWgBtEM5EEC-vsm0OZ2FkE9VFPr0Vf-QZXtgHPgaA-jkQ5nHBGG-eS2IOl6EAnOBdJoQ&usqp=CAU",BeIN Sports 4
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWgBtEM5EEC-vsm0OZ2FkE9VFPr0Vf-QZXtgHPgaA-jkQ5nHBGG-eS2IOl6EAnOBdJoQ&usqp=CAU",BeIN Sports 5
 http://62.182.82.104/BEIN_SPORT_5_HD/index.m3u8?token=test&v=1673204766768
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.satellitesolutions.com/images/channel-logos/BEIN6.png",BeIN Sports 6
 http://62.182.82.104/BEIN_SPORT_6_HD/index.m3u8?token=test&v=1673204766768
