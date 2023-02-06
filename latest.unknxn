@@ -171,6 +171,35 @@ https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
 
 
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo5LD_3-2Oq3KhOzvu6aOKzqWO9MBvR5KTcgK8wJPYgQoyR67EoYuw02c4OxlFPzFq1g&usqp=CAU",BeIN Sports English 1
+http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=1673204766768
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH-PWVtGbaxeD1wUc1paU4i_AKNrx_-iGNFZDijBOWfEeg0vVG7IxYnhCfMS17KdBYwQ&usqp=CAU",BeIN Sports Premium 1
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6AZdzuhjnZRBjSCtqj7D0jWWX9Dsg2DbkHl6uNaJp-IAaZ6oV-LY0EvJXzlj7dVYnLg&usqp=CAU",BeIN Sports Premium 2
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=1673204766768
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo5LD_3-2Oq3KhOzvu6aOKzqWO9MBvR5KTcgK8wJPYgQoyR67EoYuw02c4OxlFPzFq1g&usqp=CAU",BeIN Sports 2
+http://62.182.82.104/BEINSPORT_2_HD/index.m3u8?token=test&v=1673204766768
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",BeIN Sports 3
+http://62.182.82.104/BEIN_SPORT_3_HD/index.m3u8?token=test&v=1673204766768
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png",BeIN Sports 4
+http://62.182.82.104/BEIN_SPORT_4_HD/index.m3u8?token=test&v=1673204766768
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWgBtEM5EEC-vsm0OZ2FkE9VFPr0Vf-QZXtgHPgaA-jkQ5nHBGG-eS2IOl6EAnOBdJoQ&usqp=CAU",BeIN Sports 4
+http://62.182.82.104/BEIN_SPORT_5_HD/index.m3u8?token=test&v=1673204766768
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.satellitesolutions.com/images/channel-logos/BEIN6.png",BeIN Sports 6
+http://62.182.82.104/BEIN_SPORT_6_HD/index.m3u8?token=test&v=1673204766768
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",BeIN Sports 7
+http://62.182.82.104/BEIN_SPORT_7_HD/index.m3u8?token=test&v=1673204766768
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeE472F8qfanVMIwvEsyMwMD8_yAGqlG0bQpz28F_sVARTWMB-epLth_clROkAMA76FVQ&usqp=CAU",BeIN HD
+http://gtv01.airlinktt.co/live/smil:BEIN_SPORTS.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/112.png",BeIN Sports Extra
+https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="821" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png",821 WWE Network HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6849
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="SPORTS",Impact Wrestling
@@ -199,8 +228,10 @@ http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497613
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png",Fox Sport 1
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-id="819" group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest?cb=20190319023656",819 BeIN Sports MAX HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6748
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png",UFC FIGHT 2
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://bit.ly/2Tnl5GH",UFC 2
@@ -219,7 +250,7 @@ http://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 http://91.126.141.13:1935/live/91/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/RZE3Pwf.png",Cycle World
 https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
-#EXTINF:-1 group-title="SPORT CAMPURAN" tvg-logo="https://i.imgur.com/AjRCYwR.png",Edge Sport (US)
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/AjRCYwR.png",Edge Sport (US)
 https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS", SURF
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
