@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://unifiplaytv.samsam123.tk/epg" url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz" url-tvg="https://aqfadtv.xyz/epg" url-tvg="https://bit.ly/astroandunifiepg"
+#EXTM3U x-tvg-url="https://unifiplaytv.samsam123.tk/epg" url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz" url-tvg="https://aqfadtv.xyz/epg" url-tvg="https://bit.ly/astroandunifiepg" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml"
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml" 
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml" 
