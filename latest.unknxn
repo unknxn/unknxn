@@ -42,7 +42,7 @@ https://aqfadtv.xyz/live/oasis/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402/
 https://aqfadtv.xyz/live/warna/index.mpd
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/4xTYKD86/Warna.png" group-title="MALAYSIA ALL",Astro Warna HD backup
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/4xTYKD86/Warna.png" group-title="MALAYSIA ALL",Astro Warna HD
 https://stream.zeehanzgadget.com/warna
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/fbfmTzDS/Citra.png" group-title="MALAYSIA ALL",Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -70,7 +70,7 @@ https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://vectorise.net/logo/wp-content/uploads/2011/01/TV-Alhijrah-Emboss.png" group-title="MALAYSIA ALL",Al Hijrah
+#EXTINF:-1 tvg-logo="https://vectorise.net/logo/wp-content/uploads/2011/01/TV-Alhijrah-Emboss.png" group-title="MALAYSIA ALL",TV AlHijrah
 https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_8b9f457013db11ed850317f9f49848aa/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -87,17 +87,17 @@ http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
 #EXTINF:-1 tvg-name="Madinah TV" tvg-logo="https://banner2.cleanpng.com/20180515/fee/kisspng-medina-mecca-television-channel-streaming-media-5afa9dd1326e53.1269584315263738412066.jpg" group-title="MALAYSIA ALL",Madinah TV
 http://m.live.net.sa:1935/live/sunnah/chunklist_w938352387.m3u8
 
-#EXTINF:-1 tvg-id="118_1" group-title="MALAYSIA ALL" tvg-logo="https://user-images.githubusercontent.com/85995579/128457984-94be67a9-e944-4fcd-a083-7c01d5a922b7.png", Go Shop
+#EXTINF:-1 tvg-id="118" group-title="MALAYSIA ALL" tvg-logo="https://user-images.githubusercontent.com/85995579/128457984-94be67a9-e944-4fcd-a083-7c01d5a922b7.png",Go Shop RUUMA
 https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
-#EXTINF:-1 tvg-id="120" group-title="MALAYSIA ALL" tvg-logo="https://user-images.githubusercontent.com/85995579/128458098-5b4bb7bc-5cab-423f-b4d7-ae4376f43590.png", Go Shop GAAYA 
+#EXTINF:-1 tvg-id="120" group-title="MALAYSIA ALL" tvg-logo="https://user-images.githubusercontent.com/85995579/128458098-5b4bb7bc-5cab-423f-b4d7-ae4376f43590.png",Go Shop GAAYA 
 https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8
 #EXTINF:-1 group-title="MALAYSIA ALL" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #EXTINF:-1 group-title="MALAYSIA ALL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/1NqAMl.png" group-title="MALAYSIA ALL", Awesome TV
+#EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" tvg-logo="https://iili.io/1NqAMl.png" group-title="MALAYSIA ALL",Awesome TV
 http://w.nasvpn.xyz:8080/live/aaaa/aaaa/7856.m3u8
-#EXTINF:-1 tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="MALAYSIA ALL", OKeY
+#EXTINF:-1 tvg-id="OKEY" ch-number="146" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="MALAYSIA ALL", OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 #EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV 7" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="MALAYSIA ALL",NTV 7
 http://23.237.10.66:16405
@@ -105,39 +105,39 @@ http://23.237.10.66:16405
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/ 
-#EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png" group-title="MALAYSIA ALL",DidikTV KPM 
+#EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MALAYSIA ALL",DidikTV KPM 
 https://aqfadtv.xyz/live/didiktvkpm/index.mpd 
-EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png" group-title="MALAYSIA ALL",DidikTV KPM 
+#EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MALAYSIA ALL",DidikTV KPM 
 http://51.79.82.208:16004 
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
-#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="MALAYSIA ALL",8TV
+#EXTINF:-1 tvg-id="8TV" ch-number="148" tvg-name="8TV" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="MALAYSIA ALL",8TV
 https://aqfadtv.xyz/live/8tv/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
-#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MALAYSIA ALL",TV9
+#EXTINF:-1 tvg-id="TV9" ch-number="149" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MALAYSIA ALL",TV9
 https://aqfadtv.xyz/live/tv9/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Saluran_Berita_RTM.png/revision/latest/scale-to-width-down/250?cb=20200914155210" tvg-url="" group-title="MALAYSIA ALL",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MALAYSIA ALL",Astro Awani (1080p)
+#EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani" tvg-country="MY" tvg-language="" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MALAYSIA ALL",Astro Awani (1080p)
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497597
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MALAYSIA ALL",Astro Awani [Not 24/7]
+#EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MALAYSIA ALL",Astro Awani [Not 24/7]
 http://w.nasvpn.xyz:8080/live/aaaa/aaaa/4715.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA ALL",Astro Ceria
+#EXTINF:-1 tvg-id="AstroCeria" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA ALL",Astro Ceria
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
-#EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/W5jwb9K/FCSC.png" group-title="MALAYSIA ALL",TVS (576p)
+#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" ch-number="122" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/W5jwb9K/FCSC.png" group-title="MALAYSIA ALL",TVS (576p)
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1114
-#EXTINF:-1 tvg-id="BernamaTV.my" tvg-name="Bernama TV" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="MALAYSIA ALL",Bernama TV
+#EXTINF:-1 tvg-id="BernamaTV" ch-number="502" tvg-name="Bernama TV" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="MALAYSIA ALL",Bernama TV
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default.mpd
 #EXTINF:-1 tvg-id="astroaura.my" tvg-name="ASTRO Aura HD" tvg-logo="http://tvmalaysia.cc:80/images/5e587cd56b42bd16285dfddb2c63c5e7.png" group-title="MALAYSIA ALL" | ASTRO",ASTRO Aura HD
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497634
