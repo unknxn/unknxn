@@ -125,7 +125,7 @@ https://aqfadtv.xyz/live/tv9/index.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani" tvg-country="MY" tvg-language="" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MALAYSIA ALL",Astro Awani (1080p)
-http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497597
+http://kuchini.site:8080/joeBt/e229c03d/157478
 #EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MALAYSIA ALL",Astro Awani [Not 24/7]
 http://w.nasvpn.xyz:8080/live/aaaa/aaaa/4715.m3u8
 
@@ -136,7 +136,7 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1114
 #EXTINF:-1 tvg-id="BernamaTV" ch-number="502" tvg-name="Bernama TV" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="MALAYSIA ALL",Bernama TV
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default.mpd
+http://kuchini.site:8080/joeBt/e229c03d/264517
 #EXTINF:-1 tvg-id="astroaura.my" tvg-name="ASTRO Aura HD" tvg-logo="http://tvmalaysia.cc:80/images/5e587cd56b42bd16285dfddb2c63c5e7.png" group-title="MALAYSIA ALL" | ASTRO",ASTRO Aura HD
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497634
 #EXTINF:-1 tvg-id="astrorania.my" tvg-name="ASTRO Rania HD" tvg-logo="http://tvmalaysia.cc:80/images/04b0e81075a4d2dc4d9dba2411a42b77.png" group-title="MALAYSIA ALL" | ASTRO",ASTRO Rania HD
@@ -148,13 +148,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd?10
 
 
 
-
+#EXTINF:-1 tvg-name="Celestial Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/51e29412b2a80c8afa779e56b99dccdd.png" group-title="MOVIES",Celestial Movies
+http://kuchini.site:8080/joeBt/e229c03d/174687
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1160148.png" group-title="MOVIES",EN Movie
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlQYDMFMQOUfgVswEQSzMuESNA2EwcwGyvlA&usqp=CAU" group-title="MOVIES",HK Movie
 http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/published/tvn-movies-horizontal-logo.jpg?1501942269" group-title="MOVIES",TVN Movie
-https://epg.pw/stream/06cf8bf42c5c6a2ba183f14a76f62a9cf3189f3dad95b3415bbbf7d5737cbd9b.m3u8
+http://kuchini.site:8080/joeBt/e229c03d/297499
 
 
 #EXTINF:-1 tvg-id="Cinemax" ch-number="412" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122"group-title="MOVIES",412 Cinemax
@@ -165,8 +166,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://av-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
-#EXTINF:-1 tvg-id="hbohitshd.id" tvg-name="HBO Hits FHD" tvg-logo="http://tvmalaysia.cc:80/images/dde6d5223d908187cdc7941755aeb078.jpg" group-title="MOVIES",HBO Hits FHD
-http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497684
+#EXTINF:-1 tvg-id="hbohitshd.id" tvg-name="HBO Hits FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/652a9e2547c9b24a6a2b0eb16b43a1f1.png" group-title="MOVIES",HBO Hits FHD
+http://kuchini.site:8080/joeBt/e229c03d/157477
 #EXTINF:-1 tvg-id="hbofamilyhd.id" tvg-name="HBO Family FHD" tvg-logo="http://tvmalaysia.cc:80/images/edd35b48dea4ae392512307e9adb7fcd.png" group-title="MOVIES",HBO Family FHD
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497683
 #EXTINF:-1 tvg-id="hitsmovies.id" tvg-name="Hits Movies" tvg-logo="http://tvmalaysia.cc:80/images/b2edde7e3fcfc5cf87738f80ce5e1336.png" group-title="MOVIES",Hits Movies
@@ -231,6 +232,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5317bfebff98025b3200ff
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/animax.png" group-title="KIDS",Animax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5013
+http://kuchini.site:8080/joeBt/e229c03d/157486
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/509
@@ -245,6 +247,21 @@ https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
 
 
 
+#EXTINF:-1 group-title="SPORTS" tvg-name="Astro Arena" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png",Astro Arena
+http://kuchini.site:8080/joeBt/e229c03d/157485
+#EXTINF:-1 group-title="SPORTS" tvg-name="Astro Arena 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7806170b5ef2464530dcaedcbe3e9a42.jpg",Astro Arena 2
+http://kuchini.site:8080/joeBt/e229c03d/287793
+
+#EXTINF:-1 group-title="SPORTS" tvg-name="Astro SuperSport" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png",Astro SuperSport
+http://kuchini.site:8080/joeBt/e229c03d/146068
+#EXTINF:-1 group-title="SPORTS" tvg-name="Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png",Astro SuperSport 2
+http://kuchini.site:8080/joeBt/e229c03d/157556
+#EXTINF:-1 group-title="SPORTS" tvg-name="Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png",Astro SuperSport 3
+http://kuchini.site:8080/joeBt/e229c03d/157557
+#EXTINF:-1 group-title="SPORTS" tvg-name="Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png",Astro SuperSport 4
+http://kuchini.site:8080/joeBt/e229c03d/157558
+#EXTINF:-1 group-title="SPORTS" tvg-name="Astro SuperSport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png",Astro SuperSport 5
+http://kuchini.site:8080/joeBt/e229c03d/287792
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo5LD_3-2Oq3KhOzvu6aOKzqWO9MBvR5KTcgK8wJPYgQoyR67EoYuw02c4OxlFPzFq1g&usqp=CAU",BeIN Sports English 1
 http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=1673204766768
