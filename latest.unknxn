@@ -69,6 +69,12 @@ https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 #EXTINF:-1 group-title="MALAYSIA ALL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Hypp_Inspirasi_HD.png/revision/latest?cb=20210712091503",Inspirasi
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="MALAYSIA ALL",Al-Hijrah
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="MALAYSIA ALL",Al-Hijrah
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
 
 #EXTINF:-1 tvg-id="TVAlhijrah" ch-number="114" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2011/01/TV-Alhijrah-Emboss.png" group-title="MALAYSIA ALL",TV AlHijrah
 https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_8b9f457013db11ed850317f9f49848aa/index.m3u8
@@ -78,7 +84,7 @@ https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_8b9f457013db11e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Salam_HD.png" group-title="MALAYSIA ALL",Salam HD
 https://aqfadtv.xyz/live/unifitv/salam/index.mpd
 
-#EXTINF:-1 tvg-name="Makkah TV" tvg-logo="https://e7.pngegg.com/pngimages/706/1020/png-clipart-kaaba-pakistan-medina-television-channel-live-television-kaaba-miscellaneous-television.png" group-title="MALAYSIA ALL",Makkah TV
+#EXTINF:-1 tvg-name="Makkah TV" tvg-logo="https://m.media-amazon.com/images/I/81DS8IEoLPL.png" group-title="MALAYSIA ALL",Makkah TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8?v=1605911909
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
