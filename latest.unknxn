@@ -78,7 +78,7 @@ https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_8b9f457013db11e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Salam_HD.png" group-title="MALAYSIA ALL",Salam HD
 https://aqfadtv.xyz/live/unifitv/salam/index.mpd
 
-#EXTINF:-1 tvg-name="Makkah TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="MALAYSIA ALL",Makkah TV
+#EXTINF:-1 tvg-name="Makkah TV" tvg-logo="https://e7.pngegg.com/pngimages/706/1020/png-clipart-kaaba-pakistan-medina-television-channel-live-television-kaaba-miscellaneous-television.png" group-title="MALAYSIA ALL",Makkah TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8?v=1605911909
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
@@ -129,8 +129,10 @@ http://kuchini.site:8080/joeBt/e229c03d/157478
 #EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MALAYSIA ALL",Astro Awani [Not 24/7]
 http://w.nasvpn.xyz:8080/live/aaaa/aaaa/4715.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39b114b7ebecd9d4a7f1c797dd885b10:8d2be29307bb382c8c6c286cc9cd07c6
 #EXTINF:-1 tvg-id="AstroCeria" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA ALL",Astro Ceria
-http://mxu03.wanicelife.com:8880/3ms040005/42284745/71080
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 #EXTINF:-1 tvg-id="TVS" tvg-name="TVS" ch-number="122" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/W5jwb9K/FCSC.png" group-title="MALAYSIA ALL",TVS (576p)
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
