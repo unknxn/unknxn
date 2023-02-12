@@ -78,7 +78,7 @@ https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_8b9f457013db11e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Salam_HD.png" group-title="MALAYSIA ALL",Salam HD
 https://aqfadtv.xyz/live/unifitv/salam/index.mpd
 
-#EXTINF:-1 tvg-name="Makkah TV" tvg-logo="https://www.makkahtv.com/wp-content/uploads/2019/08/MakkahTV.png" group-title="MALAYSIA ALL",Makkah TV
+#EXTINF:-1 tvg-name="Makkah TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="MALAYSIA ALL",Makkah TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8?v=1605911909
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
