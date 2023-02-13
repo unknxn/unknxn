@@ -464,45 +464,45 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png",Astro Arena
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png",Astro Arena
 http://kuchini.site:8080/joeBt/e229c03d/157485
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7806170b5ef2464530dcaedcbe3e9a42.jpg",Astro Arena 2
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7806170b5ef2464530dcaedcbe3e9a42.jpg",Astro Arena 2
 http://kuchini.site:8080/joeBt/e229c03d/287793
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png",Astro SuperSport
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png",Astro SuperSport
 http://kuchini.site:8080/joeBt/e229c03d/146068
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png",Astro SuperSport 2
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png",Astro SuperSport 2
 http://kuchini.site:8080/joeBt/e229c03d/157556
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png",Astro SuperSport 3
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png",Astro SuperSport 3
 http://kuchini.site:8080/joeBt/e229c03d/157557
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png",Astro SuperSport 4
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png",Astro SuperSport 4
 http://kuchini.site:8080/joeBt/e229c03d/157558
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png",Astro SuperSport 5
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png",Astro SuperSport 5
 http://kuchini.site:8080/joeBt/e229c03d/287792
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo5LD_3-2Oq3KhOzvu6aOKzqWO9MBvR5KTcgK8wJPYgQoyR67EoYuw02c4OxlFPzFq1g&usqp=CAU",BeIN Sports English 1
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo5LD_3-2Oq3KhOzvu6aOKzqWO9MBvR5KTcgK8wJPYgQoyR67EoYuw02c4OxlFPzFq1g&usqp=CAU",BeIN Sports English 1
 http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=1673204766768
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH-PWVtGbaxeD1wUc1paU4i_AKNrx_-iGNFZDijBOWfEeg0vVG7IxYnhCfMS17KdBYwQ&usqp=CAU",BeIN Sports Premium 1
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH-PWVtGbaxeD1wUc1paU4i_AKNrx_-iGNFZDijBOWfEeg0vVG7IxYnhCfMS17KdBYwQ&usqp=CAU",BeIN Sports Premium 1
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6AZdzuhjnZRBjSCtqj7D0jWWX9Dsg2DbkHl6uNaJp-IAaZ6oV-LY0EvJXzlj7dVYnLg&usqp=CAU",BeIN Sports Premium 2
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6AZdzuhjnZRBjSCtqj7D0jWWX9Dsg2DbkHl6uNaJp-IAaZ6oV-LY0EvJXzlj7dVYnLg&usqp=CAU",BeIN Sports Premium 2
 http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=1673204766768
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo5LD_3-2Oq3KhOzvu6aOKzqWO9MBvR5KTcgK8wJPYgQoyR67EoYuw02c4OxlFPzFq1g&usqp=CAU",BeIN Sports 2
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo5LD_3-2Oq3KhOzvu6aOKzqWO9MBvR5KTcgK8wJPYgQoyR67EoYuw02c4OxlFPzFq1g&usqp=CAU",BeIN Sports 2
 http://62.182.82.104/BEINSPORT_2_HD/index.m3u8?token=test&v=1673204766768
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",BeIN Sports 3
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",BeIN Sports 3
 http://62.182.82.104/BEIN_SPORT_3_HD/index.m3u8?token=test&v=1673204766768
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png",BeIN Sports 4
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png",BeIN Sports 4
 http://62.182.82.104/BEIN_SPORT_4_HD/index.m3u8?token=test&v=1673204766768
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWgBtEM5EEC-vsm0OZ2FkE9VFPr0Vf-QZXtgHPgaA-jkQ5nHBGG-eS2IOl6EAnOBdJoQ&usqp=CAU",BeIN Sports 5
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWgBtEM5EEC-vsm0OZ2FkE9VFPr0Vf-QZXtgHPgaA-jkQ5nHBGG-eS2IOl6EAnOBdJoQ&usqp=CAU",BeIN Sports 5
 http://62.182.82.104/BEIN_SPORT_5_HD/index.m3u8?token=test&v=1673204766768
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.satellitesolutions.com/images/channel-logos/BEIN6.png",BeIN Sports 6
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="https://www.satellitesolutions.com/images/channel-logos/BEIN6.png",BeIN Sports 6
 http://62.182.82.104/BEIN_SPORT_6_HD/index.m3u8?token=test&v=1673204766768
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",BeIN Sports 7
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",BeIN Sports 7
 http://62.182.82.104/BEIN_SPORT_7_HD/index.m3u8?token=test&v=1673204766768
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeE472F8qfanVMIwvEsyMwMD8_yAGqlG0bQpz28F_sVARTWMB-epLth_clROkAMA76FVQ&usqp=CAU",BeIN HD
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeE472F8qfanVMIwvEsyMwMD8_yAGqlG0bQpz28F_sVARTWMB-epLth_clROkAMA76FVQ&usqp=CAU",BeIN HD
 http://gtv01.airlinktt.co/live/smil:BEIN_SPORTS.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/112.png",BeIN Sports Extra
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/112.png",BeIN Sports Extra
 https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
 
 
@@ -510,61 +510,61 @@ https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
-#EXTINF:-1 tvg-id="821" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png",821 WWE Network HD
+#EXTINF:-1 tvg-id="821" group-title="SPORTS WORLDWIDE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png",821 WWE Network HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="SPORTS",Impact Wrestling
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="SPORTS WORLDWIDE",Impact Wrestling
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-name="IMPACT! Wrestling" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605e13c8d9eb3e1df47db303" group-title="SPORTS",IMPACT! Wrestling (1080p)
+#EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-name="IMPACT! Wrestling" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605e13c8d9eb3e1df47db303" group-title="SPORTS WORLDWIDE",IMPACT! Wrestling (1080p)
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAllEliteWrestling.us" tvg-name="Pluto TV All Elite Wrestling" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/colorLogoPNG.png" group-title="SPORTS",Pluto TV All Elite Wrestling (240p)
+#EXTINF:-1 tvg-id="PlutoTVAllEliteWrestling.us" tvg-name="Pluto TV All Elite Wrestling" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/colorLogoPNG.png" group-title="SPORTS WORLDWIDE",Pluto TV All Elite Wrestling (240p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="PlutoTVIMPACTWrestling.us" tvg-name="Pluto TV IMPACT Wrestling" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="SPORTS",Pluto TV IMPACT Wrestling (720p)
+#EXTINF:-1 tvg-id="PlutoTVIMPACTWrestling.us" tvg-name="Pluto TV IMPACT Wrestling" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="SPORTS WORLDWIDE",Pluto TV IMPACT Wrestling (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=59b722526996084038c01e1b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=734&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVProWrestling.us" tvg-name="Pluto TV Pro Wrestling" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fac431fc1ffbc0007e6b6a7/colorLogoPNG.png" group-title="SPORTS",Pluto TV Pro Wrestling (720p)
+#EXTINF:-1 tvg-id="PlutoTVProWrestling.us" tvg-name="Pluto TV Pro Wrestling" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fac431fc1ffbc0007e6b6a7/colorLogoPNG.png" group-title="SPORTS WORLDWIDE",Pluto TV Pro Wrestling (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="RingofHonorWrestling.us" tvg-name="Ring of Honor Wrestling" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RingOfHonor_400x400.png?raw=true" group-title="SPORTS",Ring of Honor Wrestling (720p)
+#EXTINF:-1 tvg-id="RingofHonorWrestling.us" tvg-name="Ring of Honor Wrestling" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RingOfHonor_400x400.png?raw=true" group-title="SPORTS WORLDWIDE",Ring of Honor Wrestling (720p)
 https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/Wpm5jV3h/AAA.png" , LUCHA LIBRE AAA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/154876f2-ed78-4a1e-959d-96aab12af9cd-small3x1_STIRR_Logo_0720_ROHBestofthePlanet_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="SPORTS", Ring of Honor (STIRR) (720p)
+#EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/154876f2-ed78-4a1e-959d-96aab12af9cd-small3x1_STIRR_Logo_0720_ROHBestofthePlanet_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="SPORTS WORLDWIDE", Ring of Honor (STIRR) (720p)
 https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/iFNScQ6.png",Redbull TV
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="https://i.imgur.com/iFNScQ6.png",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="Dimas kay https://imgur.com/gallery/ceU4rq0",FOX SPORTS 1 FULLHD
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="Dimas kay https://imgur.com/gallery/ceU4rq0",FOX SPORTS 1 FULLHD
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497613
-#EXTINF:-1 group-title="SPORTS",FootballHub
+#EXTINF:-1 group-title="SPORTS WORLDWIDE",FootballHub
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png",Fox Sport 1
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png",Fox Sport 1
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="819" group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest?cb=20190319023656",819 BeIN Sports MAX HD
+#EXTINF:-1 tvg-id="819" group-title="SPORTS WORLDWIDE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest?cb=20190319023656",819 BeIN Sports MAX HD
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6748
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png",UFC FIGHT 2
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png",UFC FIGHT 2
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bit.ly/2Tnl5GH",UFC 2
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="https://bit.ly/2Tnl5GH",UFC 2
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bit.ly/2Tnl5GH",ufc 3
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="https://bit.ly/2Tnl5GH",ufc 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bit.ly/2Tnl5GH",Sport 7
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="https://bit.ly/2Tnl5GH",Sport 7
 https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_360p/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png",MavTV
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png",MavTV
 https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
-#EXTINF:-1 group-title="SPORTS",TritonFight [HD]
+#EXTINF:-1 group-title="SPORTS WORLDWIDE",TritonFight [HD]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=726&deviceId=5812b0f2237a6ff45d16c3f9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="SPORTS",Fights TV
+#EXTINF:-1 group-title="SPORTS WORLDWIDE",Fights TV
 http://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="SPORTS",TDP
+#EXTINF:-1 group-title="SPORTS WORLDWIDE",TDP
 http://91.126.141.13:1935/live/91/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/RZE3Pwf.png",Cycle World
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="https://i.imgur.com/RZE3Pwf.png",Cycle World
 https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/AjRCYwR.png",Edge Sport (US)
+#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="https://i.imgur.com/AjRCYwR.png",Edge Sport (US)
 https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS", SURF
+#EXTINF:-1 group-title="SPORTS WORLDWIDE", SURF
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-#EXTINF:-1 group-title="SPORTS", EGAMES 
+#EXTINF:-1 group-title="SPORTS WORLDWIDE", EGAMES 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1e0ee50be2571e393ad33/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
 
 
