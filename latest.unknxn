@@ -49,8 +49,7 @@ https://stream.zeehanzgadget.com/warna
 #EXTINF:-1 tvg-id="AstroCeria" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA ALL",Astro Ceria
 https://malay.bystreamtv.workers.dev/dash-wv/linear/2606/default_primary.mpd
 #EXTINF:-1, tvg-id="AstroCitra" ch-number="108" tvg-logo="https://i.postimg.cc/fbfmTzDS/Citra.png" group-title="MALAYSIA ALL",Astro Citra
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 https://aqfadtv.xyz/live/citra/index.mpd
 
 
@@ -141,7 +140,7 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1114
 #EXTINF:-1 tvg-id="BernamaTV" ch-number="502" tvg-name="Bernama TV" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="MALAYSIA ALL",Bernama TV
-http://kuchini.site:8080/joeBt/e229c03d/264517
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 #EXTINF:-1 tvg-id="astroaura.my" tvg-name="ASTRO Aura HD" tvg-logo="http://tvmalaysia.cc:80/images/5e587cd56b42bd16285dfddb2c63c5e7.png" group-title="MALAYSIA ALL" | ASTRO",ASTRO Aura HD
 http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497634
 #EXTINF:-1 tvg-id="astrorania.my" tvg-name="ASTRO Rania HD" tvg-logo="http://tvmalaysia.cc:80/images/04b0e81075a4d2dc4d9dba2411a42b77.png" group-title="MALAYSIA ALL" | ASTRO",ASTRO Rania HD
@@ -197,8 +196,22 @@ http://kuchini.site:8080/joeBt/e229c03d/174687
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlQYDMFMQOUfgVswEQSzMuESNA2EwcwGyvlA&usqp=CAU" group-title="MOVIES",HK Movie
 http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/published/tvn-movies-horizontal-logo.jpg?1501942269" group-title="MOVIES",TVN Movie
-http://kuchini.site:8080/joeBt/e229c03d/297499
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1001
+#EXTINF:-1 tvg-logo="http://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/published/tvn-movies-horizontal-logo.jpg?1501942269" group-title="MOVIES",tvN Movies HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/USAJ30000122O_20210909T003510.png" group-title="MOVIES", K MOVIES 
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkmovies_logo_dark.png" group-title="MOVIES", NEW K.MOVIES 
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2303
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="MOVIES",AXN HD 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/607 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/KIX_HD_v1.png" group-title="MOVIES",KIX 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/607/default_primary.mpd
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f" tvg-id="5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2313e05-03e3-44df-802c-415368e9356a/MovieSphere_Plex_LogoDisplay_OnDark.png" group-title="MOVIES",MOVIESPHERE
 https://moviesphere-plex.amagi.tv/playlist.m3u8
@@ -237,8 +250,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
 
 #EXTINF:-1 group-title="ASTRO ENTERTAINMENT" tvg-logo="http://aqfad.xtgem.com/images/NatGeoWild.png", National Geographic Wild 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/600
-https://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2103 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
 #EXTINF:-1 group-title="ASTRO ENTERTAINMENT" tvg-logo="https://i.postimg.cc/PxgShYg2/Discovery-White.png", Discovery Channel 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2510 
