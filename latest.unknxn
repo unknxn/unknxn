@@ -44,6 +44,10 @@ https://aqfadtv.xyz/live/oasis/index.mpd
 https://aqfadtv.xyz/live/warna/index.mpd
 #EXTINF:-1, tvg-id="AstroWarna" tvg-logo="https://i.postimg.cc/4xTYKD86/Warna.png" group-title="MALAYSIA ALL",Astro Warna HD
 https://stream.zeehanzgadget.com/warna
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://bystream.my.id/apaantuh/astor/2606
+#EXTINF:-1 tvg-id="AstroCeria" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA ALL",Astro Ceria
+https://malay.bystreamtv.workers.dev/dash-wv/linear/2606/default_primary.mpd
 #EXTINF:-1, tvg-id="AstroCitra" ch-number="108" tvg-logo="https://i.postimg.cc/fbfmTzDS/Citra.png" group-title="MALAYSIA ALL",Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
@@ -132,10 +136,6 @@ http://kuchini.site:8080/joeBt/e229c03d/157478
 #EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MALAYSIA ALL",Astro Awani [Not 24/7]
 http://w.nasvpn.xyz:8080/live/aaaa/aaaa/4715.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
-#EXTINF:-1 tvg-id="AstroCeria" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA ALL",Astro Ceria
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 #EXTINF:-1 tvg-id="TVS" tvg-name="TVS" ch-number="122" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/W5jwb9K/FCSC.png" group-title="MALAYSIA ALL",TVS (576p)
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -159,21 +159,21 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd?10
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
-#EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="MOVIES",HBO FHD
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="MOVIES",HBO FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
 https://aqfadtv.xyz/live/hbo/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055
-#EXTINF:-1 tvg-id="hbohitshd.id" tvg-name="HBO Hits FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122" group-title="MOVIES",HBO Hits FHD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122" group-title="MOVIES",HBO Hits FHD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
-#EXTINF:-1 tvg-id="hbofamilyhd.id" tvg-name="HBO Family FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES",HBO Family FHD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES",HBO Family FHD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2305
 #EXTINF:-1 tvg-id="hitsmovies.id" tvg-name="Hits Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/652a9e2547c9b24a6a2b0eb16b43a1f1.png" group-title="MOVIES",Hits Movies
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
 #EXTINF:-1 tvg-name="Celestial Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/51e29412b2a80c8afa779e56b99dccdd.png" group-title="MOVIES",Celestial Movies
 http://kuchini.site:8080/joeBt/e229c03d/174687
@@ -185,9 +185,41 @@ http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/published/tvn-movies-horizontal-logo.jpg?1501942269" group-title="MOVIES",TVN Movie
 http://kuchini.site:8080/joeBt/e229c03d/297499
 
-
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f" tvg-id="5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2313e05-03e3-44df-802c-415368e9356a/MovieSphere_Plex_LogoDisplay_OnDark.png" group-title="MOVIES",MOVIESPHERE
 https://moviesphere-plex.amagi.tv/playlist.m3u8
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5013 https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MiUDLVa.png" group-title="KIDS",Animax
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MiUDLVa.png" group-title="KIDS",Animax
+http://kuchini.site:8080/joeBt/e229c03d/157486
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/509
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/YA86w8Q.png",Cartoon Network HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2511 
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/6c2uWsr.png",Nickelodeon HD 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9982 
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/9DgFUkc.png",Nickelodeon Junior 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5095 
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202011/20201125/202011250800095510sa.png", Dreamworks HD 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5067 
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png",Moonbug Kids 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2408 
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/J6l3ilY.png",Boomerang HD 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default.mpd
 
 
 
@@ -242,19 +274,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f0cb39b4ae1f80007bad5
 #EXTINF:-1 group-title="Knowledge&Travel" tvg-id="5317bfebff98025b3200ff99" tvg-logo="https://images.pluto.tv/channels/5317bfebff98025b3200ff99/colorLogoPNG.png" ,Slow TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5317bfebff98025b3200ff99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
-#EXTINF:-1 tvg-logo="https://mantul.org/logo/animax.png" group-title="KIDS",Animax
-http://kuchini.site:8080/joeBt/e229c03d/157486
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/509
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/YA86w8Q.png",Cartoon Network HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default.mpd
-#EXTINF:-1 group-title="KIDS", DISNEY CHANEL
-https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
-#EXTINF:-1 group-title="KIDS", MARVEL HQ
-https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
-#EXTINF:-1 group-title="KIDS", NICK HD
-https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
 
 
 
