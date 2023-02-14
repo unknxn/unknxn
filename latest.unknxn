@@ -188,8 +188,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5049 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PRIMEtime.png" group-title="MOVIES",PRIMEtime 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/506
 #EXTINF:-1 tvg-name="Celestial Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/51e29412b2a80c8afa779e56b99dccdd.png" group-title="MOVIES",Celestial Movies
+https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 http://kuchini.site:8080/joeBt/e229c03d/174687
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1160148.png" group-title="MOVIES",EN Movie
