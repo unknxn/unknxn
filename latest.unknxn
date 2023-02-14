@@ -40,8 +40,8 @@ https://aqfadtv.xyz/live/prima/index.mpd
 https://aqfadtv.xyz/live/oasis/index.mpd
 #EXTINF:-1, tvg-id="AstroWarna" tvg-logo="https://i.postimg.cc/4xTYKD86/Warna.png" group-title="MALAYSIA ALL",Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402/
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2402/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
+https://aqfadtv.xyz/live/warna/index.mpd
 #EXTINF:-1, tvg-id="AstroWarna" tvg-logo="https://i.postimg.cc/4xTYKD86/Warna.png" group-title="MALAYSIA ALL",Astro Warna HD
 https://stream.zeehanzgadget.com/warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -148,10 +148,14 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1114
 #EXTINF:-1 tvg-id="BernamaTV" ch-number="502" tvg-name="Bernama TV" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="MALAYSIA ALL",Bernama TV
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
-#EXTINF:-1 tvg-id="astroaura.my" tvg-name="ASTRO Aura HD" tvg-logo="http://tvmalaysia.cc:80/images/5e587cd56b42bd16285dfddb2c63c5e7.png" group-title="MALAYSIA ALL" | ASTRO",ASTRO Aura HD
-http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497634
-#EXTINF:-1 tvg-id="astrorania.my" tvg-name="ASTRO Rania HD" tvg-logo="http://tvmalaysia.cc:80/images/04b0e81075a4d2dc4d9dba2411a42b77.png" group-title="MALAYSIA ALL" | ASTRO",ASTRO Rania HD
-http://abc123.digital:8080/rodangel@bellsouth.net/aA2bNWgWWu/497609
+#EXTINF:-1 tvg-id="astroaura.my" tvg-name="ASTRO Aura HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="MALAYSIA ALL" | ASTRO",ASTRO Aura HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=217e77e40cf4ec1269ea1e278eb2c610&key=b2a2333955933b7dc3d71e7685971f71
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+#EXTINF:-1 tvg-id="astrorania.my" tvg-name="ASTRO Rania HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="MALAYSIA ALL" | ASTRO",ASTRO Rania HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/608
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 #EXTINF:-1 tvg-id="IQIYI" tvg-name="" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/IQIYI_%282011%2C_short%29.svg/revision/latest/scale-to-width-down/150?cb=20220607180821" group-title="MALAYSIA ALL",IQIYI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006
