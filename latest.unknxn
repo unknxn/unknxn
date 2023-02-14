@@ -41,11 +41,13 @@ https://aqfadtv.xyz/live/oasis/index.mpd
 #EXTINF:-1, tvg-id="AstroWarna" tvg-logo="https://i.postimg.cc/4xTYKD86/Warna.png" group-title="MALAYSIA ALL",Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402/
-https://aqfadtv.xyz/live/warna/index.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2402/default_ott.mpd
 #EXTINF:-1, tvg-id="AstroWarna" tvg-logo="https://i.postimg.cc/4xTYKD86/Warna.png" group-title="MALAYSIA ALL",Astro Warna HD
 https://stream.zeehanzgadget.com/warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://bystream.my.id/apaantuh/astor/2606
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606 
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" group-title="MALAYSIA ALL",,Astro Ceria HD 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
 #EXTINF:-1 tvg-id="AstroCeria" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA ALL",Astro Ceria
 https://malay.bystreamtv.workers.dev/dash-wv/linear/2606/default_primary.mpd
 #EXTINF:-1, tvg-id="AstroCitra" ch-number="108" tvg-logo="https://i.postimg.cc/fbfmTzDS/Citra.png" group-title="MALAYSIA ALL",Astro Citra
@@ -103,6 +105,10 @@ https://agsplayback01.astro.com.my/CH2/master_GOSHOP2_04.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #EXTINF:-1 group-title="MALAYSIA ALL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/211 
+#EXTINF:-1 tvg-logo="https://iili.io/1NqAMl.png" group-title="MALAYSIA ALL",Awesome TV 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 #EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" tvg-logo="https://iili.io/1NqAMl.png" group-title="MALAYSIA ALL",Awesome TV
 http://w.nasvpn.xyz:8080/live/aaaa/aaaa/7856.m3u8
 #EXTINF:-1 tvg-id="OKEY" ch-number="146" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="MALAYSIA ALL", OKEY
