@@ -392,9 +392,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
 https://aqfadtv.xyz/live/supersport/index.mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601 
-#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png", ASTRO SUPERSPORT 
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my 
-https://epg.pw/stream/9420e53ebd1e35fdeee4ceb23abc2c8d1a1a763981c4afe5b55c586b92f515a8.ctv
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png", ASTRO SUPERSPORT 1
+https://epg.pw/stream/a8ccbf38eba655fa8f3b9d355441ca9c83fc495ca98ffdd2f81f58a3a9bea89b.ctv
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104 
