@@ -59,7 +59,7 @@ https://aqfadtv.xyz/live/citra/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sensasi2022.png/revision/latest?cb=20220902052331" group-title="MALAYSIA ALL",HyppSensasi HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sensasi2022.png/revision/latest?cb=20220902052331" group-title="MALAYSIA ALL",Sensasi
 https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
@@ -70,6 +70,7 @@ https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
 #EXTINF:-1 group-title="MALAYSIA ALL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Degup.png/revision/latest?cb=20220924000615",Degup
+https://aqfadtv.xyz/clearkey/unifitv/degup/
 https://aqfadtv.xyz/live/unifitv/degup/index.mpd 
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live17.mpd
 
@@ -88,6 +89,7 @@ https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_8b9f457013db11e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/salam/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Salam_HD.png" group-title="MALAYSIA ALL",Salam HD
+http://line.premiumpowers.net:80/Manuel/1234567/571276 (http://line.premiumpowers.net/Manuel/1234567/571276)
 https://aqfadtv.xyz/live/unifitv/salam/index.mpd
 
 #EXTINF:-1 tvg-name="Makkah TV" tvg-logo="https://image.roku.com/developer_channels/prod/a00374b7955db66a10bd303cc6a642443b5fb3197e8289dd28e731e7528a204b.png" group-title="MALAYSIA ALL",Makkah TV
