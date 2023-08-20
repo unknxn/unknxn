@@ -26,6 +26,14 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8|Referer=https:
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_primary.mpd
 
+
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/28LWLFCD/Ria.png" group-title="MALAYSIA ALL",Astro Ria HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"37fb99ca61a94c889fdc758bb2a67495","kid":"f723fd2686d9ce8f76a83fac34dff9e4"}],"type":"temporary"} 
+http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/158347.m3u8 
+https://1.yurend.xyz/dash-wv/linear/1004/default_primary.mpd
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/28LWLFCD/Ria.png" group-title="MALAYSIA ALL",Astro Ria HD
 http://kuchini.site:8080/4467299f/9524ded1cd/158347
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/28LWLFCD/Ria.png" group-title="MALAYSIA ALL",Astro Ria HD
@@ -100,12 +108,6 @@ http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
 #EXTINF:-1 tvg-name="Madinah TV" tvg-logo="https://banner2.cleanpng.com/20180515/fee/kisspng-medina-mecca-television-channel-streaming-media-5afa9dd1326e53.1269584315263738412066.jpg" group-title="MALAYSIA ALL",Madinah TV
 http://m.live.net.sa:1935/live/sunnah/chunklist_w938352387.m3u8
 
-#EXTINF:-1 tvg-id="118" group-title="MALAYSIA ALL" tvg-logo="https://user-images.githubusercontent.com/85995579/128457984-94be67a9-e944-4fcd-a083-7c01d5a922b7.png",Go Shop RUUMA
-https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
-#EXTINF:-1 tvg-id="120" group-title="MALAYSIA ALL" tvg-logo="https://user-images.githubusercontent.com/85995579/128458098-5b4bb7bc-5cab-423f-b4d7-ae4376f43590.png",Go Shop GAAYA 
-https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8
-#EXTINF:-1 tvg-id="303" group-title="MALAYSIA ALL" tvg-logo="https://i.kampung.xyz/c/3c09cfb4117ed995.png", Go Shop 2
-https://agsplayback01.astro.com.my/CH2/master_GOSHOP2_04.m3u8
 #EXTINF:-1 group-title="MALAYSIA ALL" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #EXTINF:-1 group-title="MALAYSIA ALL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6 
@@ -118,15 +120,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 http://w.nasvpn.xyz:8080/live/aaaa/aaaa/7856.m3u8
 #EXTINF:-1 tvg-id="OKEY" ch-number="146" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="MALAYSIA ALL", OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
-#EXTINF:-1 tvg-id="DidikTVKPM" tvg-country="MY" tvg-language="" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MALAYSIA ALL",DidikTV KPM
-http://23.237.10.66:16405
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/ 
 #EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MALAYSIA ALL",DidikTV KPM 
 https://aqfadtv.xyz/live/didiktvkpm/index.mpd 
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
