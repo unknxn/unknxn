@@ -67,10 +67,9 @@ https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
 #EXTINF:-1 group-title="MALAYSIA ALL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Degup.png/revision/latest?cb=20220924000615",Degup
-https://aqfadtv.xyz/clearkey/unifitv/degup/
 https://aqfadtv.xyz/live/unifitv/degup/index.mpd 
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live17.mpd
 
