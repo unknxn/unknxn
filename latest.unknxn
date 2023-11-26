@@ -26,7 +26,7 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Astro_Sensasi-en.png/220px-Astro_Sensasi-en.png" group-title="MALAYSIA ALL",ASTRO Sensasi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_primary.mpd
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live17.mpd
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/28LWLFCD/Ria.png" group-title="MALAYSIA ALL",Astro Ria HD
 http://kuchini.site:8080/4467299f/9524ded1cd/158347
