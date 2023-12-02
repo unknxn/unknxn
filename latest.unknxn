@@ -107,7 +107,7 @@ https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="MALAYSIA ALL",TV AlHijrah
-https://live.mana2.my/TvAlhijrah/tracks-v2a1/2023/12/02/11/55/42-05000.ts?token=1701536066-9b68fcbad1994e28a77a506ca62110b3-0-dde8988abf3803f8340a982714160942&auth_key=1701536066-9b68fcbad1994e28a77a506ca62110b3-0-1fc4b7c77ef16e5976ba01d41173f57e
+https://live.mana2.my/TvAlhijrah/tracks-v2a1/2023/12/02/11/58/47-05000.ts?token=1701536066-9b68fcbad1994e28a77a506ca62110b3-0-dde8988abf3803f8340a982714160942&auth_key=1701536066-9b68fcbad1994e28a77a506ca62110b3-0-aaa3d89828357a6126759c46edad29d0
 #EXTINF:-1 tvg-id="TVAlhijrah" ch-number="114" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2011/01/TV-Alhijrah-Emboss.png" group-title="MALAYSIA ALL",TV AlHijrah
 https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_8b9f457013db11ed850317f9f49848aa/index.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Oj30_OSCTbA/T__hmGh2tvI/AAAAAAAACWg/d7WUGwrM7ag/w1200-h630-p-k-no-nu/tvikim-logo.png" group-title="MALAYSIA ALL",TV IKIM
