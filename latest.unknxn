@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://unifiplaytv.samsam123.tk/epg" url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz" url-tvg="https://i.mjh.nz/Plex/all.xml.gz" url-tvg="https://bit.ly/astroandunifiepg" url-tvg="https://aqfadtv.xyz/epg" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://unifiplaytv.samsam123.tk/epg" url-tvg="https://aqfadtv.xyz/epg" url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz" url-tvg="https://i.mjh.nz/Plex/all.xml.gz" url-tvg="https://bit.ly/astroandunifiepg" url-tvg="https://aqfadtv.xyz/epg" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml"
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml" 
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml" 
@@ -28,7 +28,8 @@ https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9be
 https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=76f8d8a2-642f-4940-8aa0-e23817aa61db
 #EXTINF:-1 tvg-id="filemmantap" tvg-name="" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Filem_Mantap_%282023%29.png/800px-Filem_Mantap_%282023%29.png" group-title="MALAYSIA ALL",Filem Mantap
 https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=c1957c90-e336-4fae-9e89-4c7156cb7213
-
+#EXTINF:-1 tvg-id="dunia sinema" tvg-name="duniasinema" tvg-country="MY" tvg-language="Malay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310" tvg-url="" group-title="MALAYSIA ALL",Drama Sangat
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227631/3221227631.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=OV206CNljV9HcqI%2FqaeSQUuisTUakFLgBXS84BCgKnN9%2FQPTzIk3cvvBkAOjg2SyzvCfmWXetDGDqQ7fWqUWz%2FHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240216233206%3AUTC%2C1002608836%2C210.195.240.61%2C20240216233206%2Curn:Huawei:liveTV:XTV100001461%2C1002608836%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1975382%2C0%2C880739%2C2957336947%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001&from=5&ocs=2_1.9.62.172_80&hms_devid=1800&mag_hms=1800,1795,1793,1790&mount=1000002&targetdev=1800&it=H4sIAAAAAAAAAzXMywrCMBBA0b_pMmTSxMciK6XgJghVtzKZPAjEBpNa8O-lovt77lyR_Omoe6VQUlAkpJQbCwi0sxyEw71CUqFr_mmK7jvCnNMUTXEru42HO3DGmRDAtt1lvQ0Zoxbf0Lwe1lcNfzX6uiTy2rXAFmwMY6w-4pzKxM4Z39eaf8kHqZrVv5gAAAA
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
