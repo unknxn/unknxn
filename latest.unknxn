@@ -24,6 +24,10 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 
+#EXTINF:-1 tvg-id="dramasgt" tvg-name="" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="" group-title="MALAYSIA ALL",Drama sangat
+#EXTVLCOPT:http-referrer=https://sooka.my
+https://rr2---sn-uh-30ase.googlevideo.com/videoplayback?expire=1708100890&ei=mhzPZYOmEMC9rtoP2PmrkA4&ip=2001:e68:542c:2257:bc82:69bc:8ebe:8d27&id=cf582ff6f319d905&itag=22&source=youtube&requiressl=yes&xpc=Eghovf3BOnoBAQ==&mh=1M&mm=31&mn=sn-uh-30ase&ms=au&mv=m&mvi=2&pl=48&susc=gvp&acao=yes&ctier=L&mime=video/mp4&vprv=1&dur=15.162&lmt=1707295942868065&mt=1708071461&cpn=Y_6SiIVSGZQ8ft2C&txp=6318224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,acao,ctier,mime,vprv,dur,lmt&sig=AJfQdSswRgIhANha2Coo0C-cCGyrRAZCNsXirou8Ijani5KnzpXh0hQdAiEAgag1DggjMPp0ml-U_ZfaDkE90CuvTnwGbELTg1yFy_M=&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=APTiJQcwRQIgXO_0X3lDLxgqCRcAhPaA3_l3Qr8X892OSsyIzWkkYTACIQCd5V6jLxWCcx2ALe_7HJZ2oGnAFcUuceDi8gwcQGgZJg==
+
 
 
 
