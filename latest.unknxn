@@ -24,10 +24,8 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 
-#EXTINF:-1 tvg-id="dramasgt" tvg-name="" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="" group-title="MALAYSIA ALL",Drama sangat
-#EXTVLCOPT:http-referrer=https://sooka.my
-https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=1a63824a-0c89-4eb7-a5b9-1077001fcebf.m3u8
-
+#EXTINF:-1 tvg-id="dramahebat" tvg-name="" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.ytimg.com/vi/9AFuxPzfUcg/maxresdefault.jpg" group-title="MALAYSIA ALL",Drama Hebat
+https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=76f8d8a2-642f-4940-8aa0-e23817aa61db
 
 
 
