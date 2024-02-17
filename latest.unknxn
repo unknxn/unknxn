@@ -56,14 +56,9 @@ http://m.live.net.sa:1935/live/sunnah/chunklist_w938352387.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #EXTINF:-1 group-title="MALAYSIA ALL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/211 
-#EXTINF:-1 tvg-logo="https://iili.io/1NqAMl.png" group-title="MALAYSIA ALL",Awesome TV 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
-#EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" tvg-logo="https://iili.io/1NqAMl.png" group-title="MALAYSIA ALL",Awesome TV
-http://w.nasvpn.xyz:8080/live/aaaa/aaaa/7856.m3u8
+
 #EXTINF:-1 tvg-id="OKEY" ch-number="146" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="MALAYSIA ALL", OKEY
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/ 
