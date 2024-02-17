@@ -108,37 +108,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd?10
 #EXTVLCOPT:http-referrer=https://skyios.sky4k.top
 https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"btm0l2qFSiic5iyslXpV1Q","kid":"rTyyQs3jtofiOYzSHrm9EA"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png" group-title="MALAYSIA ALL", Colors Hindi HD
-#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"URkFvxkUdLQStOwRdRWnnA", "kid":"5GNU+znCjllWvJRqwqBQEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png" group-title="MALAYSIA ALL", Colors Tamil HD
-#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CE52Vhu6nU866VOs3Tez7Q","kid":"kYrevhCphI1WfcbLWtzlEA"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="MALAYSIA ALL", Box Office Thangathirai HD
-##EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
-
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="MALAYSIA ALL",Box Office Bollyone HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"69gYPTMVhYTxIWA2TDF/+g", "kid":"+ISpLznXBMQy8lz2MzoyEA" } ], "type":"temporary" } 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="MALAYSIA ALL", RTB Sukmaindera HD
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
@@ -165,7 +134,7 @@ https://aqfadtv.xyz/live/hbo/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227992/3221227992.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=OV206CNljV9HcqI%2FqaeSQUuisTUakFLgBXS84BCgKnMTdn5%2F%2Fan3HLLzf%2B6la6lRkMvLRw0VgGC1mPjLhXZ0LvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240217001259%3AUTC%2C1002608836%2C210.195.240.61%2C20240217001259%2Curn:Huawei:liveTV:XTV64139527%2C1002608836%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1975382%2C0%2C880739%2C2957336947%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001&from=5&ocs=2_1.9.62.172_80&hms_devid=1745&mag_hms=1745,1800,1795,1788&it=H4sIAAAAAAAAAzXMywoCIRhA4bdxKWo66sJVEbSRYKpt_F4RbIZ0GujtY6L25ztLAx9PB6N8oFzxJPVAuPTODSJpF5QSWjrBJerxaWezQx5qLVO2c9jYbdzfKcEEM0axRJftdqyQDfuG9vVwsRn6V2Nsa_HRhJ7wCh1Dzi1mWMo84XOF97XVX_IBuv53YZgAAAA
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES",HBO Family FHD
