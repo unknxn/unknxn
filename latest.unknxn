@@ -28,20 +28,13 @@ https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9be
 https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=76f8d8a2-642f-4940-8aa0-e23817aa61db
 #EXTINF:-1 tvg-id="filemmantap" tvg-name="" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Filem_Mantap_%282023%29.png/800px-Filem_Mantap_%282023%29.png" group-title="MALAYSIA ALL",Filem Mantap
 https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=c1957c90-e336-4fae-9e89-4c7156cb7213
-#EXTINF:-1 tvg-id="dunia sinema" tvg-name="duniasinema" tvg-country="MY" tvg-language="Malay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310" tvg-url="" group-title="MALAYSIA ALL",Dunia Sinema
-https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227631/3221227631.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=OV206CNljV9HcqI%2FqaeSQUuisTUakFLgBXS84BCgKnN9%2FQPTzIk3cvvBkAOjg2SyzvCfmWXetDGDqQ7fWqUWz%2FHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240216233206%3AUTC%2C1002608836%2C210.195.240.61%2C20240216233206%2Curn:Huawei:liveTV:XTV100001461%2C1002608836%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1975382%2C0%2C880739%2C2957336947%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001&from=5&ocs=2_1.9.62.172_80&hms_devid=1800&mag_hms=1800,1795,1793,1790&mount=1000002&targetdev=1800&it=H4sIAAAAAAAAAzXMywrCMBBA0b_pMmTSxMciK6XgJghVtzKZPAjEBpNa8O-lovt77lyR_Omoe6VQUlAkpJQbCwi0sxyEw71CUqFr_mmK7jvCnNMUTXEru42HO3DGmRDAtt1lvQ0Zoxbf0Lwe1lcNfzX6uiTy2rXAFmwMY6w-4pzKxM4Z39eaf8kHqZrVv5gAAAA
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="MALAYSIA ALL",TV AlHijrah
 https://live.mana2.my/TvAlhijrah/tracks-v1a1/mono.m3u8?token=1708114552-a31f0add2d89460f982337e76c166d71-0-9feee0b1c122e39aa5d275284b11acad&auth_key=1708114552-a31f0add2d89460f982337e76c166d71-0-8b540242a6cbea864c4380ddf84ecf88
 #EXTINF:-1 tvg-id="TVAlhijrah" ch-number="114" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2011/01/TV-Alhijrah-Emboss.png" group-title="MALAYSIA ALL",TV AlHijrah
 https://live.mana2.my/TvAlhijrah/tracks-v1a1/mono.m3u8?token=1708114552-a31f0add2d89460f982337e76c166d71-0-9feee0b1c122e39aa5d275284b11acad&auth_key=1708114552-a31f0add2d89460f982337e76c166d71-0-8b540242a6cbea864c4380ddf84ecf88
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Oj30_OSCTbA/T__hmGh2tvI/AAAAAAAACWg/d7WUGwrM7ag/w1200-h630-p-k-no-nu/tvikim-logo.png" group-title="MALAYSIA ALL",TV IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-name="Makkah TV" tvg-logo="https://image.roku.com/developer_channels/prod/a00374b7955db66a10bd303cc6a642443b5fb3197e8289dd28e731e7528a204b.png" group-title="MALAYSIA ALL",Makkah TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
@@ -60,18 +53,12 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #EXTINF:-1 tvg-id="OKEY" ch-number="146" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="MALAYSIA ALL", OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/ 
 #EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MALAYSIA ALL",DidikTV KPM 
 https://live-streams-ssai-01.tonton.com.my/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/cmaf.isml/.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
 #EXTINF:-1 tvg-id="8TV" ch-number="148" tvg-name="8TV" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="MALAYSIA ALL",8TV
 https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
 #EXTINF:-1 tvg-id="TV9" ch-number="149" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MALAYSIA ALL",TV9
 https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
 
@@ -92,11 +79,6 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 #EXTINF:-1 tvg-id="BernamaTV" ch-number="502" tvg-name="Bernama TV" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="MALAYSIA ALL",Bernama TV
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
-
-#EXTINF:-1 tvg-id="IQIYI" tvg-name="" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/IQIYI_%282011%2C_short%29.svg/revision/latest/scale-to-width-down/150?cb=20220607180821" group-title="MALAYSIA ALL",IQIYI
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd?10
 
 #EXTINF:-1 tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png" group-title="MALAYSIA ALL",Selangor TV
 #EXTVLCOPT:network-caching=1000
