@@ -44,6 +44,7 @@ https://etslive-2-vidio-com.akamaized.net/live/6852/master.m3u8?auth=Q2ZJVFo5akN
 
 #EXTINF:-1 tvg-name="Madinah TV" tvg-logo="https://banner2.cleanpng.com/20180515/fee/kisspng-medina-mecca-television-channel-streaming-media-5afa9dd1326e53.1269584315263738412066.jpg" group-title="MALAYSIA ALL",Madinah TV
 http://m.live.net.sa:1935/live/sunnah/chunklist_w938352387.m3u8
+https://www.youtube.com/embed/live_stream?channel=UCROKYPep-UuODNwyipe6JMw&autoplay=1&rel=0&loop=0&wmode=opaque&modestbranding=1&vq=hd1080&controls=1&showinfo=1
 
 #EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani" tvg-country="MY" tvg-language="" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="MALAYSIA ALL",Astro Awani 
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
