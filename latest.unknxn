@@ -73,7 +73,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TVS_logo_%282024%29.png" group-title="MALAYSIA ALL",TVS HD
-https://live.mana2.my/TvS/tracks-v1a1/mono.m3u8?token=1708201924-a3e2655dff1f4be8818391a3d72b1d3c-0-ea01f75ac9f5c947b991c95396158760&auth_key=1708201924-a3e2655dff1f4be8818391a3d72b1d3c-0-759ff7be1b1cdeba6b7f0ecf1670e68f
+https://stream.smg.my/live/tvs_1080p2628kbs/index.m3u8
 #EXTINF:-1 tvg-id="BernamaTV" ch-number="502" tvg-name="Bernama TV" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="MALAYSIA ALL",Bernama TV
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
