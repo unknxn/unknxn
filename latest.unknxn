@@ -73,6 +73,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TVS_logo_%282024%29.png" group-title="MY",TVS HD
 https://stream.smg.my/live/tvs_1080p2628kbs/index.m3u8
 #EXTINF:-1 tvg-id="BernamaTV" ch-number="502" tvg-name="Bernama TV" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bernama_TV.png/1200px-Bernama_TV.png" group-title="MY",Bernama TV
+https://live.mana2.my/Bernama/tracks-v2a1/mono.m3u8?token=1708695009-0691f44a1cb7440e8e80642afad1f1a1-0-209daccf5b8cdc55b75067db00553bb3&auth_key=1708695009-0691f44a1cb7440e8e80642afad1f1a1-0-abc9bd90277c4568b9a94ff624943a79
 https://www.youtube.com/embed/aeqvITQknd8?enablejsapi=1&rel=0&showinfo=0&controls=1&html5=1&autoplay=1&mute=0&playsinline=1
 
 #EXTINF:-1 tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png" group-title="MY",Selangor TV
