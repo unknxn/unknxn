@@ -197,254 +197,58 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemach
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 
-
-
-
-#EXTINF:-1 group-title="ASTRO ENTERTAINMENT" tvg-logo="http://aqfad.xtgem.com/images/NatGeoWild.png", National Geographic Wild 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.com/dash-ck/linear/2103 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
-#EXTINF:-1 group-title="ASTRO ENTERTAINMENT" tvg-logo="https://i.postimg.cc/PxgShYg2/Discovery-White.png", Discovery Channel 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2510 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
-#EXTINF:-1 group-title="ASTRO ENTERTAINMENT" tvg-logo="https://user-images.githubusercontent.com/85995579/130942415-16993653-9ed9-4c56-97fd-d92dc328b31f.png", Discovery Asia 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/501 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
-#EXTINF:-1 group-title="ASTRO ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png", BBC Earth HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5051 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
-#EXTINF:-1 group-title="ASTRO ENTERTAINMENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png", History HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/604 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
-#EXTINF:-1 group-title="ASTRO ENTERTAINMENT" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4", Animal Planet HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.com/dash-ck/linear/2710 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
-#EXTINF:-1 group-title="ASTRO ENTERTAINMENT" tvg-id="TLC" tvg-logo="https://api.discovery.com/v1/images/558c1c396b66d1023309e791?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" ch-number="707",707 TLC HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2709 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
-#EXTINF:-1 group-title="ASTRO ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png", Food Network HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2300 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
-#EXTINF:-1 group-title="ASTRO ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png" , Asian Food Network HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/500 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
-#EXTINF:-1 group-title="ASTRO ENTERTAINMENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png", Crime & Investigation HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2111 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
-#EXTINF:-1 group-title="ASTRO ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png", HGTV HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2502 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
-#EXTINF:-1 group-title="ASTRO ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg", DMAX HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2610 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
-#EXTINF:-1 group-title="ASTRO ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png", BBC Lifestyle HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5050 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
-#EXTINF:-1 group-title="ASTRO ENTERTAINMENT" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210913/20210913160636492fzf.png", MTV Asia HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5014
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
-
-
-
-
-
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="5dc1cb279c91420009db261d" tvg-logo="https://images.pluto.tv/channels/5dc1cb279c91420009db261d/colorLogoPNG.png" ,Lively Place
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="5dc1cb279c91420009db261d" tvg-logo="https://images.pluto.tv/channels/5dc1cb279c91420009db261d/colorLogoPNG.png" ,Lively Place
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc1cb279c91420009db261d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="5f4ff8c8bcf3d600078af3eb" tvg-logo="https://images.pluto.tv/channels/5f4ff8c8bcf3d600078af3eb/colorLogoPNG.png" ,The Design Network
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="5f4ff8c8bcf3d600078af3eb" tvg-logo="https://images.pluto.tv/channels/5f4ff8c8bcf3d600078af3eb/colorLogoPNG.png" ,The Design Network
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4ff8c8bcf3d600078af3eb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="5d51e791b7dba3b2ae990ab2" tvg-logo="https://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" ,This Old House
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="5d51e791b7dba3b2ae990ab2" tvg-logo="https://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" ,This Old House
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="601a0342dcf4370007566891" tvg-logo="https://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG.png" ,Tiny House Nation
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="601a0342dcf4370007566891" tvg-logo="https://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG.png" ,Tiny House Nation
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/601a0342dcf4370007566891/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="5ce44810b421747ae467b7cd" tvg-logo="https://images.pluto.tv/channels/5ce44810b421747ae467b7cd/colorLogoPNG.png" ,Antiques Roadshow UK
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="5ce44810b421747ae467b7cd" tvg-logo="https://images.pluto.tv/channels/5ce44810b421747ae467b7cd/colorLogoPNG.png" ,Antiques Roadshow UK
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="5887ba337b8e94223eb121bd" tvg-logo="https://images.pluto.tv/channels/5887ba337b8e94223eb121bd/colorLogoPNG.png" ,Pluto TV Best Life
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="5887ba337b8e94223eb121bd" tvg-logo="https://images.pluto.tv/channels/5887ba337b8e94223eb121bd/colorLogoPNG.png" ,Pluto TV Best Life
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="5877acecb16bb1e042ee453f" tvg-logo="https://images.pluto.tv/channels/5877acecb16bb1e042ee453f/colorLogoPNG.png" ,Pluto TV Weddings
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="5877acecb16bb1e042ee453f" tvg-logo="https://images.pluto.tv/channels/5877acecb16bb1e042ee453f/colorLogoPNG.png" ,Pluto TV Weddings
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5877acecb16bb1e042ee453f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="599375885ceaac3cabccbed7" tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" ,Cats 24/7
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="599375885ceaac3cabccbed7" tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" ,Cats 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="5b329e0a7b9d8872aeb49ceb" tvg-logo="https://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" ,Dogs 24/7
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="5b329e0a7b9d8872aeb49ceb" tvg-logo="https://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" ,Dogs 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="5bb1ad55268cae539bcedb08" tvg-logo="https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" ,The Pet Collective
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="5bb1ad55268cae539bcedb08" tvg-logo="https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" ,The Pet Collective
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="5c58a539fae3812612f33ca3" tvg-logo="https://images.pluto.tv/channels/5c58a539fae3812612f33ca3/colorLogoPNG.png" ,Faith TV
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="5c58a539fae3812612f33ca3" tvg-logo="https://images.pluto.tv/channels/5c58a539fae3812612f33ca3/colorLogoPNG.png" ,Faith TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c58a539fae3812612f33ca3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="5d486b2eeddd9576d66f9066" tvg-logo="https://images.pluto.tv/channels/5d486b2eeddd9576d66f9066/colorLogoPNG.png" ,TBN
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="5d486b2eeddd9576d66f9066" tvg-logo="https://images.pluto.tv/channels/5d486b2eeddd9576d66f9066/colorLogoPNG.png" ,TBN
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="5a4d35dfa5c02e717a234f86" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" ,Pluto TV History
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="5a4d35dfa5c02e717a234f86" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" ,Pluto TV History
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="5f21ea08007a49000762d349" tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/colorLogoPNG.png" ,Smithsonian Channel Selects
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="5f21ea08007a49000762d349" tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/colorLogoPNG.png" ,Smithsonian Channel Selects
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="5bb3fea0f711fd76340eebff" tvg-logo="https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png" ,Pluto TV Military
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="5bb3fea0f711fd76340eebff" tvg-logo="https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png" ,Pluto TV Military
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="5812b3a4249444e05d09cc46" tvg-logo="https://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png" ,Pluto TV Cars
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="5812b3a4249444e05d09cc46" tvg-logo="https://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png" ,Pluto TV Cars
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="56b27f85ff3037045055037e" tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" ,Pluto TV Animals
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="56b27f85ff3037045055037e" tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" ,Pluto TV Animals
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="5adf96e3e738977e2c31cb04" tvg-logo="https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG.png" ,Pluto TV Paranormal
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="5adf96e3e738977e2c31cb04" tvg-logo="https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG.png" ,Pluto TV Paranormal
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="563a970aa1a1f7fe7c9daad7" tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" ,Pluto TV Science
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="563a970aa1a1f7fe7c9daad7" tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" ,Pluto TV Science
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="59c01b1953680139c6ae9d4d" tvg-logo="https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" ,Pluto TV Travel
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="59c01b1953680139c6ae9d4d" tvg-logo="https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" ,Pluto TV Travel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="589aa03df9ba56a84197a560" tvg-logo="https://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png" ,Voyager Documentaries
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="589aa03df9ba56a84197a560" tvg-logo="https://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png" ,Voyager Documentaries
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="5b6b285823ecb93393cbf766" tvg-logo="https://images.pluto.tv/channels/5b6b285823ecb93393cbf766/colorLogoPNG.png" ,Chassy
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="5b6b285823ecb93393cbf766" tvg-logo="https://images.pluto.tv/channels/5b6b285823ecb93393cbf766/colorLogoPNG.png" ,Chassy
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b6b285823ecb93393cbf766/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="5812bd9f249444e05d09cc4e" tvg-logo="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" ,Naturescape
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="5812bd9f249444e05d09cc4e" tvg-logo="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" ,Naturescape
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="5f0cb39b4ae1f80007bad585" tvg-logo="https://images.pluto.tv/channels/5f0cb39b4ae1f80007bad585/colorLogoPNG.png" ,Loupe
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="5f0cb39b4ae1f80007bad585" tvg-logo="https://images.pluto.tv/channels/5f0cb39b4ae1f80007bad585/colorLogoPNG.png" ,Loupe
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f0cb39b4ae1f80007bad585/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PlutoTV DISCOVERY" tvg-id="5317bfebff98025b3200ff99" tvg-logo="https://images.pluto.tv/channels/5317bfebff98025b3200ff99/colorLogoPNG.png" ,Slow TV
+#EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="5317bfebff98025b3200ff99" tvg-logo="https://images.pluto.tv/channels/5317bfebff98025b3200ff99/colorLogoPNG.png" ,Slow TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5317bfebff98025b3200ff99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5068 
-#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro Supersport Plus 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601 
-#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png", ASTRO SUPERSPORT 1 
-https://aqfadtv.xyz/live/supersport/index.mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601 
-#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png", ASTRO SUPERSPORT 1
-https://epg.pw/stream/a8ccbf38eba655fa8f3b9d355441ca9c83fc495ca98ffdd2f81f58a3a9bea89b.ctv
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104 
-#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png", ASTRO SUPERSPORT 2 
-https://aqfadtv.xyz/live/supersport2/index.mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104 
-#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png", ASTRO SUPERSPORT 2
-https://epg.pw/stream/0572a61ec4a4998a1c76061fd80a35351b1586fe842c06154f3ec1951632922e.ctv
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701 
-#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png", ASTRO SUPERSPORT 3 
-https://aqfadtv.xyz/live/supersport3/index.mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701 
-#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png", ASTRO SUPERSPORT 3
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
-
-#EXTINF:-1 group-title="ASTRO SPORTS" tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",Astro SuperSport 4 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506 
-EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png", ASTRO SUPERSPORT 4
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059 
-#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png", ASTRO SUPERSPORT 5 
-#http://linears-playback.astro.com.my/vsg/41xxXshDViJKDg4lhDCeKUFZNVH28Sh6f1bK2bnHROkTo=60b3/dash-wv/jitp-linearwm/5059/default.mpd 
-https://webdi.openhd.lol/ddy1/premium43/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YQSLLzY/n7f8ev1600884470.png", BEIN SPORTS EXTRA 
-https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408 
-#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png",beIN Sports HD 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5013 
-#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",beIN Sports 2 HD 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705 
-#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png",beIN Sports 3 HD 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
-
-EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/New_era_F1_logo.svg.png", FORMULA 1 
-http://93.152.174.144:4000/play/ssportsf1/index.m3u8 
-http://urtv.cc:80/penang189/penang189/6617 
-https://mbed.cc/WrJYq http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/2573
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi 
-EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV HD 
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi 
-EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",SPOTV2 HD 
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2100 
-#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png",Eurosport HD 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603 
-#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png",WWE Network HD 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1003 
-#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Golf_v1.png",Golf Channel HD 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2504 
-#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png",Astro Cricket HD 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png",Astro Arena
-http://kuchini.site:8080/joeBt/e229c03d/157485
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
-#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7806170b5ef2464530dcaedcbe3e9a42.jpg",Astro Arena 2
-https://aqfadtv.xyz/live/arena2/index.mpd
-
-#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png",Astro SuperSport
-http://kuchini.site:8080/joeBt/e229c03d/146068
-#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png",Astro SuperSport 2
-http://kuchini.site:8080/joeBt/e229c03d/157556
-#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png",Astro SuperSport 3
-http://kuchini.site:8080/joeBt/e229c03d/157557
-#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png",Astro SuperSport 4
-http://kuchini.site:8080/joeBt/e229c03d/157558
-#EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png",Astro SuperSport 5
-http://kuchini.site:8080/joeBt/e229c03d/287792
 
 #EXTINF:-1 group-title="SPORTS WORLDWIDE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo5LD_3-2Oq3KhOzvu6aOKzqWO9MBvR5KTcgK8wJPYgQoyR67EoYuw02c4OxlFPzFq1g&usqp=CAU",BeIN Sports English 1
 http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=1673204766768
