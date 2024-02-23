@@ -39,6 +39,7 @@ https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11e
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Makkah TV" tvg-logo="https://image.roku.com/developer_channels/prod/a00374b7955db66a10bd303cc6a642443b5fb3197e8289dd28e731e7528a204b.png" group-title="MY",Makkah TV
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 https://www.youtube.com/embed/hrnT2IFqyro?&autoplay=1&rel=0&loop=0&wmode=opaque&modestbranding=1&vq=hd1080&controls=1&showinfo=1
 #EXTINF:-1 tvg-name="Madinah TV" tvg-logo="https://banner2.cleanpng.com/20180515/fee/kisspng-medina-mecca-television-channel-streaming-media-5afa9dd1326e53.1269584315263738412066.jpg" group-title="MY",Madinah TV
 http://m.live.net.sa:1935/live/sunnah/chunklist_w938352387.m3u8
