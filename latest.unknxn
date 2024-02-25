@@ -8,7 +8,7 @@
 
 #EXTINF:-1 tvg-id="HyppSensasiHD" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png",HyppSensasi HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:443?deviceId=ZWI5YTcyZWMtNTlhOC0zZjlhLWJjZmQtZWI0ODg0OGFhYTVj
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:80?deviceId=ZWI5YTcyZWMtNTlhOC0zZjlhLWJjZmQtZWI0ODg0OGFhYTVj
 http://1.9.216.232/PLTV/88888888/224/3221227598/3221227598.mpd
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.postimg.cc/hjX6R5Rw/tv1my.png" group-title="MY", TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
