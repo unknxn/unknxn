@@ -8,8 +8,8 @@
 
 #EXTINF:-1 tvg-id="Degup" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065916134bcf.png",Degup
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZWI5YTcyZWMtNTlhOC0zZjlhLWJjZmQtZWI0ODg0OGFhYTVj
-http://1.9.58.102/PLTV/88888888/224/3221227590/3221227590.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=NzFjMzc1N2UtZTM1Ni0zOTk3LTkyN2QtOGUyNjFhOWFiNDZj
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227923/3221227923.mpd
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.postimg.cc/hjX6R5Rw/tv1my.png" group-title="MY", TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="MY",TV2
