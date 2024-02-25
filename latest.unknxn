@@ -109,8 +109,11 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rUUgLmT2bvNrP2D6yTzEfw", "kid":"I0HC7NPPSGWIG7D6Eofejw" } ], "type":"temporary" }
-#EXTINF:-1 group-title="MOVIES" tvg-id="Blue Ant Extreme HD" tvg-chno="474" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuVJPhQxyNlJPUtcArwIoa-0qQ1duGZ9OrW0DXooq6Q&s",Rock Action
+#EXTINF:-1 group-title="MOVIES" tvg-id="Rock Action HD" tvg-chno="474" tvg-logo="https://assets-global.website-files.com/64e81e52acfdaa1696fd623f/652f763c1fcddfc32c6860de_logo_act_web-p-500.png",Rock Action
 https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rUUgLmT2bvNrP2D6yTzEfw", "kid":"I0HC7NPPSGWIG7D6Eofejw" } ], "type":"temporary" }
+#EXTINF:-1 group-title="MOVIES" tvg-id="Rock Extreme HD" tvg-chno="475" tvg-logo="https://assets-global.website-files.com/64e81e52acfdaa1696fd623f/652f763d2cca6bed0d52c94a_logo_ext_web-p-500.png",Rock Extreme
 http://210.210.155.37/dr9445/h/h15/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QLnyUEVbQ7Oy6mhFq4Gryg", "kid":"kimBTGKbQG+N6Y0vI8looA" } ], "type":"temporary" }
