@@ -129,7 +129,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/default_primary.m
 #EXTINF:-1 tvg-id="" tvg-name="Hits Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/652a9e2547c9b24a6a2b0eb16b43a1f1.png" group-title="MOVIES",Hits Movies
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
-
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-title="MOVIES",Celestial Movies HD
 http://210.210.155.37/dr9445/h/h14/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -141,15 +140,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlQYDMFMQOUfgVswEQSzMuESNA2EwcwGyvlA&usqp=CAU" group-title="MOVIES",HK Movie
 http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="MOVIES" tvg-id="tvNMovies" tvg-chno="416" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",416 tvN Movies HD
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="MOVIES" tvg-id="tvNMovies" tvg-chno="416" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",416 tvN Movies HD
+#EXTINF:-1 group-title="MOVIES" tvg-id="tvNMovies" tvg-chno="416" tvg-logo="https://res.heraldm.com/content/image/2017/01/11/20170111000864_0.jpg",tvN Movies HD
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 http://210.210.155.37/dr9445/h/h21/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GegOzF0zchXGQATLScnLAQ", "kid":"+vTWK7iY3lA0RsKPsaqSEA" } ], "type":"temporary" }
+#EXTINF:-1 group-title="MOVIES" tvg-id="tvN" tvg-chno="395" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/300px-Logo_tvN.svg.png",tvN HD
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
+
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/USAJ30000122O_20210909T003510.png" group-title="MOVIES", K MOVIES 
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkmovies_logo_dark.png" group-title="MOVIES", NEW K.MOVIES 
