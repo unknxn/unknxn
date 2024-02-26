@@ -110,7 +110,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default_primary.m
 
 #EXTINF:-1 tvg-id="Bbc" group-title="MY" tvg-logo="https://w7.pngwing.com/pngs/393/802/png-transparent-bbc-news-online-logo-of-the-bbc-hbo-logo-television-text-rectangle-thumbnail.png",BBC HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live28-1080FHD.m3u8
-#EXTINF:-1 tvg-id="NasaTV.ba" tvg-name="NASA TV" tvg-logo="https://static.epg.best/ba/NasaTV.ba.png" tvg-chno="39" channel-id="39" tvg-group="MY" group-title="MYSG",NASA TV
+#EXTINF:-1 tvg-id="NasaTV.ba" tvg-name="NASA TV" tvg-logo="https://static.epg.best/ba/NasaTV.ba.png" tvg-chno="39" channel-id="39" tvg-group="MY" group-title="MY",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="MY", RTB Sukmaindera HD
