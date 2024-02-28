@@ -192,7 +192,7 @@ http://210.210.155.37/dr9445/h/h21/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GegOzF0zchXGQATLScnLAQ", "kid":"+vTWK7iY3lA0RsKPsaqSEA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="MOVIES" tvg-id="tvN" tvg-chno="395" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/300px-Logo_tvN.svg.png",tvN HD
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
-#EXTINF:-1 tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/0f6e289c17c04479b2b37e951344e29d/version/0/width/368/height/208/quality/80g" group-title="MOVIES",K Popcorn
+#EXTINF:-1 tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/0f6e289c17c04479b2b37e951344e29d/version/0/width/368/height/208/quality/80g" group-title="MOVIES",K.Popcorn
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayoplus-dash-sooka/c6480ead-e8fb-4095-9124-62947b7f35a5/index.mpd
 
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/USAJ30000122O_20210909T003510.png" group-title="MOVIES", K MOVIES 
@@ -267,7 +267,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5317bfebff98025b3200ff
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/iFNScQ6.png",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAq39X0pAvEoja03UtpqytAyDfqs7lVcQZ2jBsv_mi1g&s",Edgesport
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAq39X0pAvEoja03UtpqytAyDfqs7lVcQZ2jBsv_mi1g&s",EDGE Sport
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00545-edgenetworks-edgesport-dash-sooka/40e272da-aa4c-4cc7-8235-0b95804b6a13/index.mpd
 #EXTINF:0 tvg-name="WWE Network" tvg-ID="WWENetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="SPORTS",WWE Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
