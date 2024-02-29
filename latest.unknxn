@@ -54,8 +54,10 @@ https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 #EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/12bc717e3ee372f2a62e8.png" group-title="MY",Lawak Sentral
 https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZTVmYTY0NGYtNDQ4Ny0zYmNhLThlYjEtNjU3OTQ5MDc3OTU1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1cd0f33db5a826c850e0ef6ca9331a82": "207f3ac36c8d5c85395c147154d41581"}
 #EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/styles/webp/public/2023-03/unifi-streaming-apps-siar-logo.png.webp?itok=7SxXd543" group-title="MY", Siar
 https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 
