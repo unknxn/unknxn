@@ -122,7 +122,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 #EXTINF:-1 tvg-id="BERNAMA" group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png",BERNAMA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OaJ6osyEoptmX8xNv5xUtg","kid":"FAa78hjKFPlnA0/PSr93EA"}],"type":"temporary"}
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
 
 #EXTINF:-1 tvg-id="Bbc" group-title="MY" tvg-logo="https://w7.pngwing.com/pngs/393/802/png-transparent-bbc-news-online-logo-of-the-bbc-hbo-logo-television-text-rectangle-thumbnail.png",BBC HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live28-1080FHD.m3u8
