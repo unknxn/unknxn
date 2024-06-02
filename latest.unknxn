@@ -244,6 +244,8 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/Ja9Rx9p.png",My Kidz 
 http://210.210.155.37/uq2663/h/h191/index.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/9ccc772601b741d4a20c94c132a03282/version/0/width/315/height/177/quality/80" group-title="KIDS",Tayo+
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayoplus-dash-sooka/index.mpd
 
