@@ -23,18 +23,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default.mpd
 #EXTINF:-1 group-title="MY" tvg-id="AstroRia" ch-number="104" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
-https://linears-playback.astro.com.my/vsg/419VQojKc7CVIKxKhfUy8uJ555jLnnZO5TfeBakOt-WGg=rJC-/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/810/default.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="AstroWarna" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png" tvg-chno="14" channel-id="14" tvg-group="" group-title="MY",Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5127/default.mpd
 
 #EXTINF:-1 tvg-id="AstroPremier" tvg-name="AstroPremier" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Astro_Premier_flat.png/revision/latest?cb=20230918040502",Astro Premier
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/805/manifest.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
