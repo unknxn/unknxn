@@ -11,17 +11,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="MY",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist.m3u8?id=1
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J6L3HYe/XrEFrwlvtmBdlw", "kid":"Ov4w7k6iSmf+Wi7wboPbCw" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3
 https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
-https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
-#EXTINF:-1 tvg-id="dramasangat" tvg-name="dramasangat" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png" tvg-url="" group-title="MY",Drama Sangat
-#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
+
+
 #EXTINF:-1 tvg-id="TV3" group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
@@ -30,7 +23,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default.mpd
 #EXTINF:-1 group-title="MY" tvg-id="AstroRia" ch-number="104" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/104.png",Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/804/default.mpd
 
 #EXTINF:-1 tvg-id="AstroPremier" tvg-name="AstroPremier" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Astro_Premier_flat.png/revision/latest?cb=20230918040502",Astro Premier
 #KODIPROP:inputstream.adaptive.license_type=clearkey
