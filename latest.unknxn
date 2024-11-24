@@ -28,12 +28,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default.mpd
 #EXTINF:-1 tvg-id="AstroPremier" tvg-name="AstroPremier" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Astro_Premier_flat.png/revision/latest?cb=20230918040502",Astro Premier
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2004/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="AstroCitra" group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",Astro Citra
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
