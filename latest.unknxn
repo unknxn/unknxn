@@ -44,7 +44,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/808/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroOasis" tvg-name="AstroOasis" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png" tvg-chno="47" channel-id="47" group-title="MY",Astro Oasis
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
@@ -54,12 +54,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/manifest.mpd
 #EXTINF:-1 tvg-id="AstroCeria" tvg-name="AstroCeria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" tvg-chno="16" channel-id="16" tvg-group="MY" group-title="MY",Astro Ceria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V6jW+eODKIfbGOpgcRGHNg", "kid":"QaQvta9FdQHBG7mxWNWhEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="123" ch-number="123" tvg-name="Awesome TV" group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XwbW5xMzNV60uJG01fUJdQ", "kid":"IEsTi0zUlCNmh6AWzyCloQ" } ], "type":"temporary" }
