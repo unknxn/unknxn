@@ -76,10 +76,10 @@ https://cdnatv.mirack.tv/Atv/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="DuniaSinemaHD" tvg-name="DuniaSinemaHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Dunia_Sinema_Old.png/revision/latest/scale-to-width-down/1000?cb=20230119131035" group-title="MY",Dunia Sinema
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XwbW5xMzNV60uJG01fUJdQ", "kid":"IEsTi0zUlCNmh6AWzyCloQ" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="Siar" tvg-name="Siar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/SIAR_TV_logo_%282022%29.svg/revision/latest/scale-to-width-down/1000?cb=20240711133216" group-title="MY",Siar
-https://aqfadtv.xyz/live/unifitv/siar/index.mpd
+https://unifi-live02.secureswiftcontent.com/UnifiHD/live31.mpd
 
 #EXTINF:-1 tvg-id="dramahebat" tvg-name="" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://sooka.my/en/_next/image?url=https%3A%2F%2Fimages.sgp2.ott.kaltura.com%2FService.svc%2FGetImage%2Fp%2F3209%2Fentry_id%2F0b7ee488e85f40389398c3a9f60a2327%2Fversion%2F1%2Fwidth%2F500%2Fheight%2F280&w=1080&q=80" group-title="MY",Drama Hebat
 https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
