@@ -23,7 +23,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="104" tvg-name="Astro Ria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="MY" ,ASTRO RIA HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
+http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
@@ -101,9 +101,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #EXTINF:-1 tvg-id="OKEY" ch-number="146" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" group-title="MY", OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
 
-#EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MY",DidikTV KPM 
-https://live-streams-ssai-01.tonton.com.my/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/cmaf.isml/.m3u8
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -127,13 +124,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_ott.mpd
 #EXTINF:-1 tvg-id="122.astro" tvg-name="TVS" group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" ch-number="122",TVS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EVNYahpFPgNAJxSimZZFZA", "kid":"EiyEvBMJQFhslhuuZSs2EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="100.astro" tvg-name="LOL" group-title="MY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/LOL.png" ch-number="100",LOL FHD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5167/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png" group-title="MY",Selangor TV
 #EXTVLCOPT:network-caching=1000
@@ -199,7 +189,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yg0YU4hFuuLLT0oWgDbxdA", "kid":"uAkMg2HMXMXBqsDsJxDeEA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="MOVIES" tvg-id="Showcase" tvg-chno="413" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Showcase_logo.svg/revision/latest/scale-to-width-down/250?cb=20230905033417",Showcase
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
 #EXTINF:-1 ch-number="309" tvg-id="CelestialMovies" ch-number="CelestialMovies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png" group-title="MOVIES",Celestial Movies
