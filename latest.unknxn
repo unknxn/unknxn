@@ -58,6 +58,10 @@ https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live31.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-name="Inspirasi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Hypp_Inspirasi_HD.png/revision/latest?cb=20210712091503" group-logo="h" group-title="MY",Inspirasi 
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live29.mpd
 
 #EXTINF:-1 tvg-id="dramahebat" tvg-name="" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://sooka.my/en/_next/image?url=https%3A%2F%2Fimages.sgp2.ott.kaltura.com%2FService.svc%2FGetImage%2Fp%2F3209%2Fentry_id%2F0b7ee488e85f40389398c3a9f60a2327%2Fversion%2F1%2Fwidth%2F500%2Fheight%2F280&w=1080&q=80" group-title="MY",Drama Hebat
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
@@ -123,8 +127,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png" group-title="MY",Selangor TV
-https://live.mana2.my/SelangorTv/tracks-v3a1/mono.m3u8?token=1744028617-70e91ed94fad4f018e77c6ff9c69543e-0-872fa54a5ee538f2c6d071ebd84bc31e&auth_key=1744028617-70e91ed94fad4f018e77c6ff9c69543e-0-12d789a338411bc1035221660c20db73
-
+https://live.mana2.my/SelangorTv/tracks-v2a1/mono.m3u8?token=1744015386-85dbb88820d44ee6a19ca32852dc1c92-0-d9fd69381b1fcbc882afe5c5f8994723&auth_key=1744015386-85dbb88820d44ee6a19ca32852dc1c92-0-cd9cec6f8ef65376f399879676bf1e50
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Saluran_Berita_RTM.png/revision/latest/scale-to-width-down/250?cb=20200914155210" tvg-url="" group-title="MY",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
@@ -159,6 +162,11 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="1CHN" tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png",Douyu TV Movies
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
+
+#EXTINF:-1 tvg-name="Miramax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Miramax.svg" group-logo="" group-title="MOVIES", Miramax
+https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="WeTV" tvg-logo="" group-title="MOVIES", WeTV
+https://bcovlive-a.akamaihd.net/847d1aa780be4afcbf3b821ea322e74b/us-east-1/6240731308001/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E8xTWtSnMgEUeGPKw4bN0w", "kid":"79sqjTkVHMOfS1HXYs+cEA" } ], "type":"temporary" }
@@ -231,6 +239,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf8ace332fec00081e7ea2/master.m3u
 #EXTINF:-1 channel-id="pluto-tv-paranormal" channel-number="1540" tvg-logo="https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Pluto TV Paranormal" tvc-guide-description="Do you believe there’s more out there than meets the eye? Explore the unknown on Pluto TV Paranormal, featuring films and series on alien encounters, psychic phenomenon, hidden conspiracies and other things that defy explanation." group-title="PlutoTV ENTERTAINMENT", Pluto TV Paranormal
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d53e0b0-eca6-11ee-96ec-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5edb07ca-3104-4533-8edf-503f37e2a968&userId=&serverSideAds=true
 
+#EXTINF:-1 channel-id="samsung-US700011JL" tvg-id="US700011JL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700011JL_20240520T214858SQUARE.png" group-title="PlutoTV ENTERTAINMENT" tvg-chno="3060",The UnXplained with William Shatner
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63c9773e187b3c9f3581fdf8/variant.m3u8?x-plex-token=sNPs5vz1GHEz9_HzEQju&x-plex-advertising-identifier=&x-plex-client-identifier=74fdd6de-bee4-4250-9510-92ed7748a41a&x-plex-playback-id=p_20ed4c5a-0009-46ee-a6d2-4adb1b0be6ee&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=134.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1743719706&url=fd68ba61a2db4849f5e3af6883e85f4a-7c888c6cd1585e3585a7eaf4a16bedd2743f3544b0a79b978bf447e77d4d25ecaac7595797d859a0f1d0a5a2f06df95e500962650791a8309b5997abfcfc5ac1f9beabca03ce29a5a8c6313e2ab836c9e6f4672ecd6f2c45d4cc21203dd00ce8d4df7c97cbdaa5521e91545dbece81858ebeecc05890252d59a8094c1b6674e06fe5018addd51c56fb7466037ac40aaa857c264501a9d32f98c5105ea71d3a14
 
 #EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="5dc1cb279c91420009db261d" tvg-logo="https://images.pluto.tv/channels/5dc1cb279c91420009db261d/colorLogoPNG.png" ,Lively Place
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc1cb279c91420009db261d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
