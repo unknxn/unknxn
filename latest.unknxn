@@ -123,7 +123,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png" group-title="MY",Selangor TV
-
 https://live.mana2.my/SelangorTv/tracks-v3a1/mono.m3u8?token=1744028617-70e91ed94fad4f018e77c6ff9c69543e-0-872fa54a5ee538f2c6d071ebd84bc31e&auth_key=1744028617-70e91ed94fad4f018e77c6ff9c69543e-0-12d789a338411bc1035221660c20db73
 
 
@@ -223,6 +222,12 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayoplus-dash-so
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Hunters" tvg-logo="https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png" group-title="PlutoTV ENTERTAINMEN,Ghost Hunters usa
+https://stitcher.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=66fdda05-62bc-11ef-b7b7-72aa874ccba6
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Hunters" tvg-logo="https://images.pluto.tv/channels/5f27bbe4779de70007a6d1c1/colorLogoPNG.png" group-title="PlutoTV ENTERTAINMENT",Ghost Hunters uk
+https://stitcher.pluto.tv/stitch/hls/channel/5f27bbe4779de70007a6d1c1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Hunters" tvg-logo="https://images.pluto.tv/channels/65cf8ace332fec00081e7ea2/colorLogoPNG.png" group-title="PlutoTV ENTERTAINMENT",Ghost Hunters canada
+https://stitcher.pluto.tv/stitch/hls/channel/65cf8ace332fec00081e7ea2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4ef3734a-62bc-11ef-8c7c-ead3b695e131
 
 #EXTINF:-1 group-title="PlutoTV ENTERTAINMENT" tvg-id="5dc1cb279c91420009db261d" tvg-logo="https://images.pluto.tv/channels/5dc1cb279c91420009db261d/colorLogoPNG.png" ,Lively Place
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc1cb279c91420009db261d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
