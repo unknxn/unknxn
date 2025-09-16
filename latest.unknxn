@@ -91,6 +91,11 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V6jW+eODKIfbGOpgcRGHNg", "kid":"QaQvta9FdQHBG7mxWNWhEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
+#EXTINF:-1 group-title="MY" tvg-id="TVAlhijrah" tvg-chno="114" tvg-logo="https://clips.mstar.com.my/images/blob/FACB2CB9-F237-4D4D-A82E-2D5D117D936C",TV Alhijrah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live.mana2.my/TvAlhijrah/tracks-v3a1/mono.m3u8?token=1758038642-0a3bb271f01e41db92614eeda13c180a-0-d7b2cecbd99b0aa0783b575329373fde&auth_key=1758038642-0a3bb271f01e41db92614eeda13c180a-0-dc1e60cc1a98c3576a802a17e9888431
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IH86w2yNXIU5XBRxVNQVgQ", "kid":"HNDzPbWoJshQ4O9sqTMagg" } ], "type":"temporary" }
 #EXTINF:-1 group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Salam_HD.png", Unifi Salam HD
