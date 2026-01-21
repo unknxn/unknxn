@@ -16,7 +16,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist.m3u8?id=1
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV3)/master.mpd
+https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -32,9 +32,8 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV3)/master
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Edoa02jQys/+SCS2s14itw", "kid":"DLeYDp0diVf5opPtljQkEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="148.astro" tvg-name="8TV" group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" ch-number="148",8TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live-ssar-01.tonton.com.my/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
+https://mifntechnology.github.io/siaranMy/channels/Tv8/index.m3u8
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_ott.mpd
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -43,6 +42,17 @@ https://live-ssar-01.tonton.com.my/stream-8tv/master.m3u8?bpkio_serviceid=6c0958
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_ott.mpd
+
+#EXTINF:-1 tvg-id="OKEY" ch-number="146" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" group-title="MY", OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="122.astro" tvg-name="TVS" group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" ch-number="122",TVS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -97,7 +107,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 #EXTINF:-1 group-title="MY" tvg-id="TVAlhijrah" tvg-chno="114" tvg-logo="https://clips.mstar.com.my/images/blob/FACB2CB9-F237-4D4D-A82E-2D5D117D936C",TV Alhijrah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://live.mana2.my/TvAlhijrah/tracks-v3a1/mono.m3u8?token=1758038642-0a3bb271f01e41db92614eeda13c180a-0-d7b2cecbd99b0aa0783b575329373fde&auth_key=1758038642-0a3bb271f01e41db92614eeda13c180a-0-dc1e60cc1a98c3576a802a17e9888431
+https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -122,17 +132,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #EXTINF:-1 group-title="MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 tvg-id="OKEY" ch-number="146" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" group-title="MY", OKEY
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="122.astro" tvg-name="TVS" group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" ch-number="122",TVS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png" group-title="MY",Selangor TV
 https://live.mana2.my/SelangorTv/tracks-v2a1/mono.m3u8?token=1744015386-85dbb88820d44ee6a19ca32852dc1c92-0-d9fd69381b1fcbc882afe5c5f8994723&auth_key=1744015386-85dbb88820d44ee6a19ca32852dc1c92-0-cd9cec6f8ef65376f399879676bf1e50
@@ -228,10 +227,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" } 
 #EXTINF:-1 group-title="KIDS" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaM2HyvAY9aYKP_6eSHFqHvojWF7SGPIrr8skRsdXOVg&s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
 #EXTINF:-1 group-title="KIDS" tvg-id="CartoonNetwork " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png",CartoonNetwork
 https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
-
-
 
 
 
