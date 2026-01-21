@@ -32,7 +32,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV3)/master
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Edoa02jQys/+SCS2s14itw", "kid":"DLeYDp0diVf5opPtljQkEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="148.astro" tvg-name="8TV" group-title="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" ch-number="148",8TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/8tv/
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_ott.mpd
 
 
@@ -107,7 +107,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 #EXTINF:-1 group-title="MY" tvg-id="TVAlhijrah" tvg-chno="114" tvg-logo="https://clips.mstar.com.my/images/blob/FACB2CB9-F237-4D4D-A82E-2D5D117D936C",TV Alhijrah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
